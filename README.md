@@ -1,5 +1,5 @@
 ## Overview
-![alt text](CUMC-Logo.png)
+![alt text here](CUMC-Logo.png)                  
 ### Academic appointments
 #### Assistant Professor
 
@@ -11,9 +11,9 @@ Dr. Zhang is a member of the Arteriosclerosis Thrombosis and Vascular Biology (A
 ### Credentials & Experience 
 
 #### Education & Training 
-•	MB, 2003, Beijing University of Chinese Medicine, Beijing, China
-•	MS, 2006, Beijing University of Chinese Medicine, Beijing, China
-•	PhD, 2011, University of Missouri, Columbia, MO
+- MB, 2003, Beijing University of Chinese Medicine, Beijing, China
+- MS, 2006, Beijing University of Chinese Medicine, Beijing, China
+- PhD, 2011, University of Missouri, Columbia, MO
 
 
 ### Research
@@ -23,7 +23,7 @@ The Zhang laboratory in the Department of Medicine at Columbia University Medica
 
 ### Grants
 
-#### Macrophage-specific function of GWAS CAD-associated LIPA alleles in atherosclerosis. (Federal Gov)
+#### Macrophage-specific function of GWAS CAD-associated *LIPA* alleles in atherosclerosis. (Federal Gov)
 
 09/01/18-08/31/21          
 
