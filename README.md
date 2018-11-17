@@ -1,4 +1,5 @@
 ## Overview
+![alt text](CUMC-Log.png)
 ### Academic appointments
 #### Assistant Professor
 
