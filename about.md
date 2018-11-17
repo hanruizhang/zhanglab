@@ -6,4 +6,4 @@ title: About
 
 In a word: **The Laboratory of Dr. Hanrui Zhang at Columbia University**
 
-See the [Home page](/hanruizhang/README.md)
+See the [Home page](README.md)
