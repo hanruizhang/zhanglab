@@ -1,6 +1,6 @@
 ## Overview
 ![alt text here](CUMC-Logo.png)                  
-### Academic appointments
+### Academic Appointments
 #### Assistant Professor
 
 Dr. Hanrui Zhang is a macrophage biologist and cardiovascular physiologist. Her research addresses the mechanisms of cardiometabolic diseases with a specific focus on the multi-dimensional role of macrophages in lipid metabolism and innate immunity using functional genomic approaches, RNA-sequencing, human induced pluripotent stem cells (iPSCs), CRISPR/Cas9 gene editing, murine models, and immunological and molecular biological methods. The long-term goal of the Zhang laboratory is to elucidate the mechanisms and therapeutic implications of macrophage heterogeneity and plasticity in cardiometabolic diseases. 
