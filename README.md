@@ -1,5 +1,6 @@
 ## Overview
-![alt text here](CUMC-Logo.png)                  
+![alt text here](CUMC-Logo.png)
+<img src="CUMC-Logo.png" width="100" height="100">
 ### Academic Appointments
 #### Assistant Professor
 
