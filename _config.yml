@@ -1,6 +1,4 @@
-# workshop-template https://github.com/evanwill/workshop-template
-# A Jekyll template for a simple workshop website, designed for github-pages,
-# based on Minima theme https://github.com/jekyll/minima
+
 
 # Notes: 
 # - fig include, {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
@@ -8,23 +6,23 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # site settings
-title: go-go gh-pages!
-description: "Learn about GitHub pages and Jekyll."
-keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
+title: The Zhang Laboratory
+description: "The laboratory of Dr. Hanrui Zhang at Columbia University Irving Medical Center"
+keywords: "github, github-pages, websites, laboratory, macrophage"
 
 # author settings for cc-by
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: hanrui zhang
+pub_year: 2019
+github_username: hanruiclear
 
 # add the full url for the github repository
 repo: "https://github.com/hanruizhang/hanruizhang.github.io"
 
 # urls
-# your gh-pages url: https://username.github.io
+# your webpage url: https://username.github.io
 url: https://hanruizhang.github.io
 # your repository name: /repository
-baseurl: /hanruizhang.github.io
+baseurl: /ZhangLab
 
 # analytics if desired (and use environment variable on build command)
 google_analytics: UA-74844011-1
