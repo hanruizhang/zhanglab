@@ -2,6 +2,7 @@
 title: Research
 nav: true
 ---
+<img src="{{ '/images/Word_Art2.png' | absolute_url }}" alt="Heart2" style="width:45%;" >
 
 # **Research**
 
