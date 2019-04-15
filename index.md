@@ -7,10 +7,10 @@ title: Home
 
 </div>
 
-
+  
 # The Zhang Laboratory
 
-Macrophage biology and functional genomics in cardiometabolic diseases
+## Macrophage biology and functional genomics in cardiometabolic diseases
 
 				Cardiometabolic Genomics Program
 				Division of Cardiology, Department of Medicine
