@@ -6,9 +6,8 @@ nav: true
 # _**Principal Investigator**_
 
 ## Hanrui Zhang MB PhD
-<div> 
-    <img src="{{ '/images/Hanrui_Zhang_3.jpg' | absolute_url }}" alt="Hanrui_Zhang" style="width:25%;" >
-</div>
+![Hanrui_Zhang](/images/Hanrui_Zhang_3.jpg)
+
 ### Assistant Professor of Medicine 
 **Email:** hz2418@cumc.columbia.edu
 
