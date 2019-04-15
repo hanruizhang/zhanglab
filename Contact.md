@@ -5,7 +5,7 @@ nav: true
 
 <img src="/images/Banner_CUMC.png">  
 
-## Laboratory Address:
+## **Laboratory Address:**
 
 Department of Medicine – Cardiology  
 Columbia University Irving Medical Center  
