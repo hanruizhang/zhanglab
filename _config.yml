@@ -22,7 +22,7 @@ repo: "https://github.com/hanruizhang/hanruizhang.github.io"
 # your webpage url: https://username.github.io
 url: https://hanruizhang.github.io
 # your repository name: /repository
-baseurl: /ZhangLab
+baseurl: /hanruizhang.github.io
 
 # analytics if desired (and use environment variable on build command)
 google_analytics: UA-74844011-1
