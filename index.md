@@ -3,7 +3,7 @@ title: Home
 ---
 
 <div> 
-    <img src="{{ '/images/Home.pdf' | absolute_url }}" alt="Macrophages" style="width:100%;" >
+    <img src="{{ '/images/Home.gif' | absolute_url }}" alt="Macrophages" style="width:100%;" >
 
 </div>
   
