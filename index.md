@@ -19,7 +19,7 @@ Macrophage biology and functional genomics in cardiometabolic diseases
 
 
 <div class="toc" markdown="1">
-## Contents:
+
 
 {% for lesson in site.pages %}
 {% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | absolute_url }}){% endif %}
