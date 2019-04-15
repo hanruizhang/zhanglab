@@ -3,105 +3,64 @@ title: 2-Basic
 nav: true
 ---
 
-# GitHub Pages Basics
+# _**Principal Investigator**_
 
-Any GitHub repository can have a site by activating gh-pages in the settings and selecting a source branch.
-Additionally, each user and [organization](https://evanwill.github.io/_drafts/notes/github-org.html){:target="_blank"} can have one root site by creating a repository called `username.github.io` (replace username with your actual username!).
-The site will automatically appear in the github.io domain following this pattern: 
+## Hanrui Zhang MB PhD
+### Assistant Professor of Medicine 
+**Email:** hz2418@cumc.columbia.edu
 
-`https://username.github.io/repositoryname/`
+Dr. Hanrui Zhang is a macrophage biologist and cardiovascular physiologist. She completed her PhD training in 2011 at the University of Missouri. Her graduate work centered on the crosstalk between immune cells and blood vessels in diabetes-associated vascular diseases. Her postdoctoral research at the University of Pennsylvania continued to address the mechanisms of cardiometabolic diseases focusing on disease modeling using human iPS cell-derived macrophages and CRISPR. Her laboratory addresses the mechanisms of cardiometabolic diseases with a specific focus on the multi-dimensional role of macrophages in lipid metabolism and innate immunity using functional genomic approaches, RNA-sequencing, human induced pluripotent stem cells (iPSCs), CRISPR/Cas9 gene editing, murine models, and immunological and molecular biological methods. 
 
-Let's look at the basic ways to use it!
+### Education & Training
+- MB, 2003, Beijing University of Chinese Medicine, Beijing, China
+- MS, 2006, Beijing University of Chinese Medicine, Beijing, China
+- PhD, 2011, University of Missouri, Columbia, MO
+- Postdoctoral Fellow, 2016, University of Pennsylvania, Philadelphia, PA
+- Associate Research Scientist, 2018, Columbia University Irving Medical Center, New York, NY
 
-# Static HTML
+# _**Lab Members**_
 
-Any static web document can be served up from your repository. 
-If you add a `index.html` and activate gh-pages, you are ready to go! 
+## Jianting Shi MS 
+### Research Specialist
+**Email:** js5095@cumc.columbia.edu
 
-Demo: 
+My work focuses on exploring the functionality of myeloid cells and their roles in cardiometabolic diseases using genome-wide CRISPR screen and next-gen sequencing technologies.
 
-1. Create a new repository: 
-    - Click the + sign in the upper right and select *New repository*. 
-    - Give the repository a nice name
-    - Check the *Initialize this repository with a README* option
-    - Click the green *Create repository* button.
-2. Create a new `index.html` file:
-    - Click the *Create new file* button on the repository page.
-    - Name the file `index.html`.
-    - Write some HTML in the web editor! For example:
+### Education & Training
+- BE, 2010, Guangdong University of Technology, China
+- MS, 2014, UMDNJ (now Rowan University), Stratford, NJ
 
-      ```
-      <html>
-          <body>
-              <h1>Hello World!</h1>
-              <p>gh-pages rock!</p>
-          </body>
-      </html>
-      ```
-    - Scroll to the bottom, add a message, and click *Commit new file*. (You just used Git!)
-3. Activate gh-pages:
-    - Click on the repository's *Settings* tab.
-    - Scroll down to the *GitHub Pages* options.
-    - Click *Source*, select *Master branch*, and click *Save*. 
-    - Wait for a minute for gh-pages to build. The live link will appear in the options.
+## Fang Li PhD
+### Postdoctoral Scientist
+**Email:** fl2532@cumc.columbia.edu
 
-> All Markdown files in the repo will also be rendered to HTML using the default GitHub theme.
-> If there is an `index.md` or `index.html` it will be served as the index page, otherwise `README.md` will be.
+I am interested in the functional interrogation of coronary artery disease-associated loci identified by human genome-wide association studies. My current work focuses on the role of lysosomal acid lipase in atherosclerosis.
 
-# Automatic Theme Chooser
+### Education & Training
+- BSc, 2012, Northwest A&F University, China
+- PhD, 2018, Univerity of Massachusetts, Amherst, MA
 
-The Theme Chooser is a fully automated option to create a stock page for a repository using a Jekyll theme. 
-It converts [Markdown](https://daringfireball.net/projects/markdown/){:target="_blank"} files into site pages using the selected theme layout (Markdown basics are on the [Reference page](5-reference.html)).
-This is a handy way to convert a README into a slightly more attractive project home page--in seconds!  
+## Raneem Hamad
+#### Unvergraduate Research Assistant, Columbia College 2021
 
-Demo: 
+## Jeana Chun
+#### Unvergraduate Research Assistant, Columbia College 2022
 
-1. Create a new repository:
-    - Click the + sign in the upper right and select *New repository*. 
-    - Give the repository a nice name, check the *Initialize this repository with a README* option, and click the *Create* button.
-2. Edit the `README.md` file:
-    - From the repository's main page, click on the `README.md` name to open the file's page.
-    - Click on the *Edit* (pencil icon) button at the top right of the file content.
-    - Edit the content in the web editor ([markdown tips](https://evanwill.github.io/_drafts/notes/markdown-minute.html){:target="_blank"}). For example:
+## Annie Rozenblyum
+#### Unvergraduate Research Assistant, Barnard College 2022
 
-      ```
-      # Hello World! 
 
-      This is a great new site.
-      p.s. gh-pages rock!
-      ```
-    - Scroll to the bottom, add a message, and click *Commit changes*. (You just did a `git commit -m "..."`!) 
-3. Activate gh-pages:
-    - Click on the repository's *Settings* tab.
-    - Scroll down to the *GitHub Pages* options.
-    - Click *Choose theme*.
-    - Click on the theme thumbnails to get a preview, then click the *Select* button. 
-    - Wait for a minute for gh-pages to build. The live link will appear in the options.
-    - A new file `_config.yml` will appear in your repo, this is a Jekyll file and is used to set the theme (you can ignore it when using Theme Chooser).
-4. Add an image:
-    - From the repository's main page, click *Upload files* button.
-    - Drag & drop a small image file, add a commit message, and click *Commit changes*.
-    - Edit the `README.md` file, adding the image to the Markdown like: `![alt text](filename.jpg)`. Also add a link to an About page, like: `[About](about.md)`. Commit changes!
-5. Add an About page:
-    - From the repository's main page, click the *Create new file* button.
-    - Name the file `about.md`.
-    - At the top of the file add YAML Front Matter (a sign to Jekyll to process the file). Add some content and a link back to the README. For example:
 
-      ```
-      ---
-      title: About
-      ---
+# _**Lab Alumni**_
 
-      # About this project
+### Data Science Institute Scholars
+**Jiayi Shen**, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-08/2019)
 
-      In a word: **Awesome!**
+**Jianyou Liu**, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-08/2019)
 
-      See the [Home page](README.md)
-      ```
-    - Commit the changes, wait for a minute for the site to rebuild.
 
-> If you want to clean up after these tests, repositories can be deleted from the Settings tab.
-> Scroll way down to the bottom *Danger Zone* and click *Delete this repository*.
-> 
-> Another incredibly quick way to share content and documentation is to use the built in wiki feature of a GitHub repository. 
-> Just click the Wiki tab and start editing.
+
+
+
+
+
