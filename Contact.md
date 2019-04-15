@@ -3,7 +3,8 @@ title: Contact
 nav: true
 ---
 
-<img src="/images/Banner_CUMC.png">
+<img src="/images/Banner_CUMC.png">  
+
 ## Laboratory Address:
 
 Department of Medicine – Cardiology  
