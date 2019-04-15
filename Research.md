@@ -2,9 +2,9 @@
 title: Research
 nav: true
 ---
-<img src="{{ '/images/Word_Art2.png' | absolute_url }}" alt="Heart2" style="width:45%;" >
 
-# **Research**
+# **Research**  
+<img src="{{ '/images/Word_Art2.png' | absolute_url }}" alt="Heart2" style="width:30%;" >
 
 >### _The goal of the Zhang laboratory is to elucidate the mechanisms and therapeutic implications of macrophage heterogeneity and plasticity in cardiometabolic diseases._
 
