@@ -4,7 +4,7 @@ title: Home
 
 <div> 
     <img src="{{ '/CUMC-Logo.png' | absolute_url }}" alt="CUMC-Logo" style="width:45%;" >
-    <img src="{{ '/images/jekyll.png' | absolute_url }}" alt="jekyll icon" style="width:45%;" >
+
 </div>
 
 
@@ -12,9 +12,9 @@ title: Home
 
 Macrophage biology and functional genomics in cardiometabolic diseases
 
-						Cardiometabolic Genomics Program
-						Division of Cardiology, Department of Medicine
-						Columbia University Irving Medical Center
+				Cardiometabolic Genomics Program
+				Division of Cardiology, Department of Medicine
+				Columbia University Irving Medical Center
 
 
 
