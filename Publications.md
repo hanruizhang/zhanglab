@@ -3,7 +3,7 @@ title: Publications
 nav: true
 ---
 
-# Selected Publications
+# **Selected Publications**
 
 ***Corresponding Author**
 
