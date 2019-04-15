@@ -7,8 +7,8 @@ nav: true
 
 ***Corresponding Author**
 
-* Li F, **Zhang H***. [Lysosomal Acid Lipase in Lipid Metabolism and Beyond] (https://www.ahajournals.org/doi/abs/10.1161/ATVBAHA.119.312136). _Arterioscler Thromb Vasc Biol_. 2019 Mar 14:ATVBAHA119312136.
-* Shi J, Xue C, Liu W, **Zhang H***. [Differentiation of Human Induced Pluripotent Stem Cells to Macrophages For Disease Modeling and Functional Genomics] (https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpsc.74). _Current Protocols in Stem Cell Biology_. 2019 Feb;48(1):e74.
+* Li F, **Zhang H***. [Lysosomal Acid Lipase in Lipid Metabolism and Beyond](https://www.ahajournals.org/doi/abs/10.1161/ATVBAHA.119.312136). _Arterioscler Thromb Vasc Biol_. 2019 Mar 14:ATVBAHA119312136.
+* Shi J, Xue C, Liu W, **Zhang H***. [Differentiation of Human Induced Pluripotent Stem Cells to Macrophages For Disease Modeling and Functional Genomics](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpsc.74). _Current Protocols in Stem Cell Biology_. 2019 Feb;48(1):e74.
 * Westerterp M, Fotakis P, Ouimet M, Bochem AE, **Zhang H**, Molusky MM, Wang W, Abramowicz S, la Bastide-van Gemert S, Wang N, Welch CL, Reilly MP, Stroes ES, Moore KJ, Tall AR. [Cholesterol Efflux Pathways Suppress Inflammasome Activation, NETosis and Atherogenesis] (https://www.ncbi.nlm.nih.gov/pubmed/29588315). _Circulation_. 2018 Aug 28;138(9):898-912.
 * **Zhang H***, Reilly M *. [Who done it? Macrophage Mayhem in Atherosclerosis] (https://www.ncbi.nlm.nih.gov/pubmed/30359193). _Circulation Research_. 2018 Oct 26;123(10):1106-1108.
 * **Zhang H**, Xue C, Wang Y, Shi J, Zhang X, Li W, Nunez S, Foulkes AS, Lin J, Hinkle CC, Yang W, Morrisey EE, Rader DJ, Li M, and Reilly MP*. [Deep RNA-sequencing uncovers a repertoire of human macrophage lincRNAs that is modulated by macrophage activation and associates with cardiometabolic diseases] (https://www.ahajournals.org/doi/full/10.1161/JAHA.117.007431?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed). _J Am Heart Assoc_. 2017 Nov 13;6(11).
