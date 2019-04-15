@@ -50,7 +50,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 #### Unvergraduate Research Assistant, Barnard College 2022
 
 
-
+------
 # _**Lab Alumni**_
 
 ### Data Science Institute Scholars
