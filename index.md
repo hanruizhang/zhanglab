@@ -2,5 +2,4 @@
 title: Home
 ---
   
-<img src="/images/Home.gif">
-
+<img src="/images/Home.gif">  
