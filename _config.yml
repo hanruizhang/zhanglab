@@ -18,13 +18,13 @@ pub_year: 2018
 github_username: evanwill
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/go-go-ghpages"
+repo: "https://github.com/hanruizhang/hanruizhang.github.io"
 
 # urls
 # your gh-pages url: https://username.github.io
-url: https://evanwill.github.io
+url: https://hanruizhang.github.io
 # your repository name: /repository
-baseurl: /go-go-ghpages
+baseurl: /hanruizhang.github.io
 
 # analytics if desired (and use environment variable on build command)
 google_analytics: UA-74844011-1
