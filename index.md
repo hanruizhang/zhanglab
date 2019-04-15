@@ -7,7 +7,8 @@ title: Home
 
 </div>
   
-  
+<img src="/images/Home.gif">
+ 
 # The Zhang Laboratory
 
 ### Macrophage biology and functional genomics in cardiometabolic diseases
