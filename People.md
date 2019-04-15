@@ -16,7 +16,7 @@ Dr. Hanrui Zhang is a macrophage biologist and cardiovascular physiologist. She 
 - MS, 2006, Beijing University of Chinese Medicine, Beijing, China
 - PhD, 2011, University of Missouri, Columbia, MO
 - Postdoctoral Fellow, 2016, University of Pennsylvania, Philadelphia, PA
-- Associate Research Scientist, 2018, Columbia University Irving Medical Center, New York, NY
+- Associate Research Scientist, 2018, Columbia University Irving Medical Center, New York, NY   
 
 
 ------
