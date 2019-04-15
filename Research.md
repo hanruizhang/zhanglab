@@ -3,7 +3,7 @@ title: Research
 nav: true
 ---
 
-# Research
+# **Research**
 
 >### _The goal of the Zhang laboratory is to elucidate the mechanisms and therapeutic implications of macrophage heterogeneity and plasticity in cardiometabolic diseases._
 
