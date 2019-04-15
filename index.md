@@ -6,11 +6,11 @@ title: Home
     <img src="{{ '/CUMC-Logo.png' | absolute_url }}" alt="CUMC-Logo" style="width:45%;" >
 
 </div>
-
+  
   
 # The Zhang Laboratory
 
-## Macrophage biology and functional genomics in cardiometabolic diseases
+### Macrophage biology and functional genomics in cardiometabolic diseases
 
 				Cardiometabolic Genomics Program
 				Division of Cardiology, Department of Medicine
