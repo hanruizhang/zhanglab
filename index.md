@@ -3,7 +3,7 @@ title: Home
 ---
 
 <div> 
-    <img src="{{ '/CUMC-Logo.png' | absolute_url }}" alt="CUMC-Logo" style="width:45%;" >
+    <img src="{{ '/images/Home.pdf' | absolute_url }}" alt="Macrophages" style="width:100%;" >
 
 </div>
   
