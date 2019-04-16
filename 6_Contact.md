@@ -2,8 +2,9 @@
 title: Contact
 nav: true
 ---
-
-<img src="/images/Banner_CUMC.png">  
+<div> 
+  <img src="{{ '/images/Banner_CUMC.png' | absolute_url }}" alt="Banner_CUMC" >
+</div>   
 
 ## **Laboratory Address:**
 
