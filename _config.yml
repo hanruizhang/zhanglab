@@ -15,13 +15,13 @@ pub_year: 2019
 github_username: hanruizhang
 
 # add the full url for the github repository
-repo: "https://github.com/hanruizhang/hanruizhang.github.io"
+repo: "https://github.com/hanruizhang/zhanglab"
 
 # urls
 # your webpage url: https://username.github.io
 url: https://hanruizhang.github.io
 # your repository name: /repository
-baseurl: /hanruizhang.github.io
+baseurl: /zhanglab
 
 # analytics if desired (and use environment variable on build command)
 google_analytics: UA-74844011-1
