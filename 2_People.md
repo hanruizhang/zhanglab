@@ -48,13 +48,16 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - PhD, 2018, Univerity of Massachusetts, Amherst, MA
 
 ## Raneem Hamad
-#### Unvergraduate Research Assistant, Columbia College 2021
+#### Undergraduate Research Assistant, Columbia College 2021
 
 ## Jeana Chun
-#### Unvergraduate Research Assistant, Columbia College 2022
+#### Undergraduate Research Assistant, Columbia College 2022
 
 ## Annie Rozenblyum
-#### Unvergraduate Research Assistant, Barnard College 2022
+#### Undergraduate Research Assistant, Barnard College 2022
+
+## Eileen Moudou
+#### Undergraduate Research Assistant, Columbia College 2020
 
 # Data Science Institute Scholars
 **Jiayi Shen**, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-08/2019)
