@@ -1,5 +1,5 @@
 ---
-title: Research
+title: _Research
 nav: true
 ---
 
