@@ -5,7 +5,7 @@ nav: true
 
 # **Research**  
 <div> 
-  <img src="{{ '/images/Heart.gif' | absolute_url }}" alt="Heart" >
+  <img src="{{ '/images/Heart2.gif' | absolute_url }}" alt="Heart" >
 </div> 
    
 >### _The goal of the Zhang laboratory is to elucidate the mechanisms and therapeutic implications of macrophage heterogeneity and plasticity in cardiometabolic diseases._  
