@@ -56,7 +56,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Annie Rozenblyum
 #### Unvergraduate Research Assistant, Barnard College 2022
 
-## Data Science Institute Scholars
+# Data Science Institute Scholars
 **Jiayi Shen**, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-08/2019)
 
 **Jianyou Liu**, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-08/2019)
