@@ -7,7 +7,7 @@ nav: true
 <div> 
   <img src="{{ '/images/Heart2.gif' | absolute_url }}" alt="Heart" >
 </div> 
-   
+    
 >### _The goal of the Zhang laboratory is to elucidate the mechanisms and therapeutic implications of macrophage heterogeneity and plasticity in cardiometabolic diseases._  
 
 Dr. Zhang's laboratory investigates the role of macrophages in cardiometabolic diseases using human monocyte- and iPSC-derived macrophages, murine models, CRISPR gene editing and genome-wide screening, and functional genomics technologies.  
