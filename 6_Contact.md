@@ -8,6 +8,7 @@ nav: true
 
 ## **Laboratory Address:**
 
+Cardiometabolic Genomics Program  
 Department of Medicine – Cardiology  
 Columbia University Irving Medical Center  
 630 West 168th Street, PS10-401  
