@@ -1,4 +1,4 @@
-# The Zhang Laboratory
+# Zhang Lab @ Columbia
 
 The laboratory of Dr. Hanrui Zhang at Columbia University Irving Medical Center
 
