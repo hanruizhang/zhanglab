@@ -18,5 +18,5 @@ nav: true
 
 
 
-**For a complete list of publications, please visit [PubMed.gov](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/48301642/?sort=date&direction=descending)** and **[Google Scholar Citations](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7X1CyDapGJzdDnDEe-E6DBE-s9JXz75DhHIyt_My4-7-Wn2Wnu4b-6_TQeAP1WK597WTCf8wKOrbZVy3KNB0Hm5Kw6Hw&user=20tuWCkAAAAJ)**  
-Dr. Zhang's h-index is 23.
+### For a complete list of publications, please visit [PubMed.gov](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/48301642/?sort=date&direction=descending).
+### Dr. Zhang's [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7X1CyDapGJzdDnDEe-E6DBE-s9JXz75DhHIyt_My4-7-Wn2Wnu4b-6_TQeAP1WK597WTCf8wKOrbZVy3KNB0Hm5Kw6Hw&user=20tuWCkAAAAJ) h-index is 23.
