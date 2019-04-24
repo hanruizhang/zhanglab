@@ -5,7 +5,7 @@ nav: true
 <div> 
   <img src="{{ '/images/Banner_CUMC.png' | absolute_url }}" alt="Banner_CUMC" >
 </div>   
-<br/><br/>
+&nbsp;
 
 ## **Laboratory Address**
 
