@@ -8,9 +8,9 @@ nav: true
 
 ## **Laboratory Address:**
 
-Cardiometabolic Genomics Program  
-Department of Medicine – Cardiology  
-Columbia University Irving Medical Center  
+[Cardiometabolic Genomics Program](https://www.columbiacardiology.org/research/research-centers-and-programs/cardiometabolic-precision-medicine-program/research)  
+[Department of Medicine – Cardiology](https://www.columbiacardiology.org)  
+[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/)  
 630 West 168th Street, PS10-401  
 New York, NY 10032  
 United States  
