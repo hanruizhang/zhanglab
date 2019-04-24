@@ -7,7 +7,7 @@ nav: true
 </div>   
     
     
-## **Laboratory Address:**
+## **Laboratory Address**
 
 [Cardiometabolic Genomics Program](https://www.columbiacardiology.org/research/research-centers-and-programs/cardiometabolic-precision-medicine-program/research)  
 [Department of Medicine – Cardiology](https://www.columbiacardiology.org)  
