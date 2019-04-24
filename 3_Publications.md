@@ -3,9 +3,8 @@ title: Publications
 nav: true
 ---
 
-# **Selected Publications**
+# **Selected Publications**  
 
-***Corresponding Author**
 
 * Li F, **Zhang H***. [Lysosomal Acid Lipase in Lipid Metabolism and Beyond](https://www.ahajournals.org/doi/abs/10.1161/ATVBAHA.119.312136). _Arterioscler Thromb Vasc Biol_. 2019 Mar 14:ATVBAHA119312136.
 * Shi J, Xue C, Liu W, **Zhang H***. [Differentiation of Human Induced Pluripotent Stem Cells to Macrophages For Disease Modeling and Functional Genomics](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpsc.74). _Current Protocols in Stem Cell Biology_. 2019 Feb;48(1):e74.
@@ -16,7 +15,5 @@ nav: true
 * Nurnberg ST, **Zhang H**, Hand NJ, Bauer RC, Saleheen D, Reilly MP and Rader DJ. [From Loci to Biology: Functional Genomics of Genome-Wide Association for Coronary Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4863243/). _Circulation Research_. 2016;118:586-606.
 * **Zhang H**, Xue C, Shah R, Bermingham K, Hinkle CC, Li W, Rodrigues A, Tabita-Martinez J, Millar JS, Cuchel M, Pashos EE, Liu Y, Yan R, Yang W, Gosai SJ, VanDorn D, Chou ST, Gregory BD, Morrisey EE, Li M, Rader DJ, Reilly MP. [Functional analysis and transcriptomic profiling of iPSC-derived macrophages and their application in modeling Mendelian disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4565503/). _Circulation Research_. 2015 Jun 19;117(1):17-28.
 
-
-
-### **For a complete list of publications, please visit [PubMed.gov](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/48301642/?sort=date&direction=descending).**
-### **Dr. Zhang's [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7X1CyDapGJzdDnDEe-E6DBE-s9JXz75DhHIyt_My4-7-Wn2Wnu4b-6_TQeAP1WK597WTCf8wKOrbZVy3KNB0Hm5Kw6Hw&user=20tuWCkAAAAJ) h-index is 23.**
+***Corresponding Author**
+### **For a complete list of publications, please visit [PubMed.gov](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/48301642/?sort=date&direction=descending).** **Dr. Zhang's [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7X1CyDapGJzdDnDEe-E6DBE-s9JXz75DhHIyt_My4-7-Wn2Wnu4b-6_TQeAP1WK597WTCf8wKOrbZVy3KNB0Hm5Kw6Hw&user=20tuWCkAAAAJ) h-index is 23.**
