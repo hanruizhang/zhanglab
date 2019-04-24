@@ -3,7 +3,7 @@ title: People
 nav: true
 ---
 
-# _**Principal Investigator**_
+# **Principal Investigator**
 
 ## Hanrui Zhang MB PhD
 <div> 
@@ -26,7 +26,7 @@ Dr. Hanrui Zhang is a macrophage biologist and cardiovascular physiologist. She 
 
 ------
 
-# _**Lab Members**_
+# **Lab Members**
 
 ## Jianting Shi MS 
 ### Research Specialist
