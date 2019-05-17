@@ -11,6 +11,7 @@ nav: true
      
 ## **Lab News**
 #### **Fang has received an _ATVB Travel Award for Young Investigators_ and an _Outstanding Poster Award_ !** At Vascular Discovery 2019 Scientific Sessions in Boston, MA. [2019/05/16]        
-<img src="{{ '/images/2019ATVB_TravelAward.jpg' | absolute_url }}" alt="2019ATVB_TravelAward" width="200">     
+<img src="{{ '/images/2019ATVB_TravelAward.jpg' | absolute_url }}" alt="2019ATVB_TravelAward" width="200">
+   
 #### **Dr. Fang Li joined the lab as a Postdoctoral Scientist.** [2018/11/15]       
 #### **Lab officially starts! And Jianting Shi joined the lab!** [2018/07/01]    
