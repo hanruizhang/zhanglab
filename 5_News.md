@@ -11,8 +11,7 @@ nav: true
      
 ## **Lab News**
 #### **Welcome our summer undergraduate student researchers!** [2019/05/20]
-Congratulations to Raneem Hamad, Jeana Chun, and Annie Rozenblyum for receiving scholarships to do research in the lab. Looking forwrad to a rewarding summer.
-
+Congratulations to Raneem Hamad, Jeana Chun, and Annie Rozenblyum for receiving scholarships to do research in the lab this summer. We look forward to having you!   
 #### **Fang has received an _ATVB Travel Award for Young Investigators_ and an _Outstanding Poster Award_ !** @ Vascular Discovery 2019 Scientific Sessions in Boston, MA. [2019/05/16]        
 <img src="{{ '/images/2019ATVB_TravelAward.jpg' | absolute_url }}" alt="2019ATVB_TravelAward" width="200">
    
