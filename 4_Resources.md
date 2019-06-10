@@ -1,5 +1,5 @@
 ---
-title: Protocols
+title: Resources
 nav: true
 ---
 
