@@ -12,4 +12,4 @@ The RNA-seq data of isogenic IPSDM and HMDM can be visualized in the UCSC genome
 
 # **Data analysis workflow**
 ### [RNA-seq data analysis workflow](https://hanruizhang.github.io/RNAseq-analysis-workflow/)
-### [Pathway and network analysis workflow] (https://hanruizhang.github.io/pathway-network-analysis-workflow/)
+### [Pathway and network analysis workflow](https://hanruizhang.github.io/pathway-network-analysis-workflow/)
