@@ -5,7 +5,7 @@ nav: true
 
 # **Principal Investigator**
 
-## Hanrui Zhang MB PhD
+## Hanrui Zhang, MB PhD
 <div> 
   <img src="{{ '/images/Hanrui_Zhang_3.jpg' | absolute_url }}" alt="Hanrui_Zhang" width="200">
 </div>  
@@ -29,7 +29,7 @@ nav: true
 
 # **Lab Members**
 
-## Jianting Shi MS 
+## Jianting Shi, MS 
 ### Research Specialist
 **Email:** js5095@cumc.columbia.edu
 
@@ -39,7 +39,7 @@ My work focuses on exploring the functionality of myeloid cells and their roles 
 - BE, 2010, Guangdong University of Technology, China
 - MS, 2014, UMDNJ (now Rowan University), Stratford, NJ
 
-## Fang Li PhD
+## Fang Li, PhD
 ### Postdoctoral Scientist
 **Email:** fl2532@cumc.columbia.edu
 
@@ -49,7 +49,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - BSc, 2011, Northwest A&F University, China
 - PhD, 2018, Univerity of Massachusetts, Amherst, MA
 
-## Xun Wu PhD
+## Xun Wu, PhD
 ### Postdoctoral Scientist
 **Email:** 
 
