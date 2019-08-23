@@ -6,7 +6,7 @@ nav: true
 # **Selected Publications**  
 
 ***Corresponding Author**   
-* Li F, Shi J, Lu HS, **Zhang H***.[Functional Genomics and CRISPR Applied to Cardiovascular Research and Medicine](https://www.ahajournals.org/doi/10.1161/ATVBAHA.119.312579). _Arterioscler Thromb Vasc Biol_. 2019 Sep;39(9):e188-e194.
+* Li F, Shi J, Lu HS, **Zhang H***. [Functional Genomics and CRISPR Applied to Cardiovascular Research and Medicine](https://www.ahajournals.org/doi/10.1161/ATVBAHA.119.312579). _Arterioscler Thromb Vasc Biol_. 2019 Sep;39(9):e188-e194.
 * Li F, **Zhang H***. [Lysosomal Acid Lipase in Lipid Metabolism and Beyond](https://www.ahajournals.org/doi/abs/10.1161/ATVBAHA.119.312136). _Arterioscler Thromb Vasc Biol_. 2019 May;39(5):850-856.
 * Shi J, Xue C, Liu W, **Zhang H***. [Differentiation of Human Induced Pluripotent Stem Cells to Macrophages For Disease Modeling and Functional Genomics](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpsc.74). _Current Protocols in Stem Cell Biology_. 2019 Feb;48(1):e74.
 * Westerterp M, Fotakis P, Ouimet M, Bochem AE, **Zhang H**, Molusky MM, Wang W, Abramowicz S, la Bastide-van Gemert S, Wang N, Welch CL, Reilly MP, Stroes ES, Moore KJ, Tall AR. [Cholesterol Efflux Pathways Suppress Inflammasome Activation, NETosis and Atherogenesis](https://www.ncbi.nlm.nih.gov/pubmed/29588315). _Circulation_. 2018 Aug 28;138(9):898-912.
