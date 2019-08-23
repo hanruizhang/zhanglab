@@ -76,7 +76,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ------
 # **Lab Alumni**
 ## Undergraduate Researchers
-Eileen Moudou, Columbia College 2020 (01/2019-05/2019)
+Eileen Moudou, Columbia College 2020 (01/2019-05/2019)         
 Yolanda Jean-Baptiste, BS, Fellow of the NERA Program (06/2019-07/2019)
 
 ## Data Science Institute Scholars
