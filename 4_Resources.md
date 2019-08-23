@@ -4,6 +4,7 @@ nav: true
 ---
 
 # **Data analysis workflow**
+Materials here are licensed as [CC BY-NC-SA 4.0 Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/).   
 ### [RNA-seq data analysis workflow](https://hanruizhang.github.io/RNAseq-analysis-workflow/)
 ### [Pathway and network analysis workflow](https://hanruizhang.github.io/Pathway-Network-Analysis/)
 
@@ -14,6 +15,6 @@ We published the **[protocol](https://currentprotocols.onlinelibrary.wiley.com/d
 
 The RNA-seq data of isogenic IPSDM and HMDM can be visualized in the UCSC genome browser by adding track hub using URL **https://de.cyverse.org/anon-files/iplant/home/chenyix/trackhub/GENEiPS_scaled/hub.txt** or through the following **[link](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=https://de.cyverse.org/anon-files/iplant/home/chenyix/trackhub/GENEiPS_scaled/hub.txt)**. The original RNA-seq data are available from the NCBI Gene Expression Omnibus (GEO) under the accession number [GSE55536](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE55536).
 
-**Some users may find access to the above URL site is intermittent. Please try at a different time or contact hz2418@cumc.columbia.edu if you continue to have problem.**
+* **Some users may find access to the above URL site is intermittent. Please try at a different time or contact hz2418@cumc.columbia.edu if you continue to have problem.**
 
 
