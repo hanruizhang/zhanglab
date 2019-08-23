@@ -74,6 +74,8 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 #### Data Science Institute Scholar, MS in Biostatistics, Columbia University Mailman School of Public Health
 
 ------
+&nbsp;
+
 # **Lab Alumni**
 ## Undergraduate Researchers
 Eileen Moudou, Columbia College 2020 (01/2019-05/2019)         
