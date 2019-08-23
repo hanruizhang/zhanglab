@@ -10,9 +10,7 @@ Materials here are licensed as [CC BY-NC-SA 4.0 Creative Commons License](https:
 ### [RNA-seq data analysis workflow](https://hanruizhang.github.io/RNAseq-analysis-workflow/)
 ### [Pathway and network analysis workflow](https://hanruizhang.github.io/Pathway-Network-Analysis/)
         
-        
-------
-&nbsp;
+      
 
 # **Protocols**
 ### [**Human induced pluripotent stem cell to macrophage differentiation**](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpsc.74)
