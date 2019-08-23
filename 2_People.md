@@ -46,8 +46,17 @@ My work focuses on exploring the functionality of myeloid cells and their roles 
 I am interested in the functional interrogation of coronary artery disease-associated loci identified by human genome-wide association studies. My current work focuses on the role of lysosomal acid lipase in atherosclerosis.
 
 ### Education & Training
-- BSc, 2012, Northwest A&F University, China
+- BSc, 2011, Northwest A&F University, China
 - PhD, 2018, Univerity of Massachusetts, Amherst, MA
+
+## Xun Wu PhD
+### Postdoctoral Scientist
+**Email:** 
+
+### Education & Training
+- BSc, 2011, Anhui Science and technology university, China
+– MSc, 2014, Anhui University, China
+- PhD, 2019, Chinese Academy of Sciences, China
 
 ## Raneem Hamad
 #### Undergraduate Research Assistant, Columbia College 2021
@@ -58,14 +67,20 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Annie Rozenblyum
 #### Undergraduate Research Assistant, Barnard College 2022
 
-## Eileen Moudou
-#### Undergraduate Research Assistant, Columbia College 2020
+## Jiayi Shen
+#### Data Science Institute Scholar, MS in Biostatistics, Columbia University Mailman School of Public Health
 
-# Data Science Institute Scholars
-**Jiayi Shen**, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-07/2019)
+## Jianyou Liu
+#### Data Science Institute Scholar, MS in Biostatistics, Columbia University Mailman School of Public Health
 
-**Jianyou Liu**, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-07/2019)
+------
+# **Lab Alumni**
+## Undergraduate Researchers
+Eileen Moudou, Columbia College 2020 (01/2019-05/2019)
+Yolanda Jean-Baptiste, BS, Fellow of the NERA Program (06/2019-07/2019)
 
+## Data Science Institute Scholars
+Goey Zihui Gu, Data Science Institute Scholar, MS in Data Science, Columbia University (09/2018-12/2018)
 
 
 
