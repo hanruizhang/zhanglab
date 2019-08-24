@@ -54,8 +54,8 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 **Email:** 
 
 ### Education & Training
-- BSc, 2011, Anhui Science and technology university, China.   
-– MSc, 2014, Anhui University, China   
+- BSc, 2011, Anhui Science and technology university, China         
+- MSc, 2014, Anhui University, China   
 - PhD, 2019, Chinese Academy of Sciences, China    
 
 ## Raneem Hamad
