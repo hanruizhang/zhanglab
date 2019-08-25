@@ -10,7 +10,7 @@ nav: true
 
      
 ## **Lab News**
-#### **Dr. Xun Wu, a recipient of _The Russell Berrie Foundation Scholar Award_, joined the lab as a Postdoctoral Scientist.** [2019/09/01]   
+#### **Dr. Xun Wu, recipient of _The Russell Berrie Foundation Scholar Award_, joined the lab as a Postdoctoral Scientist.** [2019/09/01]   
 #### **Congratulations to our summer undergraduate student researchers!** [2019/08/23]
 Thanks our undergraduate interns for their contributions this summer! @ Raneem Hamad (Columbia College Summer Fund), Jeana Chun (Recipient of Grossman Family Internship Fund), Annie Rozenblyum (Barnard Summer Research Institute Scholarship), and Yolanda Baptiste (Fellow of the NERA Program).      
 #### **Fang has received an _ATVB Travel Award for Young Investigators_ and an _Outstanding Poster Award_ !** @ Vascular Discovery 2019 Scientific Sessions in Boston, MA. [2019/05/16]        
