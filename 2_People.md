@@ -46,7 +46,7 @@ My work focuses on exploring the functionality of myeloid cells and their roles 
 I am interested in the functional interrogation of coronary artery disease-associated loci identified by human genome-wide association studies. My current work focuses on the role of lysosomal acid lipase in atherosclerosis.
 
 ### Education & Training
-- BSc, 2011, Northwest A&F University, China
+- BSc, 2012, Northwest A&F University, China
 - PhD, 2018, Univerity of Massachusetts, Amherst, MA
 
 ## Xun Wu, PhD
