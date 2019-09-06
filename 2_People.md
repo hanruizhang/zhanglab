@@ -51,7 +51,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 ## Xun Wu, PhD
 ### Postdoctoral Scientist
-**Email:** 
+**Email:** xw2698@cumc.columbia.edu
 
 ### Education & Training
 - BSc, 2011, Anhui Science and technology university, China         
