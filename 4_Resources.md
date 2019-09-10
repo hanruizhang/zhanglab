@@ -3,7 +3,7 @@ title: Resources
 nav: true
 ---
 
-Materials here are licensed as [CC BY-NC-SA 4.0 Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+    
 
 # **Data analysis workflow**
     
