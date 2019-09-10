@@ -6,11 +6,10 @@ nav: true
 Materials here are licensed as [CC BY-NC-SA 4.0 Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
 # **Data analysis workflow**
-   
-### [RNA-seq data analysis workflow](https://hanruizhang.github.io/RNAseq-analysis-workflow/)
-### [Pathway and network analysis workflow](https://hanruizhang.github.io/Pathway-Network-Analysis/)
+    
 ### [Functional genomic tools and fundamentals](https://hanruizhang.github.io/Functional-Genomic-Tools/)
-        
+### [RNA-seq data analysis workflow](https://hanruizhang.github.io/RNAseq-analysis-workflow/)
+### [Pathway and network analysis workflow](https://hanruizhang.github.io/Pathway-Network-Analysis/)        
       
 
 # **Protocols**
