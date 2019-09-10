@@ -7,9 +7,9 @@ nav: true
 
 # **Data analysis workflow**
     
-### [Functional genomic tools and fundamentals](https://hanruizhang.github.io/Functional-Genomic-Tools/)
-### [RNA-seq data analysis workflow](https://hanruizhang.github.io/RNAseq-analysis-workflow/)
-### [Pathway and network analysis workflow](https://hanruizhang.github.io/Pathway-Network-Analysis/)        
+### [Functional genomic tools and fundamentals](https://hanruizhang.github.io/Functional-Genomic-Tools/Functional_Genomics_Tools.html) by Jianting
+### [RNA-seq data analysis workflow](https://hanruizhang.github.io/RNAseq-analysis-workflow/) by Hanrui
+### [Pathway and network analysis workflow](https://hanruizhang.github.io/Pathway-Network-Analysis/) by Hanrui      
       
 
 # **Protocols**
