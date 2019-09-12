@@ -11,7 +11,9 @@ nav: true
 ### [RNA-seq data analysis workflow](https://hanruizhang.github.io/RNAseq-analysis-workflow/) by Hanrui
 ### [Pathway and network analysis workflow](https://hanruizhang.github.io/Pathway-Network-Analysis/) by Hanrui  
 ### [Functional genomic tools and fundamentals](https://hanruizhang.github.io/Functional-Genomic-Tools/Functional_Genomics_Tools.html) by **Jianting**
-      
+ 
+------
+&nbsp;
 
 # **Protocols**
 ### [**Human induced pluripotent stem cell to macrophage differentiation**](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpsc.74)
