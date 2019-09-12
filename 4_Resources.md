@@ -7,7 +7,7 @@ nav: true
 
 # **Data analysis workflow**
     
-### [GWAS-eQTL colocalization analysis workflow](https://hanruizhang.github.io/GWAS-eQTL-Colocalization-Analysis/) by **Fang Li**
+### [GWAS-eQTL colocalization analysis workflow](https://hanruizhang.github.io/GWAS-eQTL-Colocalization/) by **Fang Li**
 ### [RNA-seq data analysis workflow](https://hanruizhang.github.io/RNAseq-analysis-workflow/) by Hanrui
 ### [Pathway and network analysis workflow](https://hanruizhang.github.io/Pathway-Network-Analysis/) by Hanrui  
 ### [Functional genomic tools and fundamentals](https://hanruizhang.github.io/Functional-Genomic-Tools/Functional_Genomics_Tools.html) by **Jianting**
