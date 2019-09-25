@@ -40,6 +40,9 @@ My work focuses on exploring the functionality of myeloid cells and their roles 
 - MS, 2014, UMDNJ (now Rowan University), Stratford, NJ
 
 ## Fang Li, PhD
+<div> 
+  <img src="{{ '/images/Fang_Li.jpg' | absolute_url }}" alt="Fang_Li" width="160">
+</div>
 ### Postdoctoral Scientist
 **Email:** fl2532@cumc.columbia.edu
 
