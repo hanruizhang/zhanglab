@@ -53,6 +53,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - PhD, 2018, Univerity of Massachusetts, Amherst, MA
 
 ## Xun Wu, PhD
+<div> 
+  <img src="{{ '/images/Xun_Wu.jpg' | absolute_url }}" alt="Xun_Wu" width="160">
+</div>
 ### Postdoctoral Scientist
 **Email:** xw2698@cumc.columbia.edu
 
