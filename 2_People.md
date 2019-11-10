@@ -91,7 +91,7 @@ Eileen Moudou, Columbia College 2020 (01/2019-05/2019)
 Yolanda Jean-Baptiste, BS, Fellow of the NERA Program (06/2019-07/2019)
 
 ## Columbia Data Science Institute (DSI) Scholars
-Joey Zihui Gu, MS in Data Science, Columbia University (09/2018-12/2018)
+Joey Zihui Gu, MS in Data Science, Columbia University (09/2018-12/2018)     
 Jiayi Shen, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-07/2019)     
 Jianyou Liu, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-07/2019)     
 
