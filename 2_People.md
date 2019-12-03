@@ -79,8 +79,8 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Sufang Li, PhD
 #### Visiting Scholar, Beijing University Renmin Hospital
 
-## Yujiao Meng, PhD Student, CSC awardee
-#### Visiting PhD Student, Beijing University of Chinese Medicine
+## Yujiao Meng
+#### Visiting PhD Student, CSC Awardee, Beijing University of Chinese Medicine
 
 ## Joy Hsu
 #### Data Science Institute Scholar, MS in Biostatistics, Columbia University Mailman School of Public Health
