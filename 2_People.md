@@ -46,7 +46,7 @@ My work focuses on exploring the functionality of myeloid cells and their roles 
 <div> 
   <img src="{{ '/images/Fang_Li.jpg' | absolute_url }}" alt="Fang_Li" width="160">
 </div>
-### Postdoctoral Scientist
+### Postdoctoral Scientist, AHA Fellow
 **Email:** fl2532@cumc.columbia.edu
 
 I am interested in the functional interrogation of coronary artery disease-associated loci identified by human genome-wide association studies. My current work focuses on the role of lysosomal acid lipase in atherosclerosis.
@@ -59,7 +59,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 <div> 
   <img src="{{ '/images/Xun_Wu.jpg' | absolute_url }}" alt="Xun_Wu" width="160">
 </div>
-### Postdoctoral Scientist
+### Postdoctoral Scientist, Berrie Diabetes Scholar
 **Email:** xw2698@cumc.columbia.edu
 
 ### Education & Training
@@ -78,6 +78,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 ## Sufang Li, PhD
 #### Visiting Scholar, Beijing University Renmin Hospital
+
+## Yujiao Meng, PhD Student, CSC awardee
+#### Visiting PhD Student, Beijing University of Chinese Medicine
 
 ## Joy Hsu
 #### Data Science Institute Scholar, MS in Biostatistics, Columbia University Mailman School of Public Health
