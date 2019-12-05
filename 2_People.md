@@ -18,7 +18,9 @@ nav: true
 **[Dr. Hanrui Zhang](https://www.columbiacardiology.org/profile/hanrui-zhang-phd)** is a macrophage biologist and cardiovascular physiologist. She completed her PhD training in 2011 at the University of Missouri. Her graduate work centered on the crosstalk between immune cells and blood vessels in diabetes-associated vascular diseases. Her postdoctoral research at the University of Pennsylvania continued to address the mechanisms of cardiometabolic diseases focusing on macrophage lipid metabolism and inflammation using gene targeting in human induced pluripotent stem cells (iPSC) with differentiation to macrophages. Her laboratory at Columbia University Irving Medical Center seeks to understand the dynamic role of macrophages in cardiometabolic diseases with the aim of finding novel mechanisms and new treatments.
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8655-938X" href="https://orcid.org/0000-0001-8655-938X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8655-938X</a></div>
 
+<a href="https://twitter.com/hanrui_zhang?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @hanrui_zhang</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+     
 ### Education & Training
 - MB, 2003, Beijing University of Chinese Medicine, Beijing, China
 - MS, 2006, Beijing University of Chinese Medicine, Beijing, China
