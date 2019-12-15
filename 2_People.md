@@ -24,9 +24,9 @@ nav: true
 ### Education & Training
 - MB, 2003, Beijing University of Chinese Medicine, Beijing, China
 - MS, 2006, Beijing University of Chinese Medicine, Beijing, China
-- PhD, 2011, University of Missouri, Columbia, MO
-- Postdoctoral Fellow, 2016, University of Pennsylvania, Philadelphia, PA
-- Associate Research Scientist, 2018, Columbia University Irving Medical Center, New York, NY   
+- PhD, 2011, University of Missouri, Columbia, MO (AHA Predoctoral Fellow, NIH R90 Trainee)   
+- Postdoctoral Fellow, 2016, University of Pennsylvania, Philadelphia, PA (AHA Postdoctoral Fellow)   
+- Associate Research Scientist, 2018, Columbia University Irving Medical Center, New York, NY (NHLBI K99/R00)
 
 
 ------
@@ -48,7 +48,7 @@ My work focuses on exploring the functionality of myeloid cells and their roles 
 <div> 
   <img src="{{ '/images/Fang_Li.jpg' | absolute_url }}" alt="Fang_Li" width="160">
 </div>
-### Postdoctoral Scientist, AHA Fellow
+### Postdoctoral Scientist, AHA Postdoctoral Fellow
 **Email:** fl2532@cumc.columbia.edu
 
 I am interested in the functional interrogation of coronary artery disease-associated loci identified by human genome-wide association studies. My current work focuses on the role of lysosomal acid lipase in atherosclerosis.
