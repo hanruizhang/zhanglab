@@ -55,7 +55,7 @@ My work focuses on exploring the functionality of myeloid cells and their roles 
 **Email:** fl2532@cumc.columbia.edu
 
 I am interested in the functional interrogation of coronary artery disease-associated loci identified by human genome-wide association studies. My current work focuses on the role of lysosomal acid lipase in atherosclerosis.    
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9180-3615" href="https://orcid.org/0000-0001-9180-3615" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-9180-3615</a></div>.   
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9180-3615" href="https://orcid.org/0000-0001-9180-3615" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-9180-3615</a></div>   
 <a href="https://twitter.com/FangLi?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @FangLi</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Education & Training
