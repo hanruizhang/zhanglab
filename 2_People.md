@@ -82,7 +82,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 #### Undergraduate Research Assistant, Barnard College 2022
 
 ## Sufang Li, PhD
-#### Visiting Scholar, Beijing University Renmin Hospital
+#### Visiting Postdoctoral Fellow, Beijing University Renmin Hospital
 
 ## Yujiao Meng
 #### Visiting PhD Student, CSC Awardee, Beijing University of Chinese Medicine
@@ -92,6 +92,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 ## Sophie Shan
 #### Data Science Institute Scholar, BS in Statistics, Columbia College 2022
+
+## Ziyi Wang
+#### MS student in Human Nutrition, Institute of Human Nutrition, Columbia University.
 
 ------
 &nbsp;
