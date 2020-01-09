@@ -24,7 +24,7 @@ url: https://hanruizhang.github.io
 baseurl: /zhanglab
 
 # analytics if desired (and use environment variable on build command)
-google_analytics: UA-74844011-1
+# google_analytics: UA-74844011-1
 
 # defaults (to simplify front matter)
 defaults:
