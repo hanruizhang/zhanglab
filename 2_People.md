@@ -62,7 +62,8 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 <div> 
   <img src="{{ '/images/Xun_Wu.jpg' | absolute_url }}" alt="Xun_Wu" width="160">
 </div>
-### Postdoctoral Scientist, Berrie Diabetes Scholar
+### Postdoctoral Scientist, Berrie Diabetes Scholar    
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0742-7459" href="https://orcid.org/0000-0002-0742-7459 " target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0742-7459 </a></div>
 **Email**: xw2698@cumc.columbia.edu    
 
 ### Education & Training
