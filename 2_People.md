@@ -97,6 +97,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Ziyi Wang
 #### MS student in Human Nutrition, Institute of Human Nutrition, Columbia University.
 
+## Khushbu Kabra
+#### Rotating PhD student in Nutrition and Metabolic Biology (NMB), Columbia University Irving Medical Center
+
 ------
 &nbsp;
 
