@@ -1,0 +1,447 @@
+# Goal
+* Analysis of single cell RNA sequencing (scRNA-seq) including performing quality control and identifying cell type subsets.
+* To introduce using the Seurat package(v3.0.0).
+* Datasets used :https://www.dropbox.com/s/kwd3kcxkmpzqg6w/pbmc3k_final.rds?dl=0 & https://s3-us-west-2.amazonaws.com/10x.files/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz
+
+
+# Download the data 
+```{bash include=TRUE,  results="hide"}
+mkdir data 
+cd data
+curl -O  https://s3-us-west-2.amazonaws.com/10x.files/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz
+tar -xzf pbmc3k_filtered_gene_bc_matrices.tar.gz 
+cd ..
+
+```
+
+# Read Data & Create a Seurat Object
+There are 2,700 single cells that were sequenced on the Illumina NextSeq 500.
+
+```{r message=FALSE}
+
+library(Seurat)
+library(dplyr)
+library(Matrix)
+library(knitr)
+library(kableExtra)
+library(scater)
+
+pbmc.data <- Read10X(data.dir = "/Users/SophieMason/Desktop/scRNA Research/data/filtered_gene_bc_matrices/hg19/")
+dense.size <- object.size(x = as.matrix(x = pbmc.data))
+dense.size
+## Seurat object keeps the data in sparse matrix form
+sparse.size <- object.size(x = pbmc.data)
+sparse.size
+# Let’s examine the sparse counts matrix
+# The columns are indexed by 10x cell barcodes (each 16 nt long), 
+# and the rows are the gene names. We mentioned these matrices are sparse, here we see only zeroes (indicated by the “.” symbol); this is the most common value in these sparse matrices. 
+pbmc.data[105:110, 1:10] 
+
+# Loading the data #
+# Filter 1 :keep genes detected in at least 3 cells
+# Filter 2: Keep Cells at least 200 genes
+# Create Seurat object imposes basic minimum gene - cutoff
+
+# report number of genes (rows) and number of cells (columns)
+dim(pbmc.data) 
+
+# Look at the summary counts for genes and cells
+counts_per_cell <- Matrix::colSums(pbmc.data) ## Total Counts in each cell(columns)
+counts_per_gene <- Matrix::rowSums(pbmc.data)## Total Counts per each gene(rows)
+genes_per_cell <- Matrix::colSums(pbmc.data>0) # count gene only if it has non-zero reads mapped.
+cells_per_gene <- Matrix::rowSums(pbmc.data>0) # only count cells where the gene is expressed
+
+
+hist(log10(counts_per_cell+1),main='counts per cell',col='wheat')
+hist(log10(genes_per_cell+1), main='genes per cell', col='wheat')
+plot(counts_per_cell, genes_per_cell, log='xy', col='brown')
+title('counts vs genes per cell')
+
+hist(log10(counts_per_gene+1), main='counts per gene', col='wheat')
+
+# we rank each cell by its library complexity, ie the number of genes detected per cell. 
+# This is a very useful plot as it shows the distribution of library complexity in the sequencing run. One can use this plot to investigate observations (potential cells) that are actually failed libraries (lower end outliers) or observations that are cell doublets (higher end outliers).
+## Distibution of number of genes per cell
+plot(sort(genes_per_cell), xlab='cell', log='y', main='genes per cell (ordered)')
+
+# # our analysis will be on the single object, of class Seurat. This object contains various “slots” (designated by seurat@slotname)
+# that will store not only the raw count data, but also the results from various computations below. This has the advantage that we do not need to keep track of inidividual variables of interest - they can all be collapsed into a single object as long as these slots are pre-defined.
+
+pbmc <- CreateSeuratObject(pbmc.data, min.cells = 3, min.features = 200, project = "10X_PBMC")
+pbmc
+
+#the count matrix is stored in 
+head(pbmc[["RNA"]]@counts)
+
+# seurat@raw.data is a slot that stores the original gene count matrix. 
+# We can view the first 10 rows (genes) and the first 10 columns (cells).
+pbmc.data[105:110, 1:10] 
+pbmc.data[c("CD3D", "TCL1A", "MS4A1"), 1:30]
+
+```
+
+# Quality Control  : Filter Cells bases on technical parameters
+
+Seurat object initialization step above only considered cells that expressed at least 200 genes. 
+Additionally, we would like to exclude cells that are damaged. 
+A common metric to judge this (although by no means the only one) is the relative expression 
+of mitochondrially derived genes. When the cells apoptose due to stress, their mitochondria becomes 
+leaky and there is widespread RNA degradation. Thus a relative enrichment of mitochondrially 
+derived genes can be a tell-tale sign of cell stress. Here, we compute the proportion of transcripts 
+that are of mitochondrial origin for every cell (percent.mt), and visualize its distribution as a
+violin plot
+
+```{r}
+# The number of genes and UMIs (nGene and nUMI) are automatically calculated
+# for every object by Seurat. Low-quality cells or empty droplets
+# will often have very few genes. The total number of molecules
+# detected within a cell correlates strongly with unique genes.
+
+# Low-quality/dying cells often exhibit extensive mitochondrial 
+# contamination. We calculate mitochondrial QC metrics, which 
+# calculates the percentage of counts originating from a set
+# of features. We use the set of all genes starting with MT- 
+# as a set of mitochondrial genes. 
+
+# The [[ operator can add columns to object metadata. This is a great place to stash QC stats
+pbmc[["percent.mt"]] <- PercentageFeatureSet(pbmc, pattern = "^MT-")
+
+#the number of unique genes and total molecules are automatically
+#calculated during CreateSeuratObject
+# can find them stored in object meta.data
+head(pbmc@meta.data, 5)
+nrow(pbmc@meta.data)## No. of Cells
+
+VlnPlot(pbmc, features = c("nFeature_RNA", "percent.mt", "nCount_RNA"), 
+        ncol = 3)
+
+# GenePlot is typically used to visualize gene-gene relationships, but can
+# be used for anything calculated by the object, i.e. columns in
+# object@meta.data, PC scores etc.  Since there is a rare subset of cells
+# with an outlier level of high mitochondrial percentage and also low UMI
+# content, we filter these as well
+
+# FeatureScatter is typically used to visualize feature-feature relationships, but can be used
+# for anything calculated by the object, i.e. columns in object metadata, PC scores etc.
+par(mfrow = c(1, 2))
+FeatureScatter(pbmc, feature1 = "nCount_RNA", feature2 = "percent.mt")
+FeatureScatter(pbmc, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+
+# Load the the list of house keeping genes
+hkgenes <- read.table("housekeeping_genes.txt")
+hkgenes <- as.vector(hkgenes$V1) %>% kable() %>% kable_styling()
+
+
+# remove hkgenes that were not found
+hkgenes.found <- which(toupper(rownames(pbmc$RNA)) %in% hkgenes)
+
+n.expressed.hkgenes <- Matrix::colSums(pbmc$RNA[hkgenes.found, ] > 0)
+pbmc <- AddMetaData(object = pbmc, metadata = n.expressed.hkgenes, col.name = "n.exp.hkgenes")
+
+VlnPlot(pbmc, c("nCount_RNA", "nFeature_RNA", "percent.mt","n.exp.hkgenes"), nCol = 4,  point.size.use = 0.1)
+
+
+VlnPlot(pbmc, c("nCount_RNA"))
+```
+
+# Filter Cells  and genes
+Let’s filter the cells based on the quality control metrics. 
+Filter based on: 1. nGene 2. percent.mt  
+Change the thresholds to what you think they should be according to the violin plots
+
+```{r}
+# We filter out cells that have unique gene counts over 2,500 or less than
+# 200 Note that low.thresholds and high.thresholds are used to define a
+# 'gate'.  -Inf and Inf should be used if you don't want a lower or upper
+# threshold.
+
+pbmc <- subset(pbmc, subset = nFeature_RNA > 200 & nFeature_RNA < 2500 & percent.mt < 5)
+
+# Number of cells remaining 
+pbmc
+```
+
+# Normalization
+After removing unwanted cells from the dataset, the next step is to normalize the data. 
+By default, we employ a global-scaling normalization method “LogNormalize” that normalizes 
+the gene expression measurements for each cell by the total expression, multiplies this by a 
+scale factor (10,000 by default), and log-transforms the result.
+This is the simplest and the most intuitive
+
+
+```{r}
+pbmc <- NormalizeData(object = pbmc, normalization.method = "LogNormalize", 
+                      scale.factor = 10000)
+
+# Normalized values are stored in 
+head(pbmc[["RNA"]]@data)
+
+#the same behavior could be achieved with 
+# pbmd <- NoramlizeData(pbmc)
+```
+
+
+# Highly Variable Genes
+
+
+
+```{r}
+# Seurat calculates highly variable genes and focuses on these for downstream analysis. 
+# FindVariableGenes calculates the average expression and dispersion for each gene, 
+# places these genes into bins, and then calculates a z-score for dispersion within each bin
+# The parameters here identify ~2000 variable genes
+
+pbmc <- FindVariableFeatures(pbmc, mean.function = ExpMean, dispersion.function = LogVMR)
+
+length(VariableFeatures(pbmc))
+
+# Identify the 10 most highly variable genes
+top10 <- head(VariableFeatures(pbmc), 10)
+
+# plot variable features with and without labels
+par(mfrow = c(1, 2))
+VariableFeaturePlot(pbmc)
+LabelPoints(plot = plot1, points = top10, repel = TRUE)
+```
+
+# Scale Data
+
+```{r}
+
+# Your single cell dataset likely contains ‘uninteresting’ sources of variation. This could include not only technical noise, 
+# but batch effects, or even biological sources of variation (cell cycle stage). 
+# As suggested in Buettner et al, NBT, 2015, regressing these signals out of the analysis can 
+# improve downstream dimensionality reduction and clustering. To mitigate the effect of these signals,
+# Seurat constructs linear models to predict gene expression based on user-defined variables. 
+# The scaled z-scored residuals of these models are stored in the scale.data slot, 
+# and are used for dimensionality reduction and clustering.
+pbmc <- ScaleData(object = pbmc, vars.to.regress = c("nUMI", "percent.mt"))
+
+#results stored in
+# pbmc[["RNA"]]@scale.data
+
+```
+
+
+# PCA on the Scaled Data
+
+```{r message =FALSE}
+
+# we perform PCA on the scaled data. By default, the genes in object@var.genes are used as input,
+# but can be defined using pc.genes.
+
+pbmc <- RunPCA(object = pbmc, pc.genes = pbmc@var.genes, do.print = TRUE, pcs.print = 1:5, 
+               genes.print = 5)
+
+# Examine and visualize PCA results
+# a few different ways 
+print(pbmc[["pca"]], dims = 1:5, nfeatures = 5)
+
+VizDimLoadings(pbmc, dims = 1:2, reduction = "pca")
+
+DimPlot(pbmc, reduction = "pca")
+
+pbmc <- ProjectDim(object = pbmc, verbose = FALSE)
+# PCHeatmap allows for easy exploration of the primary sources of heterogeneity in a dataset, and can be useful when trying to decide which PCs to include for further downstream analyses. Both cells and genes are ordered according to their PCA scores. 
+# Setting cells.use to a number plots the ‘extreme’ cells on both ends of the spectrum, 
+DimHeatmap(object = pbmc, reduction = "pca")
+DimHeatmap(object = pbmc, dims = 1:12, cells = 500, balanced = TRUE)
+
+
+
+```
+
+# Determine statistically significant principal components
+
+```{r}
+# Determining how many PCs to include downstream is therefore an important step.
+# We identify ‘significant’ PCs as those who have a strong enrichment of low p-value genes.
+pbmc <- JackStraw(object = pbmc, num.replicate = 100)
+# ‘Significant’ PCs will show a strong enrichment of genes with low p-values
+# (solid curve above the dashed line). In this case it appears that PCs 1-10 are significant.
+pbmc <- ScoreJackStraw(pbmc, dims = 1:12)
+
+JackStrawPlot(object = pbmc, dims = 1:12)
+
+#alternative methods generates an
+# "Elbow plot"
+# a ranking of principle components based on the percentage of variance explained 
+
+ElbowPlot(pbmc)
+# notice we can observe an "elbow"
+# around PC9-10, suggesting that
+# the majority of true signal
+# is captured in the first 10 PCs
+
+```
+
+# Cluster the cells
+
+```{r}
+# Importantly, the distance metric which drives the clustering analysis
+# (based on previously identified PCs) remains the same.
+# The FindClusters function implements the procedure, and contains a resolution parameter
+# that sets the ‘granularity’ of the downstream clustering, with increased values leading
+# to a greater number of clusters. We find that setting this parameter between
+# 0.4-1.2 typically returns good results for single cell datasets of around 3K cells.
+pbmc <- FindNeighbors(pbmc, dims = 1:10)
+pbmc <- FindClusters(object = pbmc, reduction.type = "pca", resolution = 0.5)
+
+#Look at cluster IDs of the first 5 cells
+head(Idents(pbmc), 5)
+
+# Non-linear dimensional reduction (tSNE)
+
+pbmc <- RunTSNE(object = pbmc, dims.use = 1:10, do.fast = TRUE)
+TSNEPlot(object = pbmc)
+
+#UMAP 
+pbmc <- RunUMAP(pbmc, dim = 1:10)
+# note that you can set `label = TRUE` or use the LabelClusters function to help label
+# individual clusters
+DimPlot(pbmc, reduction = "umap")
+```
+
+
+# Finding differentially expressed genes (cluster biomarkers)
+
+```{r}
+# Seurat can help you find markers that define clusters via differential expression. 
+# By default, it identifes positive and negative markers of a single cluster 
+# (specified in ident.1), compared to all other cells. FindAllMarkers automates this 
+# process for all clusters, but you can also test groups of clusters vs. each other,
+# or against all cells.
+
+# The min.pct argument requires a gene to be detected at a minimum percentage in 
+# either of the two groups of cells, and the thresh.test argument requires a gene to be 
+# differentially expressed (on average) by some amount between the two groups.
+# find all markers of cluster 1
+cluster1.markers <- FindMarkers(object = pbmc, ident.1 = 1, min.pct = 0.25)
+head(cluster1.markers, n=5)
+
+
+# find all markers distinguishing cluster 5 from clusters 0 and 3
+cluster5.markers <- FindMarkers(object = pbmc, ident.1 = 5, ident.2 = c(0, 3), 
+                                min.pct = 0.25)
+head(cluster5.markers, n=5)
+
+
+# find markers for every cluster compared to all remaining cells, report
+# only the positive ones
+
+pbmc.markers <- FindAllMarkers(object = pbmc, only.pos = TRUE, min.pct = 0.25, 
+                               thresh.use = 0.25)
+pbmc.markers %>% group_by(cluster) %>% top_n(2, avg_logFC)
+
+# VlnPlot (shows expression probability distributions across clusters)
+
+VlnPlot(object = pbmc, features = c("MS4A1", "CD79A"))
+VlnPlot(object = pbmc, features = c("LGALS2"))
+VlnPlot(object = pbmc, features = c("GZMB"))
+
+
+# FeaturePlot (visualizes gene expression on a tSNE or PCA plot) 
+FeaturePlot(object = pbmc, features = c("MS4A1", "GNLY", "CD3E", "CD14", 
+                                             "FCER1A", "FCGR3A", "LYZ", "PPBP", "CD8A"), cols = c("grey", "blue"), 
+            reduction = "tsne")
+
+
+# DoHeatmap generates an expression heatmap for given cells and genes. In this case, 
+# we are plotting the top 10 markers (or all markers if less than 10) for each cluster.
+top10 <- pbmc.markers %>% group_by(cluster) %>% top_n(10, avg_logFC)
+top10%>% kable() %>% kable_styling()
+
+
+DoHeatmap(object = pbmc, features = top10$gene) + NoLegend()
+
+```
+
+# Assigning cell type identity to clusters
+
+```{r}
+
+current.cluster.ids <- c(0, 1, 2, 3, 4, 5, 6, 7, 8)
+new.cluster.ids <- c("CD4 T cells", "CD14+ Monocytes", "B cells", "CD8 T cells", 
+                     "FCGR3A+ Monocytes", "NK cells", "Dendritic cells", "Megakaryocytes", "Platelet")
+names(new.cluster.ids) <- levels(pbmc)
+pbmc <- RenameIdents(pbmc, new.cluster.ids)
+TSNEPlot(object = pbmc, do.label = TRUE, pt.size = 0.5)
+
+
+
+```
+
+# Converting to/from SingleCellExperiment
+
+```{r}
+# download from satija lab
+# https://www.dropbox.com/s/kwd3kcxkmpzqg6w/pbmc3k_final.rds?dl=0
+pbmc <- readRDS("~/Downloads/pbmc3k_final.rds")
+pbmc_sce <- Convert(from = pbmc, to = "sce")
+p1 <- plotExpression(object = pbmc_sce, features = "MS4A1", x = "ident") + theme(axis.text.x = element_text(angle = 45, 
+    hjust = 1))
+p2 <- DimPlot(object = pbmc_sce, cols = "ident")
+plot_grid(p1, p2)
+
+```
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper" >
+      <div class="footer-nav">
+        
+          
+          <a class="page-link" href="https://hanruizhang.github.io/zhanglab/1_Research.html">Research</a>
+          
+        
+          
+          <a class="page-link" href="https://hanruizhang.github.io/zhanglab/2_People.html">People</a>
+          
+        
+          
+          <a class="page-link" href="https://hanruizhang.github.io/zhanglab/3_Publications.html">Publications</a>
+          
+        
+          
+        
+          
+          <a class="page-link" href="https://hanruizhang.github.io/zhanglab/4_Resources.html">Resources</a>
+          
+        
+          
+          <a class="page-link" href="https://hanruizhang.github.io/zhanglab/5_News.html">News</a>
+          
+        
+          
+          <a class="page-link" href="https://hanruizhang.github.io/zhanglab/6_Contact.html">Contact</a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+    </div>
+    </div>
+      <h2 class="footer-heading"><a href="https://hanruizhang.github.io/zhanglab/">Zhang Lab @ Columbia</a> by <a href="https://github.com/hanruizhang">hz2418</a> Copyright © 2019. All rights reserved.</h2> 
+  </div>
+</footer>
+
+
+  </body>
+
+</html>
