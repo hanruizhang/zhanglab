@@ -35,7 +35,7 @@ This workflow is modified from [Seurat = Guided Clustering Tutorial](https://sat
 
 # Goal
 * Analysis of single cell RNA sequencing (scRNA-seq) including performing quality control and identifying cell type subsets.
-* To introduce using the Seurat package(v3.0.0).
+* To introduce using the Seurat package(v3.1).
 * Datasets used :https://www.dropbox.com/s/kwd3kcxkmpzqg6w/pbmc3k_final.rds?dl=0 & https://s3-us-west-2.amazonaws.com/10x.files/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz
 
 
@@ -419,7 +419,7 @@ pbmc_sce <- as.SingleCellExperiment(pbmc_v3)
 
 ```
 
-# Session information
+# The session information
 ```{r}
 sessionInfo()
 ```
