@@ -27,7 +27,16 @@ The RNA-seq data of isogenic IPSDM and HMDM can be visualized in the UCSC genome
 ------
 &nbsp;
 # **Other Resources**
-### [Data Science Boot Camps by DSI@Columbia](https://github.com/DS-BootCamp-DSI-Columbia)
+#### [Data Science Boot Camps by DSI@Columbia](https://github.com/DS-BootCamp-DSI-Columbia)
+#### [Applied Machine Learning](https://www.youtube.com/channel/UCMEXgDffQy6nS2a74Gby8ZA/videos) open lectures by Andreas Mueller at Columbia Data Science Institute
+#### [HarvardX Biomedical Data Science Open Online Training](https://rafalab.github.io/pages/harvardx.html)
+#### [Software Capentry Lessons](https://software-carpentry.org/lessons/)
+#### [Data Carpentry Lessions](https://datacarpentry.org/lessons/#genomics-workshop)
+#### [R for Data Science](https://r4ds.had.co.nz/index.html) by Garrett Grolemund and Hadley Wickham
+#### [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+#### [Teaching materials at the Harvard Chan Bioinformatics Core](https://github.com/hbctraining)
+#### And finally videos for [full body pilates](https://www.youtube.com/watch?v=sKIqLUlPGBw) and [30 days of Yoda](https://www.youtube.com/watch?v=oBu-pQG6sTY&list=RDQMkJ0HOrXEwlk&start_radio=1)
+
   
 
 
