@@ -35,7 +35,6 @@ The RNA-seq data of isogenic IPSDM and HMDM can be visualized in the UCSC genome
 #### [R for Data Science](https://r4ds.had.co.nz/index.html) by Garrett Grolemund and Hadley Wickham
 #### [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 #### [Teaching materials at the Harvard Chan Bioinformatics Core](https://github.com/hbctraining)
-#### [Mouse genetics minicourses](https://learn.education.jax.org/browse/jaxge-online) by JAX
 #### And finally videos for [full body pilates](https://www.youtube.com/watch?v=sKIqLUlPGBw) and [30 days of Yoga](https://www.youtube.com/watch?v=oBu-pQG6sTY&list=RDQMkJ0HOrXEwlk&start_radio=1)
 
   
