@@ -10,7 +10,7 @@ nav: true
 ### [GWAS-eQTL colocalization analysis workflow](https://hanruizhang.github.io/GWAS-eQTL-Colocalization/) by **Fang Li**
 ### [RNA-seq data analysis workflow](https://hanruizhang.github.io/RNAseq-analysis-workflow/) by Hanrui
 ### [Pathway and network analysis workflow](https://hanruizhang.github.io/Pathway-Network-Analysis/) by Hanrui  
-### Functional genomic tools and fundamentals([HTML](/file/Functional-Genomics-Tools_202004.html) by **Jianting**
+### Functional genomic tools and fundamentals([HTML](/file/Functional-Genomics-Tools_202004.html)) by **Jianting**
 ### Single cell RNA-seq analysis using Seurat 2.3.4 ([Rmd](/file/scRNAseq_Tutorial_latest.Rmd))/([HTML](/file/scRNAseq_Tutorial_latest.html)), Seurat 3.0 ([Rmd](/file/Zhang_Seurat_PBMC_20191001.Rmd)), and Seurat 3.1 ([Rmd](/file/00_Seurat_PBMC_20200310.Rmd))/([HTML](/file/00_Seurat_PBMC_20200310.html)) by **Sophie** and Hanrui   
       
 ------
