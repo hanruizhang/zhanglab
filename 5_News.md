@@ -10,6 +10,8 @@ nav: true
 
      
 ## **Lab News**
+#### **The lab has received a 5-year R01 (2020-2025) to explore novel regulators of macrophage efferocytosis discovered by genome-wide CRISPR screens [2020/04/30]**.
+
 #### **Congratulations to Fang for receiving an American Heart Association Postdoctoral Fellowship!** [2019/12/03].   
 #### **Dr. Xun Wu, recipient of _The Russell Berrie Foundation Scholar Award_, joined the lab as a Postdoctoral Scientist.** [2019/09/01]   
 #### **Congratulations to our summer undergraduate student researchers!** [2019/08/23]
