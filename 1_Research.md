@@ -18,7 +18,7 @@ Dr. Zhang's laboratory seeks to understand the dynamic role of macrophages in ca
 
 * Unbiased CRISPR screen in primary macrophages to discover novel regulators and pathways of macrophage efferocytosis and investigate their roles in atherosclerosis. [R01-HL-151611]      
 
-* [Disease modeling and functional genomic studies in human iPSC-derived macrophages](https://hanruizhang.github.io/zhanglab/4_Resources.html)    
+* Disease modeling and functional genomic studies in human iPSC-derived macrophages.          
 [Current Protocols in Stem Cell Biology 2019](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpsc.74), [JAHA 2017](https://www.ahajournals.org/doi/full/10.1161/JAHA.117.007431?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed), [ATVB 2017 Nov.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5687272/), [ATVB 2017 Sep.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659288/), [ATVB 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919157/), [Circulation Research 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4565503/).    
 
 
