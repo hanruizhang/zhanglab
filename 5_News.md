@@ -14,7 +14,7 @@ nav: true
 
 #### **[12/03/2019]** Congratulations to Fang for receiving an American Heart Association Postdoctoral Fellowship!         
 #### **[09/01/2019]** Dr. Xun Wu, recipient of _The Russell Berrie Foundation Scholar Award_, joined the lab as a Postdoctoral Scientist.        
-#### **[08/23/2019] Congratulations to our summer undergraduate student researchers!       
+#### **[08/23/2019]** Congratulations to our summer undergraduate student researchers!       
 
 Thanks our undergraduate interns for their contributions this summer! @ Raneem Hamad (Columbia College Summer Fund), Jeana Chun (Recipient of Grossman Family Internship Fund), Annie Rozenblyum (Barnard Summer Research Institute Scholarship), and Yolanda Baptiste (Fellow of the NERA Program).      
 #### **[05/16/2019]** Fang has received an _ATVB Travel Award for Young Investigators_ and an _Outstanding Poster Award_ !** @ Vascular Discovery 2019 Scientific Sessions in Boston, MA.             
