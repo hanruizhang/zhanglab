@@ -77,7 +77,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 #### Undergraduate Research Assistant, Columbia College 2021
 
 ## Jeana Chun
-#### Undergraduate Research Assistant, Columbia College 2022
+#### Undergraduate Research Assistant, [SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar, Columbia College 2022
 
 ## Annie Rozenblyum
 #### Undergraduate Research Assistant, Barnard College 2022
