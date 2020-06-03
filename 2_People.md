@@ -77,7 +77,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 #### Undergraduate Research Assistant, Columbia College 2021
 
 ## Jeana Chun
-#### Undergraduate Research Assistant, [SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar, Columbia College 2022
+#### Undergraduate Research Assistant, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022
 
 ## Annie Rozenblyum
 #### Undergraduate Research Assistant, Barnard College 2022
@@ -92,7 +92,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 #### Data Science Institute Scholar, MS in Biostatistics, Columbia University Mailman School of Public Health
 
 ## Sophie Shan
-#### Data Science Institute Scholar, BS in Statistics, Columbia College 2022
+#### Data Science Institute Scholar, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022
 
 ## Ziyi Wang
 #### MS student in Human Nutrition, Institute of Human Nutrition, Columbia University.
