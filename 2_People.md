@@ -100,6 +100,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Mazen Alsafi
 #### Undergraduate Research Assistant, Columbia College 2023
 
+## Philip Ha
+#### High School Student, Townsend Harris 2022
+
 ------
 &nbsp;
 
