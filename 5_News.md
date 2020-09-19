@@ -10,7 +10,7 @@ nav: true
 
      
 ## **Lab News**
-#### **[05/07/2020]** Hanrui has won the [Irving H. Page Junior Faculty Research Award](https://www.professional.heart.org/professional/EducationMeetings/MeetingsLiveCME/ATVBPVD/UCM_506015_Science-News-for-Vascular-Discovery-2020.jsp?utm_campaign=vasculardiscovery20&utm_source=aha_social&utm_medium=social#hanrui) sponsored by the [American Heart Association ATVB Council](https://professional.heart.org/professional/MembershipCouncils/AwardsLectures/UCM_322534_Irvine-H-Page-Junior-Faculty-Research-Award.jsp).                 
+#### **[05/07/2020]** Hanrui has won the [Irving H. Page Junior Faculty Research Award](https://professional.heart.org/en/meetings/vascular-discovery-from-genes-to-medicine-scientific-sessions/science-news-2020) sponsored by the [American Heart Association ATVB Council](https://professional.heart.org/professional/MembershipCouncils/AwardsLectures/UCM_322534_Irvine-H-Page-Junior-Faculty-Research-Award.jsp).                 
 Thanks the team, our collaborators, funding support from the NIH/AHA/The Russell Berrie Foundation, and the AHA ATVB community!
 
 #### **[04/20/2020]** The lab has received a 5-year R01 (2020-2025) to explore novel regulators of macrophage efferocytosis discovered by genome-wide CRISPR screens.        
