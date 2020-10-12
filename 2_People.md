@@ -82,23 +82,14 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Annie Rozenblyum
 #### Undergraduate Research Assistant, Barnard College 2022
 
-## Sufang Li, PhD
-#### Visiting Postdoctoral Fellow, Beijing University Renmin Hospital
-
 ## Yujiao Meng
 #### Visiting PhD Student, CSC Awardee, Beijing University of Chinese Medicine
-
-## Joy Hsu
-#### Data Science Institute Scholar, MS in Biostatistics, Columbia University Mailman School of Public Health
 
 ## Sophie Shan
 #### Data Science Institute Scholar, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022
 
 ## Ziyi Wang
 #### MS student in Human Nutrition, Institute of Human Nutrition, Columbia University.
-
-## Mazen Alsafi
-#### Undergraduate Research Assistant, Columbia College 2023
 
 ## Philip Ha
 #### High School Student, Townsend Harris 2022
@@ -114,7 +105,8 @@ Yolanda Jean-Baptiste, BS, Fellow of the NERA Program (06/2019-07/2019)
 ## Columbia Data Science Institute (DSI) Scholars
 Joey Zihui Gu, MS in Data Science, Columbia University (09/2018-12/2018)     
 Jiayi Shen, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-07/2019)     
-Jianyou Liu, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-07/2019)     
+Jianyou Liu, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-07/2019)
+Joy Hsu, MS in Biostatistics, Columbia University Mailman School of Public Health (11/2019-05/2020)
 
 
 
