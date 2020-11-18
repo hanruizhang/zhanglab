@@ -10,6 +10,7 @@ nav: true
 
      
 ## **Lab News**
+#### **[11/17/2020]** Congratulations to Ziyi for receiving "Honors in Thesis Research". We are so excited for you!    
 #### **[05/07/2020]** Hanrui has won the [Irving H. Page Junior Faculty Research Award](https://professional.heart.org/en/meetings/vascular-discovery-from-genes-to-medicine-scientific-sessions/science-news-2020) sponsored by the [American Heart Association ATVB Council](https://professional.heart.org/professional/MembershipCouncils/AwardsLectures/UCM_322534_Irvine-H-Page-Junior-Faculty-Research-Award.jsp).                 
 Thanks the team, our collaborators, funding support from the NIH/AHA/The Russell Berrie Foundation, and the AHA ATVB community!
 
