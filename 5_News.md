@@ -11,7 +11,7 @@ nav: true
      
 ## **Lab News**
 #### **[11/17/2020]** Congratulations to Ziyi for receiving "Honors in Thesis Research". We are so excited for you!    
-#### **[05/07/2020]** Hanrui has won the [Irving H. Page Junior Faculty Research Award](https://professional.heart.org/en/meetings/vascular-discovery-from-genes-to-medicine-scientific-sessions/science-news-2020) sponsored by the [American Heart Association ATVB Council](https://professional.heart.org/professional/MembershipCouncils/AwardsLectures/UCM_322534_Irvine-H-Page-Junior-Faculty-Research-Award.jsp).                 
+#### **[05/07/2020]** Hanrui has won the [Irving H. Page Junior Faculty Research Award](https://professional.heart.org/en/partners/awards-and-lectures/early-career-awards/irvine-h-page-junior-faculty-research-award) sponsored by the American Heart Association ATVB Council.                  
 Thanks the team, our collaborators, funding support from the NIH/AHA/The Russell Berrie Foundation, and the AHA ATVB community!
 
 #### **[04/20/2020]** The lab has received a 5-year R01 (2020-2025) to explore novel regulators of macrophage efferocytosis discovered by genome-wide CRISPR screens.        
