@@ -89,7 +89,10 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 #### Data Science Institute Scholar, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022
 
 ## Ziyi Wang
-#### MS student in Human Nutrition, Institute of Human Nutrition, Columbia University.
+#### MS student in Human Nutrition (2019-2020), Institute of Human Nutrition, Columbia University.
+
+## Shamma Ali
+#### MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
 
 ## Philip Ha
 #### High School Student, Townsend Harris 2022
