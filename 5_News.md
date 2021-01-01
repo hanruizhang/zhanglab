@@ -21,7 +21,7 @@ Thanks the team, our collaborators, funding support from the NIH/AHA/The Russell
 #### **[08/23/2019]** Congratulations to our summer undergraduate student researchers!       
 
 Thanks our undergraduate interns for their contributions this summer! @ Raneem Hamad (Columbia College Summer Fund), Jeana Chun (Recipient of Grossman Family Internship Fund), Annie Rozenblyum (Barnard Summer Research Institute Scholarship), and Yolanda Baptiste (Fellow of the NERA Program).      
-#### **[05/16/2019]** Fang has received an _ATVB Travel Award for Young Investigators_ and an _Outstanding Poster Award_ !** @ Vascular Discovery 2019 Scientific Sessions in Boston, MA.             
+#### **[05/16/2019]** Fang has received an **_ATVB Travel Award for Young Investigators_ and an _Outstanding Poster Award_ !** @ Vascular Discovery 2019 Scientific Sessions in Boston, MA.             
 <img src="{{ '/images/2019ATVB_TravelAward.jpg' | absolute_url }}" alt="2019ATVB_TravelAward" width="200">
     
 #### **[11/15/2018]** Dr. Fang Li joined the lab as a Postdoctoral Scientist.           
