@@ -94,6 +94,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Shamma Ali
 #### MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
 
+## Rebecca Moore
+#### MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
+
 ## Philip Ha
 #### High School Student, Townsend Harris 2022
 
