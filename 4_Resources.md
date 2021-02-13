@@ -27,6 +27,7 @@ The RNA-seq data of isogenic IPSDM and HMDM can be visualized in the UCSC genome
 ------
 &nbsp;
 # **Other Resources**
+#### [The PISCES pipeline for protein activity inference in single cells]](https://github.com/califano-lab/single-cell-pipeline/wiki/The-pipeline-for-Protein-Activity-Inference-in-Single-Cells-(PISCES)).   
 #### [Data Science Boot Camps by DSI@Columbia](https://github.com/DS-BootCamp-DSI-Columbia)
 #### [Applied Machine Learning](https://www.youtube.com/channel/UCMEXgDffQy6nS2a74Gby8ZA/videos) open lectures by Andreas Mueller at Columbia Data Science Institute
 #### [HarvardX Biomedical Data Science Open Online Training](https://rafalab.github.io/pages/harvardx.html)
