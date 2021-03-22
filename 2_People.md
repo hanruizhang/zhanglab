@@ -88,8 +88,8 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Sophie Shan
 #### Data Science Institute Scholar, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022
 
-## Rebecca Moore
-#### Data Science Institute Scholar, MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
+## Neha Pusarla
+#### Data Science Institute Scholar, MS in Data Science (2020-2021), Columbia University.
 
 ## Ziyi Wang
 #### MS student in Human Nutrition (2019-2020), Institute of Human Nutrition, Columbia University.
@@ -97,8 +97,8 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Shamma Ali
 #### MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
 
-## Neha Pusarla
-#### MS student in Data Science (2020-2021), Columbia University
+## Rebecca Moore
+#### MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
 
 ## Philip Ha
 #### High School Student, Townsend Harris 2022
