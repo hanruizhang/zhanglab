@@ -115,7 +115,7 @@ Jianyou Liu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health
 Joy Hsu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (11/2019-05/2020)
 
 ## Visting Scientists
-Yujiao Meng, Visiting PhD Student, CSC Awardee, Beijing Univ. of Chinese Medicine (12/2019-03/2021).          
+Yujiao Meng, Visiting PhD Student, Beijing Univ. of Chinese Medicine (12/2019-03/2021).          
 
 
 
