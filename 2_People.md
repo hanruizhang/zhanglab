@@ -110,12 +110,12 @@ Yolanda Jean-Baptiste, BS, Fellow of the NERA Program (06/2019-07/2019)
 
 ## Columbia Data Science Institute (DSI) Scholars
 Joey Zihui Gu, MS in Data Science, Columbia University (09/2018-12/2018)     
-Jiayi Shen, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-07/2019)     
-Jianyou Liu, MS in Biostatistics, Columbia University Mailman School of Public Health (03/2019-07/2019)     
-Joy Hsu, MS in Biostatistics, Columbia University Mailman School of Public Health (11/2019-05/2020)
+Jiayi Shen, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019)     
+Jianyou Liu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019)     
+Joy Hsu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (11/2019-05/2020)
 
 ## Visting Scientists
-Yujiao Meng, Visiting PhD Student, CSC Awardee, Beijing University of Chinese Medicine (12/2019-03/2021).          
+Yujiao Meng, Visiting PhD Student, CSC Awardee, Beijing Univ. of Chinese Medicine (12/2019-03/2021).          
 
 
 
