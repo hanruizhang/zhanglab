@@ -10,7 +10,8 @@ nav: true
 
      
 ## **Lab News**
-#### **[11/17/2020]** Congratulations to Ziyi for receiving "Honors in Thesis Research". We are so excited for you!    
+#### **[04/01/2021]** Congratulations to Xun for receiving an American Heart Association Postdoctoral Fellowship!      
+#### **[11/17/2020]** Ziyi has received "Honors in Thesis Research". We are so excited for you!    
 #### **[05/07/2020]** Hanrui has won the [Irving H. Page Junior Faculty Research Award](https://professional.heart.org/en/partners/awards-and-lectures/early-career-awards/irvine-h-page-junior-faculty-research-award) sponsored by the American Heart Association ATVB Council.                  
 Thanks the team, our collaborators, funding support from the NIH/AHA/The Russell Berrie Foundation, and the AHA ATVB community!
 
