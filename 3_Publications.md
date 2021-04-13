@@ -6,6 +6,11 @@ nav: true
 # **Selected Publications**  
 
 ***Corresponding Author**   
+
+* Miller, CL*, **Zhang H***. Clarifying the distinct roles of smooth muscle cell-derived vs macrophage foam cells and the implications in atherosclerosis. Arterioscler Thromb Vasc Biol. 2021. In Press.       
+Kasikara C, Schilperoort M, Gerlach BD, Xue C, Wang X, Zheng Z, Kuriakose G, Dorweiler B, **Zhang H**, Fredman G, Saleheen D, Reilly MP, Tabas I. Deficiency of macrophage PHACTR1 impairs efferocytosis and promotes atherosclerotic plaque necrosis. J Clin Invest. 2021 Feb 25:145275. doi: 10.1172/JCI145275. Online ahead of print. PMID: 33630758      
+* Pan H, Xue C, Auerbach BJ, Fan J, Bashore AC, Cui J, Yang DY, Trignano SB, Liu W, Shi J, Ihuegbu CO, Bush EC, Worley J, Vlahos L, Laise P, Solomon RA, Connolly ES, Califano A, Sims PA, **Zhang H**, Li M, Reilly MP. Single-Cell Genomics Reveals a Novel Cell State During Smooth Muscle Cell Phenotypic Switching and Potential Therapeutic Targets for Atherosclerosis in Mouse and Human. _Circulation_. 2020 Sep 23. doi: 10.1161/CIRCULATIONAHA.120.048378. PMID: 32962412     
+* **Zhang H***, Reilly M*. Novel mechanistic links between high-protein diet and atherosclerosis. Nat Metab. 2020, 2, 7–8. PMID: 32694688       
 * Li F, Shi J, Lu HS, **Zhang H***. [Functional Genomics and CRISPR Applied to Cardiovascular Research and Medicine](https://www.ahajournals.org/doi/10.1161/ATVBAHA.119.312579). _Arterioscler Thromb Vasc Biol_. 2019 Sep;39(9):e188-e194.
 * Li F, **Zhang H***. [Lysosomal Acid Lipase in Lipid Metabolism and Beyond](https://www.ahajournals.org/doi/abs/10.1161/ATVBAHA.119.312136). _Arterioscler Thromb Vasc Biol_. 2019 May;39(5):850-856.
 * Shi J, Xue C, Liu W, **Zhang H***. [Differentiation of Human Induced Pluripotent Stem Cells to Macrophages For Disease Modeling and Functional Genomics](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpsc.74). _Current Protocols in Stem Cell Biology_. 2019 Feb;48(1):e74.
