@@ -76,7 +76,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - PhD, 2019, Chinese Academy of Sciences, China    
 
 ## Ziyi Wang
-#### MS student in Human Nutrition (2019-2020), Institute of Human Nutrition, Columbia University.
+#### Research Specialist, MS in Human Nutrition (2019-2020), Institute of Human Nutrition, Columbia University.
 
 ## Shamma Ali
 #### MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
