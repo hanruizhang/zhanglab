@@ -57,7 +57,7 @@ My work focuses on exploring the functionality of myeloid cells and their roles 
 I am interested in the functional interrogation of coronary artery disease-associated loci identified by human genome-wide association studies. My current work focuses on the role of lysosomal acid lipase in atherosclerosis.     
 
 ### Education & Training
-- BSc, 2012, Northwest A&F University, China
+- BS, 2012, Northwest A&F University, China
 - PhD, 2018, Univerity of Massachusetts, Amherst, MA
 
 ## Xun Wu, PhD
@@ -71,12 +71,15 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 **Email**: xw2698@cumc.columbia.edu    
 
 ### Education & Training
-- BSc, 2011, Anhui Science and technology university, China         
-- MSc, 2014, Anhui University, China   
+- BS, 2011, Anhui Science and technology university, China         
+- MS, 2014, Anhui University, China   
 - PhD, 2019, Chinese Academy of Sciences, China    
 
-## Ziyi Wang
-#### Research Specialist, MS in Human Nutrition (2019-2020), Institute of Human Nutrition, Columbia University.
+## Ziyi Wang, MS
+### Research Specialist
+### Education & Training
+- BS in Business Management and Biology, 2018, Stony Brook University, Stony Brook, NY         
+- MS in Human Nutrition, 2021, Institute of Human Nutrition, Columbia University, New York City, NY     
 
 ## Shamma Ali
 #### MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
