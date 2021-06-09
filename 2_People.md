@@ -109,6 +109,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 &nbsp;
 
 # **Lab Alumni**
+## MS Student
+Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021)
+
 ## Undergraduate Researchers
 Eileen Moudou, Columbia College 2020 (01/2019-05/2019)         
 Yolanda Jean-Baptiste, BS, Fellow of the NERA Program (06/2019-07/2019)
