@@ -93,9 +93,6 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Neha Pusarla
 #### Data Science Institute Scholar, MS in Data Science (2020-2021), Columbia University.
 
-## Raneem Hamad
-#### Undergraduate Research Assistant, Columbia College 2021
-
 ## Jeana Chun
 #### Undergraduate Research Assistant, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022
 
@@ -113,6 +110,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021)
 
 ## Undergraduate Researchers
+Raneem Hamad, Columbia College 2021 (09/2018-03/2020)
 Eileen Moudou, Columbia College 2020 (01/2019-05/2019)         
 Yolanda Jean-Baptiste, BS, Fellow of the NERA Program (06/2019-07/2019)
 
