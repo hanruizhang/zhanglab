@@ -10,7 +10,7 @@ nav: true
   <img src="{{ '/images/Hanrui_Zhang_5_Large.png' | absolute_url }}" alt="Hanrui_Zhang" width="240">
 </div>  
 
-### Assistant Professor of Medicine
+### Herbert Irving Assistant Professor of Medical Sciences
 **Email: hz2418@cumc.columbia.edu**      
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8655-938X" href="https://orcid.org/0000-0001-8655-938X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8655-938X</a></div>
 
