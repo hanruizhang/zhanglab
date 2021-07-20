@@ -10,7 +10,7 @@ nav: true
 
      
 ## **Lab News**
-#### **[07/01/2021]** Hanrui is named the "[Irving Scholar](https://www.irvinginstitute.columbia.edu/services/irving-scholars-program)".
+#### **[07/01/2021]** Hanrui is named the "[Irving Scholar](https://www.irvinginstitute.columbia.edu/news/announcing-2021-2024-irving-scholars)".
 #### **[04/01/2021]** Congratulations to Xun for receiving an American Heart Association Postdoctoral Fellowship!      
 #### **[11/17/2020]** Ziyi has received "Honors in Thesis Research". We are so excited for you!    
 #### **[05/07/2020]** Hanrui has won the [Irving H. Page Junior Faculty Research Award](https://professional.heart.org/en/partners/awards-and-lectures/early-career-awards/irvine-h-page-junior-faculty-research-award) sponsored by the American Heart Association ATVB Council.                  
