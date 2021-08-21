@@ -110,7 +110,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021)
 
 ## Undergraduate Researchers
-Eden Tilahun Teferi, Columbia College 2021 (09/2018-01/2019)
+Eden Tilahun Teferi, Columbia College 2021 (09/2018-01/2019)     
 Raneem Hamad, Columbia College 2021 (09/2018-03/2020)    
 Eileen Moudou, Columbia College 2020 (01/2019-05/2019)         
 Yolanda Jean-Baptiste, BS, Fellow of the NERA Program (06/2019-07/2019)
