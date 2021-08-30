@@ -20,7 +20,7 @@ Thanks the team, our collaborators, funding support from the NIH/AHA/The Russell
 #### **[04/20/2020]** The lab has received a 5-year R01 (2020-2025) to explore novel regulators of macrophage efferocytosis discovered by genome-wide CRISPR screens.        
 
 #### **[12/03/2019]** Congratulations to Fang for receiving an American Heart Association Postdoctoral Fellowship!         
-#### **[09/01/2019]** Dr. Xun Wu, recipient of _The Russell Berrie Foundation Scholar Award_, joined the lab as a Postdoctoral Scientist.        
+#### **[09/01/2019]** Dr. Xun Wu, recipient of [_The Russell Berrie Foundation Scholar Award_](https://www.nbdiabetes.org/frontiers), joined the lab as a Postdoctoral Scientist.        
 #### **[08/23/2019]** Congratulations to our summer undergraduate student researchers!       
 
 Thanks our undergraduate interns for their contributions this summer! @ Raneem Hamad (Columbia College Summer Fund), Jeana Chun (Recipient of Grossman Family Internship Fund), Annie Rozenblyum (Barnard Summer Research Institute Scholarship), and Yolanda Baptiste (Fellow of the NERA Program).      
