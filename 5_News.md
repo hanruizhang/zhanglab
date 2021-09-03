@@ -10,16 +10,16 @@ nav: true
 
      
 ## **Lab News**
-#### **[08/14/2021]** We will be sharing our science at AHA21 in Boston! **Xun** has received the "ATVB Outstanding Research Award" and will present his abstract titled "WDFY3 is Required for the Efficient Degradation of Engulfed Apoptotic Cells by Macrophages During Efferocytosis". **Fang** is selected as one of the four finalists for the "Elaine W. Raines Early Career Investigator Award" and will present her manuscript "Elucidating the Variant-to-Function Relationship for LIPA, a Risk Locus of Coronary Artery Diseases"!    
+#### **[08/14/2021]** We will be sharing our science at AHA21 in Boston! **Xun** has received the **"ATVB Outstanding Research Award"** and will present his abstract titled "WDFY3 is Required for the Efficient Degradation of Engulfed Apoptotic Cells by Macrophages During Efferocytosis". **Fang** is selected as one of the four finalists for the **"Elaine W. Raines Early Career Investigator Award"** and will present her manuscript "Elucidating the Variant-to-Function Relationship for LIPA, a Risk Locus of Coronary Artery Diseases"!    
 #### **[07/01/2021]** Hanrui is named the "[Irving Scholar](https://www.irvinginstitute.columbia.edu/news/announcing-2021-2024-irving-scholars)" and "Herbert Irving Assistant Professor of Medical Sciences".
-#### **[04/01/2021]** Congratulations to Xun for receiving an American Heart Association Postdoctoral Fellowship!      
-#### **[11/17/2020]** Ziyi has received "Honors in Thesis Research". We are so excited for you!    
+#### **[04/01/2021]** Congratulations to Xun for receiving an **American Heart Association Postdoctoral Fellowship**!      
+#### **[11/17/2020]** Ziyi has received **"Honors in Thesis Research"**. We are so excited for you!    
 #### **[05/07/2020]** Hanrui has won the [Irving H. Page Junior Faculty Research Award](https://professional.heart.org/en/partners/awards-and-lectures/early-career-awards/irvine-h-page-junior-faculty-research-award) sponsored by the American Heart Association ATVB Council.                  
 Thanks the team, our collaborators, funding support from the NIH/AHA/The Russell Berrie Foundation, and the AHA ATVB community!
 
 #### **[04/20/2020]** The lab has received a 5-year R01 (2020-2025) to explore novel regulators of macrophage efferocytosis discovered by genome-wide CRISPR screens.        
 
-#### **[12/03/2019]** Congratulations to Fang for receiving an American Heart Association Postdoctoral Fellowship!         
+#### **[12/03/2019]** Congratulations to Fang for receiving an **American Heart Association Postdoctoral Fellowship**!         
 #### **[09/01/2019]** Dr. Xun Wu, recipient of [_The Russell Berrie Foundation Scholar Award_](https://www.nbdiabetes.org/frontiers), joined the lab as a Postdoctoral Scientist.        
 #### **[08/23/2019]** Congratulations to our summer undergraduate student researchers!       
 
