@@ -81,17 +81,8 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - BS in Business Management and Biology, 2018, Stony Brook University, Stony Brook, NY         
 - MS in Human Nutrition, 2021, Institute of Human Nutrition, Columbia University, New York City, NY     
 
-## Shamma Ali
-#### MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
-
 ## Rebecca Moore
 #### MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
-
-## Sophie Shan
-#### Data Science Institute Scholar, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022
-
-## Neha Pusarla
-#### Data Science Institute Scholar, MS in Data Science (2020-2021), Columbia University.
 
 ## Jeana Chun
 #### Undergraduate Research Assistant, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022
@@ -108,6 +99,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 # **Lab Alumni**
 ## MS Student
 Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021)
+Shamma Ali, MS in Human Nutrition, Columbia University (09/2020-09/2021)
 
 ## Undergraduate Researchers
 Eden Tilahun Teferi, Columbia College 2021 (09/2018-01/2019)     
@@ -120,6 +112,8 @@ Joey Zihui Gu, MS in Data Science, Columbia University (09/2018-12/2018)
 Jiayi Shen, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019)     
 Jianyou Liu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019)     
 Joy Hsu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (11/2019-05/2020)
+Neha Pusarla, MS in Data Science, Columbia Univ. (03/2021-06/2021)
+Sophie Shan, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022 (11/2019-09/2021)
 
 ## Visting Scientists
 Yujiao Meng, Visiting PhD Student, Beijing Univ. of Chinese Medicine (12/2019-03/2021).          
