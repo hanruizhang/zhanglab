@@ -112,7 +112,7 @@ Joey Zihui Gu, MS in Data Science, Columbia University (09/2018-12/2018)
 Jiayi Shen, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019)     
 Jianyou Liu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019)     
 Joy Hsu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (11/2019-05/2020)
-Neha Pusarla, MS in Data Science, Columbia Univ. (03/2021-06/2021)
+Neha Pusarla, MS in Data Science, Columbia Univ. (03/2021-06/2021)      
 Sophie Shan, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022 (11/2019-09/2021)
 
 ## Visting Scientists
