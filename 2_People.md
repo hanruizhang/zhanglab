@@ -84,6 +84,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Rebecca Moore
 #### MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
 
+## Nicole Lin
+#### Data Science Institute Scholar, Columbia College 2024.
+
 ## Jeana Chun
 #### Undergraduate Research Assistant, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022
 
