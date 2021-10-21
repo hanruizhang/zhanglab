@@ -10,7 +10,7 @@ nav: true
 
      
 ## **Lab News**
-#### Our abstract has received the **Paul Dudley White International Scholar Award** that recognizes the authors with the highest ranked abstract from the United States at Scientific Sessions 2021! Congrats to all the authors for the ourstanding work!   
+#### [10/21/2021] Our abstract has received the **Paul Dudley White International Scholar Award** that recognizes the authors with the highest ranked abstract from the United States at Scientific Sessions 2021! Congrats to all the authors for the ourstanding work!   
 
 "Xun Wu, Ziyi Wang, Jianting Shi, Fang Li, Young Joo Yang, Rebecca M. Moore, Margot K. Chirikjian, Ira A. Tabas, Ai Yamamoto, Hanrui Zhang. 
 WDFY3 is Required for the Efficient Degradation of Engulfed Apoptotic Cells by Macrophages During Efferocytosis".     
