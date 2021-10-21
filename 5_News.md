@@ -10,6 +10,11 @@ nav: true
 
      
 ## **Lab News**
+#### Our abstract has received the **Paul Dudley White International Scholar Award** that recognizes the authors with the highest ranked abstract from the United States at Scientific Sessions 2021! Congrats to all the authors for the ourstanding work!   
+
+"Xun Wu, Ziyi Wang, Jianting Shi, Fang Li, Young Joo Yang, Rebecca M. Moore, Margot K. Chirikjian, Ira A. Tabas, Ai Yamamoto, Hanrui Zhang. 
+WDFY3 is Required for the Efficient Degradation of Engulfed Apoptotic Cells by Macrophages During Efferocytosis".     
+
 #### **[08/14/2021]** We will be sharing our science at AHA21 in Boston! **Xun** has received the **"ATVB Outstanding Research Award"** and will present his abstract titled "WDFY3 is Required for the Efficient Degradation of Engulfed Apoptotic Cells by Macrophages During Efferocytosis". **Fang** is selected as one of the four finalists for the **"Elaine W. Raines Early Career Investigator Award"** and will present her manuscript "Elucidating the Variant-to-Function Relationship for LIPA, a Risk Locus of Coronary Artery Diseases"!    
 #### **[07/01/2021]** Hanrui is named the "[Irving Scholar](https://www.irvinginstitute.columbia.edu/news/announcing-2021-2024-irving-scholars)" and "Herbert Irving Assistant Professor of Medical Sciences".
 #### **[04/01/2021]** Congratulations to Xun for receiving an **American Heart Association Postdoctoral Fellowship**!      
