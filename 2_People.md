@@ -84,6 +84,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Rebecca Moore
 #### MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
 
+## Rayna Batya-Leia Berris
+#### MS student in Biomedical Engineering (2021-2022), Fu Foundation School of Engineering and Applied Science, Columbia University
+
 ## Nicole Lin
 #### Data Science Institute Scholar, Columbia College 2024.
 
