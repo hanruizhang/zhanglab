@@ -7,11 +7,13 @@ nav: true
 
 ***Corresponding Author**   
 
-- **Hanrui Zhang***, Zhen Bouman Chen, Gabrielle Fredman, Delphine Gomez, Isabella M Grumbach, Ngan F Huang, Patricia Kim Phuong Nguyen, Mireille Ouimet, Nadia R Sutton, Elena Aikawa. What Makes a Great Mentor: Interviews With Recipients of the ATVB Mentor of Women Award. _Arterioscler Thromb Vasc Biol_. 2021 Nov;41(11):2641-2647.
+https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.317257
 
-- Miller, CL*, **Zhang H***. Clarifying the distinct roles of smooth muscle cell-derived vs macrophage foam cells and the implications in atherosclerosis. _Arterioscler Thromb Vasc Biol_. 2021. 41 (6), 2035-2037.       
+- **Hanrui Zhang***, Zhen Bouman Chen, Gabrielle Fredman, Delphine Gomez, Isabella M Grumbach, Ngan F Huang, Patricia Kim Phuong Nguyen, Mireille Ouimet, Nadia R Sutton, Elena Aikawa. [What Makes a Great Mentor: Interviews With Recipients of the ATVB Mentor of Women Award.](https://www.ahajournals.org/doi/full/10.1161/ATVBAHA.121.316558) _Arterioscler Thromb Vasc Biol_. 2021 Nov;41(11):2641-2647.
 
-- Kasikara C, Schilperoort M, Gerlach BD, Xue C, Wang X, Zheng Z, Kuriakose G, Dorweiler B, **Zhang H**, Fredman G, Saleheen D, Reilly MP, Tabas I. Deficiency of macrophage PHACTR1 impairs efferocytosis and promotes atherosclerotic plaque necrosis. _J Clin Invest_. 2021 Feb 25:145275. doi: 10.1172/JCI145275. Online ahead of print. PMID: 33630758      
+- Miller, CL*, **Zhang H***. [Clarifying the distinct roles of smooth muscle cell-derived vs macrophage foam cells and the implications in atherosclerosis.](https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.316287) _Arterioscler Thromb Vasc Biol_. 2021. 41 (6), 2035-2037.       
+
+- Kasikara C, Schilperoort M, Gerlach BD, Xue C, Wang X, Zheng Z, Kuriakose G, Dorweiler B, **Zhang H**, Fredman G, Saleheen D, Reilly MP, Tabas I. [Deficiency of macrophage PHACTR1 impairs efferocytosis and promotes atherosclerotic plaque necrosis.](https://www.jci.org/articles/view/145275) _J Clin Invest_. 2021 Feb 25:145275. doi: 10.1172/JCI145275. Online ahead of print. PMID: 33630758      
 - Pan H, Xue C, Auerbach BJ, Fan J, Bashore AC, Cui J, Yang DY, Trignano SB, Liu W, Shi J, Ihuegbu CO, Bush EC, Worley J, Vlahos L, Laise P, Solomon RA, Connolly ES, Califano A, Sims PA, **Zhang H**, Li M, Reilly MP. Single-Cell Genomics Reveals a Novel Cell State During Smooth Muscle Cell Phenotypic Switching and Potential Therapeutic Targets for Atherosclerosis in Mouse and Human. _Circulation_. 2020 Sep 23. doi: 10.1161/CIRCULATIONAHA.120.048378. PMID: 32962412     
 - **Zhang H***, Reilly M*. Novel mechanistic links between high-protein diet and atherosclerosis. _Nat Metab_. 2020, 2, 7–8. PMID: 32694688       
 - Li F, Shi J, Lu HS, **Zhang H***. [Functional Genomics and CRISPR Applied to Cardiovascular Research and Medicine](https://www.ahajournals.org/doi/10.1161/ATVBAHA.119.312579). _Arterioscler Thromb Vasc Biol_. 2019 Sep;39(9):e188-e194.
