@@ -7,7 +7,7 @@ nav: true
 
 ***Corresponding Author**   
 
-https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.317257
+- **Hanrui Zhang***, Dennis Wolf*. [Break on Through to the Other Side: How Trained Monocytes Promote Recovery From Hind Limb Ischemia.](https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.317257) _Arterioscler Thromb Vasc Biol_. 2021 Dec 23;ATVBAHA121317257.     
 
 - **Hanrui Zhang***, Zhen Bouman Chen, Gabrielle Fredman, Delphine Gomez, Isabella M Grumbach, Ngan F Huang, Patricia Kim Phuong Nguyen, Mireille Ouimet, Nadia R Sutton, Elena Aikawa. [What Makes a Great Mentor: Interviews With Recipients of the ATVB Mentor of Women Award.](https://www.ahajournals.org/doi/full/10.1161/ATVBAHA.121.316558) _Arterioscler Thromb Vasc Biol_. 2021 Nov;41(11):2641-2647.
 
