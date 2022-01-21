@@ -7,7 +7,7 @@ nav: true
 
 ***Corresponding Author**   
 
-- **Zhang H***, Wolf D *. [Break on Through to the Other Side: How Trained Monocytes Promote Recovery From Hind Limb Ischemia.](https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.317257) _Arterioscler Thromb Vasc Biol_. 2021 Dec 23;ATVBAHA121317257.     
+- **Zhang H** *, Wolf D *. [Break on Through to the Other Side: How Trained Monocytes Promote Recovery From Hind Limb Ischemia.](https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.317257) _Arterioscler Thromb Vasc Biol_. 2021 Dec 23;ATVBAHA121317257.     
 - **Zhang H** *, Chen ZB, Fredman G, Gomez D, Grumbach IM, Huang NF, Nguyen PKP, Ouimet M, Sutton NR, Aikawa E. [What Makes a Great Mentor: Interviews With Recipients of the ATVB Mentor of Women Award.](https://www.ahajournals.org/doi/full/10.1161/ATVBAHA.121.316558) _Arterioscler Thromb Vasc Biol_. 2021 Nov;41(11):2641-2647.
 - Miller, CL *, **Zhang H** *. [Clarifying the distinct roles of smooth muscle cell-derived vs macrophage foam cells and the implications in atherosclerosis.](https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.316287) _Arterioscler Thromb Vasc Biol_. 2021. 41 (6), 2035-2037.       
 - Kasikara C, Schilperoort M, Gerlach BD, Xue C, Wang X, Zheng Z, Kuriakose G, Dorweiler B, **Zhang H**, Fredman G, Saleheen D, Reilly MP, Tabas I. [Deficiency of macrophage PHACTR1 impairs efferocytosis and promotes atherosclerotic plaque necrosis.](https://www.jci.org/articles/view/145275) _J Clin Invest_. 2021 Feb 25:145275. doi: 10.1172/JCI145275. Online ahead of print. PMID: 33630758      
