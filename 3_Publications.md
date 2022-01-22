@@ -5,8 +5,9 @@ nav: true
 
 # **Selected Publications**  
 
-***Corresponding Author**   
+* **Corresponding Author**   
 
+- Shi J,# Wu X,# Wang Z, Li F, Meng Y, Moore RM, Cui J, Xue C, Croce KR, Yurdagul Jr A, Doench JG, Li W, Zarbalis KS, Tabas I, Yamamoto A, **Zhang H** *, A Genome-wide CRISPR Screen Identifies WDFY3 as a Novel Regulator of Macrophage Efferocytosis. BIORXIV/2022/477299.    
 - **Zhang H** *, Wolf D *. [Break on Through to the Other Side: How Trained Monocytes Promote Recovery From Hind Limb Ischemia.](https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.317257) _Arterioscler Thromb Vasc Biol_. 2021 Dec 23;ATVBAHA121317257.     
 - **Zhang H** *, Chen ZB, Fredman G, Gomez D, Grumbach IM, Huang NF, Nguyen PKP, Ouimet M, Sutton NR, Aikawa E. [What Makes a Great Mentor: Interviews With Recipients of the ATVB Mentor of Women Award.](https://www.ahajournals.org/doi/full/10.1161/ATVBAHA.121.316558) _Arterioscler Thromb Vasc Biol_. 2021 Nov;41(11):2641-2647.
 - Miller, CL *, **Zhang H** *. [Clarifying the distinct roles of smooth muscle cell-derived vs macrophage foam cells and the implications in atherosclerosis.](https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.316287) _Arterioscler Thromb Vasc Biol_. 2021. 41 (6), 2035-2037.       
