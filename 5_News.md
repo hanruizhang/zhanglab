@@ -19,7 +19,7 @@ WDFY3 is Required for the Efficient Degradation of Engulfed Apoptotic Cells by M
 #### **[07/01/2021]** Hanrui is named the "[Irving Scholar](https://www.irvinginstitute.columbia.edu/news/announcing-2021-2024-irving-scholars){:target="_blank"}" and "Herbert Irving Assistant Professor of Medical Sciences".
 #### **[04/01/2021]** Congratulations to Xun for receiving an **American Heart Association Postdoctoral Fellowship**!      
 #### **[11/17/2020]** Ziyi has received **"Honors in Thesis Research"**. We are so excited for you!    
-#### **[05/07/2020]** Hanrui has won the [Irving H. Page Junior Faculty Research Award](https://professional.heart.org/en/partners/awards-and-lectures/early-career-awards/irvine-h-page-junior-faculty-research-award){:target="_blank"} sponsored by the American Heart Association ATVB Council.                  
+#### **[05/07/2020]** Hanrui has won the [Irvine H. Page Junior Faculty Research Award](https://professional.heart.org/en/partners/awards-and-lectures/early-career-awards/irvine-h-page-junior-faculty-research-award){:target="_blank"} sponsored by the American Heart Association ATVB Council.                  
 Thanks the team, our collaborators, funding support from the NIH/AHA/The Russell Berrie Foundation, and the AHA ATVB community!
 
 #### **[04/20/2020]** The lab has received a 5-year R01 (2020-2025) to explore novel regulators of macrophage efferocytosis discovered by genome-wide CRISPR screens.        
