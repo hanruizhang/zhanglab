@@ -14,7 +14,7 @@ nav: true
 ### Functional genomic tools and fundamentals ([HTML](/file/Functional-Genomics-Tools_202004.html)) by **Jianting**
 ### Single cell RNA-seq analysis using Seurat 2.3.4 ([Rmd](/file/scRNAseq_Tutorial_latest.Rmd))/([HTML](/file/scRNAseq_Tutorial_latest.html)), Seurat 3.0 ([Rmd](/file/Zhang_Seurat_PBMC_20191001.Rmd)), and Seurat 3.1 ([Rmd](/file/00_Seurat_PBMC_20200310.Rmd))/([HTML](/file/00_Seurat_PBMC_20200310.html)) by **Sophie** and Hanrui   
 ### [HPC Instructions](https://hanruizhang.github.io/ZhangLab-HPC-Instructions/) by Hanrui
-### [Analysis of Label-free Proteomics Data by Perseus](/file/Perseus_Tutorial.html) by Hanrui
+### [Analysis of Label-free Proteomics Data by Perseus](/file/Perseus_Tutorial_20220228.html) by Hanrui
       
 ------
 &nbsp;
