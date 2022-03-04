@@ -35,8 +35,7 @@ Hanrui is the Vice Chair of the Arteriosclerosis, Thrombosis and Vascular Biolog
 # **Lab Members**
 
 ## Jianting Shi, MS 
-### Research Specialist 
-**Email: js5095@cumc.columbia.edu**        
+### Research Specialist     
 My work focuses on exploring the functionality of myeloid cells and their roles in cardiometabolic diseases using genome-wide CRISPR screen and next-gen sequencing technologies.     
 
 ### Education & Training
@@ -48,8 +47,7 @@ My work focuses on exploring the functionality of myeloid cells and their roles 
   <img src="{{ '/images/Fang_Li.jpg' | absolute_url }}" alt="Fang_Li" width="160">
 </div>
      
-### Postdoctoral Scientist, **_AHA Postdoctoral Fellow_**   
-**Email: fl2532@cumc.columbia.edu**      
+### Postdoctoral Scientist, **_AHA Postdoctoral Fellow_**       
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9180-3615" href="https://orcid.org/0000-0001-9180-3615" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-9180-3615</a></div>   
 <a href="https://twitter.com/FangLi47313348" class="twitter-follow-button" data-show-count="false">Follow @FangLi</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -68,7 +66,6 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ### Postdoctoral Scientist, **_AHA Postdoctoral Fellow_**          
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0742-7459" href="https://orcid.org/0000-0002-0742-7459 " target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0742-7459 </a></div>
-**Email**: xw2698@cumc.columbia.edu    
 
 ### Education & Training
 - BS, 2011, Anhui Science and technology university, China         
