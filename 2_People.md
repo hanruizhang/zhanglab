@@ -79,7 +79,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - MS in Human Nutrition, 2021, Institute of Human Nutrition, Columbia University, New York City, NY     
 
 ## Rebecca Moore
-#### MS student in Human Nutrition (2020-2021), Institute of Human Nutrition, Columbia University.
+### Research Specialist, Casual Position
+### Education & Training
+- MS in Human Nutrition, 2021, Institute of Human Nutrition, Columbia University, New York City, NY  
 
 ## Rayna Batya-Leia Berris
 #### MS student in Biomedical Engineering (2021-2022), Fu Foundation School of Engineering and Applied Science, Columbia University
@@ -93,6 +95,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Annie Rozenblyum
 #### Undergraduate Research Assistant, Barnard College 2022
 
+## Tyler Shern
+#### Undergraduate Research Assitant, SRF (Science Research Fellow) and SURF Scholar, Columbia University 2025
+
 ## Philip Ha
 #### High School Student, Townsend Harris 2022
 
@@ -103,6 +108,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## MS Student
 Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021)       
 Shamma Ali, MS in Human Nutrition, Columbia University (09/2020-09/2021)
+Rebecca Moore, MS in Human Nutrition Columbia University (09/2020-04/2022)    
 
 ## Undergraduate Researchers
 Eden Tilahun Teferi, Columbia College 2021 (09/2018-01/2019)     
