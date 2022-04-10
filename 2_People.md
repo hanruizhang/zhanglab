@@ -107,7 +107,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 # **Lab Alumni**
 ## MS Student
 Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021)       
-Shamma Ali, MS in Human Nutrition, Columbia University (09/2020-09/2021)
+Shamma Ali, MS in Human Nutrition, Columbia University (09/2020-09/2021)    
 Rebecca Moore, MS in Human Nutrition Columbia University (09/2020-04/2022)    
 
 ## Undergraduate Researchers
