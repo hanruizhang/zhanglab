@@ -5,7 +5,7 @@ nav: true
 
 # **Selected Publications**  
 
-***** **Corresponding Author**   
+__*__ **Corresponding Author**   
 
 
 - Shi J,# Wu X,# Wang Z, Li F, Meng Y, Moore RM, Cui J, Xue C, Croce KR, Yurdagul Jr A, Doench JG, Li W, Zarbalis KS, Tabas I, Yamamoto A, **Zhang H** *, [A Genome-wide CRISPR Screen Identifies WDFY3 as a Novel Regulator of Macrophage Efferocytosis](https://www.biorxiv.org/content/10.1101/2022.01.21.477299v1). BioRxiv/2022.01.21.477299.    
