@@ -83,9 +83,6 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ### Education & Training
 - MS in Human Nutrition, 2021, Institute of Human Nutrition, Columbia University, New York City, NY  
 
-## Nicole Lin
-#### Data Science Institute Scholar, Columbia College 2024.
-
 ## Tyler Shern
 #### Undergraduate Research Assitant, SRF (Science Research Fellow) and SURF Scholar, Columbia University 2025
 
