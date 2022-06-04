@@ -102,9 +102,9 @@ Rebecca Moore, MS in Human Nutrition Columbia University (09/2020-04/2022)
 Eden Tilahun Teferi, Columbia College 2021 (09/2018-01/2019)     
 Raneem Hamad, Columbia College 2021 (09/2018-03/2020)    
 Eileen Moudou, Columbia College 2020 (01/2019-05/2019)         
-Yolanda Jean-Baptiste, BS, Fellow of the NERA Program (06/2019-07/2019)
-Jeana Chun, BS, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022 (01/2019-05/2022)
-Annie Rozenblyum, BS, Barnard College 2022 (01/2019-05/2022)
+Yolanda Jean-Baptiste, BS, Fellow of the NERA Program (06/2019-07/2019)     
+Jeana Chun, BS, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022 (01/2019-05/2022)      
+Annie Rozenblyum, BS, Barnard College 2022 (01/2019-05/2022)       
 
 ## Columbia Data Science Institute (DSI) Scholars
 Joey Zihui Gu, MS in Data Science, Columbia University (09/2018-12/2018)     
