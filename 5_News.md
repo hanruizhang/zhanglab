@@ -10,6 +10,8 @@ nav: true
 
      
 ## **Lab News**
+#### **[07/01/2022]** Congratulations to Xun for receiving the _Keystone Symposia Scholarship_! The lab has given 3 oral presentations and 1 poster presentation at [GRC-Immunometabolism](https://www.grc.org/immunometabolism-in-health-and-disease-conference/2022/), [GRC-Lipoprotein Metabolism](https://www.grc.org/lipoprotein-metabolism-conference/2022/), and [Keystone Symposia - Resolution of Inflammation](https://www.keystonesymposia.org/conferences/conference-listing/meeting?eventid=6846) this Summer!
+
 #### **[10/21/2021]** Our abstract has received the **_Paul Dudley White International Scholar Award_** that recognizes the authors with the highest ranked abstract from the United States at Scientific Sessions 2021! Congrats to all the authors for the ourstanding work!   
 
 "Xun Wu, Ziyi Wang, Jianting Shi, Fang Li, Young Joo Yang, Rebecca M. Moore, Margot K. Chirikjian, Ira A. Tabas, Ai Yamamoto, Hanrui Zhang. 
