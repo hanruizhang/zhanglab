@@ -13,7 +13,7 @@ nav: true
 
 ### **[07/29/2022]** Ziyi's last day in the lab and she will be a PharmD candidate next month! We are grateful for her contribution and so pround of what she has accomplished!
 
-#### **[07/01/2022]** Congratulations to Xun for receiving the _Keystone Symposia Scholarship_! The lab has given 3 oral presentations and 1 poster presentation at [GRC-Immunometabolism](https://www.grc.org/immunometabolism-in-health-and-disease-conference/2022/), [GRC-Lipoprotein Metabolism](https://www.grc.org/lipoprotein-metabolism-conference/2022/), and [Keystone Symposia - Resolution of Inflammation](https://www.keystonesymposia.org/conferences/conference-listing/meeting?eventid=6846) this Summer!
+#### **[07/01/2022]** Congratulations to Xun for receiving the _Keystone Symposia Scholarship_! The lab has given **three** oral presentations and **one** poster presentation at [GRC-Immunometabolism](https://www.grc.org/immunometabolism-in-health-and-disease-conference/2022/), [GRC-Lipoprotein Metabolism](https://www.grc.org/lipoprotein-metabolism-conference/2022/), and [Keystone Symposia - Resolution of Inflammation](https://www.keystonesymposia.org/conferences/conference-listing/meeting?eventid=6846) this Summer!
 
 #### **[10/21/2021]** Our abstract has received the **_Paul Dudley White International Scholar Award_** that recognizes the authors with the highest ranked abstract from the United States at Scientific Sessions 2021! Congrats to all the authors for the ourstanding work!   
 
@@ -24,8 +24,7 @@ WDFY3 is Required for the Efficient Degradation of Engulfed Apoptotic Cells by M
 #### **[07/01/2021]** Hanrui is named the "[Irving Scholar](https://www.irvinginstitute.columbia.edu/news/announcing-2021-2024-irving-scholars){:target="_blank"}" and "Herbert Irving Assistant Professor of Medical Sciences".
 #### **[04/01/2021]** Congratulations to Xun for receiving an **American Heart Association Postdoctoral Fellowship**!      
 #### **[11/17/2020]** Ziyi has received **"Honors in Thesis Research"**. We are so excited for you!    
-#### **[05/07/2020]** Hanrui has won the **[Irvine H. Page Junior Faculty Research Award](https://professional.heart.org/en/partners/awards-and-lectures/early-career-awards/irvine-h-page-junior-faculty-research-award){:target="_blank"}** sponsored by the American Heart Association ATVB Council.                  
-Thanks the team, our collaborators, funding support from the NIH/AHA/The Russell Berrie Foundation, and the AHA ATVB community!
+#### **[05/07/2020]** Hanrui has won the **[Irvine H. Page Junior Faculty Research Award](https://professional.heart.org/en/partners/awards-and-lectures/early-career-awards/irvine-h-page-junior-faculty-research-award){:target="_blank"}** sponsored by the American Heart Association ATVB Council. Thanks the team, our collaborators, funding support from the NIH/AHA/The Russell Berrie Foundation, and the AHA ATVB community!     
 
 #### **[04/20/2020]** The lab has received a 5-year R01 (2020-2025) to explore novel regulators of macrophage efferocytosis discovered by genome-wide CRISPR screens.        
 
