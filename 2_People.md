@@ -70,13 +70,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ### Education & Training
 - BS, 2011, Anhui Science and technology university, China         
 - MS, 2014, Anhui University, China   
-- PhD, 2019, Chinese Academy of Sciences, China    
-
-## Ziyi Wang, MS
-### Research Specialist
-### Education & Training
-- BS in Business Management and Biology, 2018, Stony Brook University, Stony Brook, NY         
-- MS in Human Nutrition, 2021, Institute of Human Nutrition, Columbia University, New York City, NY     
+- PhD, 2019, Chinese Academy of Sciences, China        
 
 ## Rebecca Moore
 ### Research Specialist, Casual Position
@@ -94,7 +88,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 # **Lab Alumni**
 ## MS Student
-Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021)       
+Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021), Research Specialist (PT) in the lab (03/2021-07/2022).      
 Shamma Ali, MS in Human Nutrition, Columbia University (09/2020-09/2021)    
 Rebecca Moore, MS in Human Nutrition Columbia University (09/2020-04/2022)    
 
