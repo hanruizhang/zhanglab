@@ -11,7 +11,7 @@ nav: true
      
 ## **Lab News**
 
-#### **[07/29/2022]** Ziyi's last day in the lab and she will be a PharmD candidate next month! We are grateful for her contribution and so pround of what she has accomplished!
+#### **[07/29/2022]** Ziyi's last day in the lab and she will be a PharmD candidate next month! We are grateful for her contribution and so proud of what she has accomplished!
 
 #### **[07/01/2022]** Congratulations to Xun for receiving the _Keystone Symposia Scholarship_! The lab has given **three** oral presentations and **one** poster presentation at [GRC-Immunometabolism](https://www.grc.org/immunometabolism-in-health-and-disease-conference/2022/), [GRC-Lipoprotein Metabolism](https://www.grc.org/lipoprotein-metabolism-conference/2022/), and [Keystone Symposia - Resolution of Inflammation](https://www.keystonesymposia.org/conferences/conference-listing/meeting?eventid=6846) this Summer!
 
