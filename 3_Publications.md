@@ -9,6 +9,7 @@ __*__ **Corresponding Author**
 
 
 - Shi J,# Wu X,# Wang Z, Li F, Meng Y, Moore RM, Cui J, Xue C, Croce KR, Yurdagul Jr A, Doench JG, Li W, Zarbalis KS, Tabas I, Yamamoto A, **Zhang H** *, [A Genome-wide CRISPR Screen Identifies WDFY3 as a Novel Regulator of Macrophage Efferocytosis](https://www.biorxiv.org/content/10.1101/2022.01.21.477299v1). BioRxiv/2022.01.21.477299.
+- Shi H, Wang X, Li F, Gerlach1 BD, Yurdagul, A Jr.1‡, Moore M, Zeldin1 S, **Zhang H**, Cai B, Zheng Z, Valenti L, Tabas I. CD47-SIRPα axis blockade in NASH promotes necroptotic hepatocyte clearance by liver macrophages and decreases hepatic fibrosis. _Science Translational Medicine_. 2022. In Press.    
 - Bi X, Stankov S, Lee PC, Wang Z, Wu X, Li L, Ko YA, Cheng L, **Zhang H**, Hand NJ, Rader DJ. [ILRUN Promotes Atherosclerosis Through Lipid-Dependent and Lipid-Independent Factors](https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.317156). _Arterioscler Thromb Vasc Biol_. 2022 Jul 14; PMID: 35861973.    
 - **Zhang H** *, Wolf D *. [Break on Through to the Other Side: How Trained Monocytes Promote Recovery From Hind Limb Ischemia.](https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.317257) _Arterioscler Thromb Vasc Biol_. 2021 Dec 23;ATVBAHA121317257.     
 - **Zhang H** *, Chen ZB, Fredman G, Gomez D, Grumbach IM, Huang NF, Nguyen PKP, Ouimet M, Sutton NR, Aikawa E. [What Makes a Great Mentor: Interviews With Recipients of the ATVB Mentor of Women Award.](https://www.ahajournals.org/doi/full/10.1161/ATVBAHA.121.316558) _Arterioscler Thromb Vasc Biol_. 2021 Nov;41(11):2641-2647.
