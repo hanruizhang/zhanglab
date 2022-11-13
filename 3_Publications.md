@@ -7,7 +7,7 @@ nav: true
 
 __*__ **Corresponding Author**   
 
-
+- Li F *, Flynn E, Shi J, Wu X, Wang Z, Xue C, Cheng H, Meng Y, Cui J, Zhu Y, Rozenblyum A, Chun J, Hernandez-Ono A, Razani B, Westerterp M, Bauer RC, Suh Y, Hao K, Lappalainen T, **Zhang H** *. Decoding the Variant-to-Function Relationship for LIPA, a Risk Locus for CAD. BioRxiv/2022/516293.
 - Shi J,# Wu X,# Wang Z, Li F, Meng Y, Moore RM, Cui J, Xue C, Croce KR, Yurdagul Jr A, Doench JG, Li W, Zarbalis KS, Tabas I, Yamamoto A, **Zhang H** *, [A Genome-wide CRISPR Screen Identifies WDFY3 as a Novel Regulator of Macrophage Efferocytosis](https://www.biorxiv.org/content/10.1101/2022.01.21.477299v1). BioRxiv/2022.01.21.477299.
 - Shi H, Wang X, Li F, Gerlach1 BD, Yurdagul, Jr. A, Moore M, Zeldin S, **Zhang H**, Cai B, Zheng Z, Valenti L, Tabas I. CD47-SIRPα axis blockade in NASH promotes necroptotic hepatocyte clearance by liver macrophages and decreases hepatic fibrosis. _Science Translational Medicine_. 2022. In Press.    
 - Bi X, Stankov S, Lee PC, Wang Z, Wu X, Li L, Ko YA, Cheng L, **Zhang H**, Hand NJ, Rader DJ. [ILRUN Promotes Atherosclerosis Through Lipid-Dependent and Lipid-Independent Factors](https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.317156). _Arterioscler Thromb Vasc Biol_. 2022 Sep;42(9):1139-1151; PMID: 35861973.    
