@@ -7,7 +7,7 @@ nav: true
 
 __*__ **Corresponding Author**   
 
-- Shi J,# Wu X,# Wang Z, Li F, Meng Y, Moore RM, Cui J, Xue C, Croce KR, Yurdagul Jr A, Doench JG, Li W, Zarbalis KS, Tabas I, Yamamoto A, **Zhang H** *, [A Genome-wide CRISPR Screen Identifies WDFY3 as a Novel Regulator of Macrophage Efferocytosis](https://www.biorxiv.org/content/10.1101/2022.01.21.477299v1). _Nature Communications_. 2022. [In Press](https://doi.org/10.1038/s41467-022-35604-8).
+- Shi J,# Wu X,# Wang Z, Li F, Meng Y, Moore RM, Cui J, Xue C, Croce KR, Yurdagul Jr A, Doench JG, Li W, Zarbalis KS, Tabas I, Yamamoto A, **Zhang H** *, [A Genome-wide CRISPR Screen Identifies WDFY3 as a Novel Regulator of Macrophage Efferocytosis](https://www.biorxiv.org/content/10.1101/2022.01.21.477299v1). _Nature Communications_. Accepted on 12/13/2022. [In Press](https://doi.org/10.1038/s41467-022-35604-8).
 - Li F *, Flynn E, Shi J, Wu X, Wang Z, Xue C, Cheng H, Meng Y, Cui J, Zhu Y, Rozenblyum A, Chun J, Hernandez-Ono A, Razani B, Westerterp M, Bauer RC, Suh Y, Hao K, Lappalainen T, **Zhang H** *. Decoding the Variant-to-Function Relationship for LIPA, a Risk Locus for CAD. BioRxiv/2022/516293.
 - Li F, **Zhang H**. Targeting Epsins to reverse atherosclerosis. _Circ Res_, 2023, Jan 6. In Press.
 - Li F, **Zhang H**. [Commentary: Monocyte and Macrophage Lipid Accumulation Results in Down-Regulated Type-I Interferon Responses.](doi: 10.3389/fcvm.2022.1086136) _Front. Cardiovasc. Med._, doi: 10.3389/fcvm.2022.1086136.    
