@@ -7,7 +7,7 @@ nav: true
 
 __*__ **Corresponding Author**   
 
-- Shi J,# Wu X,# Wang Z, Li F, Meng Y, Moore RM, Cui J, Xue C, Croce KR, Yurdagul Jr A, Doench JG, Li W, Zarbalis KS, Tabas I, Yamamoto A, **Zhang H** *, [A Genome-wide CRISPR Screen Identifies WDFY3 as a Regulator of Macrophage Efferocytosis](https://doi.org/10.1038/s41467-022-35604-8). _Nature Communications_. 13, 7929 (2022). https://doi.org/10.1038/s41467-022-35604-8.
+- Shi J,# Wu X,# Wang Z, Li F, Meng Y, Moore RM, Cui J, Xue C, Croce KR, Yurdagul Jr A, Doench JG, Li W, Zarbalis KS, Tabas I, Yamamoto A, **Zhang H** *, [A Genome-wide CRISPR Screen Identifies WDFY3 as a Regulator of Macrophage Efferocytosis](https://doi.org/10.1038/s41467-022-35604-8). _Nature Communications_. 2022 Dec 24;13(1):7929. PMID: 36566259.
 - Li F *, Flynn E, Shi J, Wu X, Wang Z, Xue C, Cheng H, Meng Y, Cui J, Zhu Y, Rozenblyum A, Chun J, Hernandez-Ono A, Razani B, Westerterp M, Bauer RC, Suh Y, Hao K, Lappalainen T, **Zhang H** *. Decoding the Variant-to-Function Relationship for LIPA, a Risk Locus for CAD. BioRxiv/2022/516293.
 - Li F, **Zhang H** *. Targeting Epsins to reverse atherosclerosis. _Circ Res_, 2023, Jan 6. In Press.
 - Li F, **Zhang H** *. [Commentary: Monocyte and Macrophage Lipid Accumulation Results in Down-Regulated Type-I Interferon Responses.](https://www.frontiersin.org/articles/10.3389/fcvm.2022.1086136/full). _Front Cardiovasc Med_, doi: 10.3389/fcvm.2022.1086136.    
@@ -32,4 +32,4 @@ __*__ **Corresponding Author**
 - **Zhang H**, Xue C, Shah R, Bermingham K, Hinkle CC, Li W, Rodrigues A, Tabita-Martinez J, Millar JS, Cuchel M, Pashos EE, Liu Y, Yan R, Yang W, Gosai SJ, VanDorn D, Chou ST, Gregory BD, Morrisey EE, Li M, Rader DJ, Reilly MP. [Functional analysis and transcriptomic profiling of iPSC-derived macrophages and their application in modeling Mendelian disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4565503/). _Circulation Research_. 2015 Jun 19;117(1):17-28.
 
      
-### **For a complete list of 71 publications, please visit [PubMed.gov](https://www.ncbi.nlm.nih.gov/myncbi/hanrui.zhang.1/bibliography/public/). Dr. Zhang's [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7X1CyDapGJzdDnDEe-E6DBE-s9JXz75DhHIyt_My4-7-Wn2Wnu4b-6_TQeAP1WK597WTCf8wKOrbZVy3KNB0Hm5Kw6Hw&user=20tuWCkAAAAJ) h-index is 35.**
+### **For a complete list of 72 publications, please visit [PubMed.gov](https://www.ncbi.nlm.nih.gov/myncbi/hanrui.zhang.1/bibliography/public/). Dr. Zhang's [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7X1CyDapGJzdDnDEe-E6DBE-s9JXz75DhHIyt_My4-7-Wn2Wnu4b-6_TQeAP1WK597WTCf8wKOrbZVy3KNB0Hm5Kw6Hw&user=20tuWCkAAAAJ) h-index is 35.**
