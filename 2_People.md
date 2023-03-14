@@ -47,7 +47,7 @@ My work focuses on exploring the functionality of myeloid cells and their roles 
   <img src="{{ '/images/Fang_Li.jpg' | absolute_url }}" alt="Fang_Li" width="160">
 </div>
      
-### Postdoctoral Scientist, **_AHA Postdoctoral Fellow_**       
+### Postdoctoral Scientist, **_AHA Postdoctoral Fellow, CDA Awardee_**       
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9180-3615" href="https://orcid.org/0000-0001-9180-3615" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-9180-3615</a></div>   
 <a href="https://twitter.com/FangLi47313348" class="twitter-follow-button" data-show-count="false">Follow @FangLi</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -81,7 +81,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 #### Undergraduate Research Assitant, SRF (Science Research Fellow) and SURF Scholar, Columbia University 2025
 
 ## Philip Ha
-#### High School Student, Townsend Harris 2022
+#### Undergraduate Research Assistant, Hunter College 2026
 
 ------
 &nbsp;
@@ -109,7 +109,10 @@ Neha Pusarla, MS in Data Science, Columbia Univ. (03/2021-06/2021)
 Sophie Shan, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022 (11/2019-09/2021)
 
 ## Visting Scientists
-Yujiao Meng, Visiting PhD Student, Beijing Univ. of Chinese Medicine (12/2019-03/2021).          
+Yujiao Meng, Visiting PhD Student, Beijing Univ. of Chinese Medicine (12/2019-03/2021).    
+
+## High School Students
+Philip Ha, Townsend Harris 2022 (03/2020-08/2022) -> Undergraduate Research Assistant in the lab.
 
 
 
