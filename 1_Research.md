@@ -14,7 +14,7 @@ Dr. Zhang's laboratory seeks to understand the dynamic role of macrophages in ca
 
 **The main areas of research in the laboratory include:**        
 
-* Functional genomics and mechanistic studies of candidate genes and genetic variants inspired by human genome-wide association studies of cardiometabolic traits. [R01-HL-168174](https://reporter.nih.gov/search/zQE0vAern0yY4dtpLdbNag/project-details/10639274) [R00-HL-130574](https://projectreporter.nih.gov/project_info_description.cfm?aid=9765372&icde=49755340&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=)        
+* Functional genomics and mechanistic studies of candidate genes and genetic variants inspired by human genome-wide association studies of cardiometabolic traits. [R01-HL-168174](https://reporter.nih.gov/search/zQE0vAern0yY4dtpLdbNag/project-details/10639274) and [R00-HL-130574](https://projectreporter.nih.gov/project_info_description.cfm?aid=9765372&icde=49755340&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=)        
 
 * Unbiased CRISPR screening to discover novel regulators of macrophage function, in particular macrophage efferocytosis, and investigate their roles in homeostasis and diseases, including atherosclerosis. [R01-HL-151611](https://projectreporter.nih.gov/project_info_description.cfm?aid=9945435&icde=49996451&ddparam=&ddvalue=&ddsub=&cr=2&csb=default&cs=ASC&pball=)      
 
