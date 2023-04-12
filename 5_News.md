@@ -10,6 +10,8 @@ nav: true
 
      
 ## **Lab News**
+#### ##[04/01/2023]** The lab has received a [MPI R01](https://reporter.nih.gov/search/zQE0vAern0yY4dtpLdbNag/project-details/10639274) in collaboration with Drs. Edoardo Marcora and Wei Li to systematically connect variant to function for CAD loci using functional genomic screening. 
+
 #### **[03/13/2023]** Congratulations to Fang for receiving the AHA Career Development Award! So very well deserved!
 
 #### **[07/29/2022]** Ziyi's last day in the lab and she will be a PharmD candidate next month! We are grateful for her contribution and so proud of what she has accomplished!
