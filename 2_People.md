@@ -34,14 +34,6 @@ Hanrui is the **Chair of the [Women's Leadership Committee](https://professional
 
 # **Lab Members**
 
-## Jianting Shi, MS 
-### Research Specialist     
-My work focuses on exploring the functionality of myeloid cells and their roles in cardiometabolic diseases using genome-wide CRISPR screen and next-gen sequencing technologies.     
-
-### Education & Training
-- BE, 2010, Guangdong University of Technology, China
-- MS, 2014, UMDNJ (now Rowan University), Stratford, NJ
-
 ## Fang Li, PhD
 <div> 
   <img src="{{ '/images/Fang_Li.jpg' | absolute_url }}" alt="Fang_Li" width="160">
@@ -68,14 +60,14 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0742-7459" href="https://orcid.org/0000-0002-0742-7459 " target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0742-7459 </a></div>
 
 ### Education & Training
-- BS, 2011, Anhui Science and technology university, China         
+- BS, 2011, Anhui Science and Technology University, China         
 - MS, 2014, Anhui University, China   
 - PhD, 2019, Chinese Academy of Sciences, China        
 
 ## Rehet Chugh
 ### MS student in Human Nutrition, Columbia University, New York City, NY.  
 ### Education & Training
-- BS in Health Sciences, 2021, California Northstate University of Health Sciences.     
+- BS in Health Sciences, 2021, California Northstate University of Health Sciences         
 
 ## Tyler Shern
 #### Undergraduate Research Assitant, SRF (Science Research Fellow) and SURF Scholar, Columbia University 2025
@@ -87,32 +79,35 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 &nbsp;
 
 # **Lab Alumni**
+## Research Specialist
+Jianting Shi, MS, Research Specialist (03/2017-08/2023) --> Data Analyst       
+
 ## MS Student
-Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021), Research Specialist (PT) in the lab (03/2021-07/2022).      
+Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021), Research Specialist (PT) in the lab (03/2021-07/2022)      
 Shamma Ali, MS in Human Nutrition, Columbia University (09/2020-09/2021)    
-Rebecca Moore, MS in Human Nutrition Columbia University (09/2020-09/2022), Research Specialist (Casual) in the lab.    
+Rebecca Moore, MS in Human Nutrition Columbia University (09/2020-09/2022), Research Specialist (Casual) in the lab    
 
 ## Undergraduate Researchers
 Eden Tilahun Teferi, Columbia College 2021 (09/2018-01/2019)     
 Raneem Hamad, Columbia College 2021 (09/2018-03/2020)    
 Eileen Moudou, Columbia College 2020 (01/2019-05/2019)         
 Yolanda Jean-Baptiste, BS, Fellow of the NERA Program (06/2019-07/2019)     
-Jeana Chun, BS, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022 (01/2019-05/2022)      
+Jeana Chun, BS, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022 (01/2019-05/2022)    
 Annie Rozenblyum, BS, Barnard College 2022 (01/2019-05/2022)       
 
 ## Columbia Data Science Institute (DSI) Scholars
 Joey Zihui Gu, MS in Data Science, Columbia University (09/2018-12/2018)     
-Jiayi Shen, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019)     
-Jianyou Liu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019)     
-Joy Hsu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (11/2019-05/2020)
+Jiayi Shen, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019) --> PhD program   
+Jianyou Liu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019)        
+Joy Hsu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (11/2019-05/2020)    
 Neha Pusarla, MS in Data Science, Columbia Univ. (03/2021-06/2021)      
-Sophie Shan, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022 (11/2019-09/2021)
+Sophie Shan, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022 (11/2019-09/2021) --> PhD program    
 
 ## Visting Scientists
-Yujiao Meng, Visiting PhD Student, Beijing Univ. of Chinese Medicine (12/2019-03/2021).    
+Yujiao Meng, Visiting PhD Student, Beijing Univ. of Chinese Medicine (12/2019-03/2021)    
 
 ## High School Students
-Philip Ha, Townsend Harris 2022 (03/2020-08/2022) -> Undergraduate Research Assistant in the lab.
+Philip Ha, Townsend Harris 2022 (03/2020-08/2022) --> Undergraduate Research Assistant in the lab    
 
 
 
