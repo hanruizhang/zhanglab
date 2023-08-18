@@ -80,12 +80,12 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 # **Lab Alumni**
 ## Research Specialist
-Jianting Shi, MS, Research Specialist (03/2017-08/2023) --> Data Analyst       
+Jianting Shi, MS, Research Specialist (03/2017-08/2023) ---> Data Analyst       
 
 ## MS Student
-Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021) --> Research Specialist (PT, 03/2021-07/2022) --> PharmD program     
+Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021), Research Specialist (PT, 03/2021-07/2022) ---> PharmD program     
 Shamma Ali, MS in Human Nutrition, Columbia University (09/2020-09/2021)    
-Rebecca Moore, MS in Human Nutrition Columbia University (09/2020-09/2022) --> Research Specialist (Casual, 09/2022-12/2022)    
+Rebecca Moore, MS in Human Nutrition Columbia University (09/2020-09/2022), Research Specialist (Casual, 09/2022-12/2022)    
 
 ## Undergraduate Researchers
 Eden Tilahun Teferi, Columbia College 2021 (09/2018-01/2019)     
