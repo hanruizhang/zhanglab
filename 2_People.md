@@ -80,7 +80,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 # **Lab Alumni**
 ## Research Specialist
-Jianting Shi, MS, Research Specialist (03/2017-08/2023) ---> Data Analyst       
+Jianting Shi, MS, Research Specialist (07/2018-08/2023) ---> Data Analyst       
 
 ## MS Student
 Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021), Research Specialist (PT, 03/2021-07/2022) ---> PharmD program     
