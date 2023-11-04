@@ -16,6 +16,15 @@ nav: true
 
 <a href="https://twitter.com/hanrui_zhang?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @hanrui_zhang</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<p>
+  <a href="https://www.linkedin.com/in/hanrui-zhang-57bb6a29/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/hanruizhang" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
+
 
 **[Dr. Hanrui Zhang](https://www.columbiacardiology.org/profile/hanrui-zhang-phd)** is a macrophage biologist. She completed her PhD training in 2011 at the University of Missouri. Her graduate work centered on the crosstalk between immune cells and blood vessels in diabetes-associated vascular diseases. Her postdoctoral research at the University of Pennsylvania continued to address the mechanisms of cardiometabolic diseases focusing on macrophage lipid metabolism and inflammation using gene targeting in human induced pluripotent stem cells (iPSC) with differentiation to macrophages. Her laboratory at Columbia University Irving Medical Center seeks to understand the dynamic role of macrophages in cardiometabolic diseases with the aim of finding novel mechanisms and new treatments.     
 
@@ -78,11 +87,6 @@ I am interested in the functional interrogation of coronary artery disease-assoc
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a>
 </p>
-
-
-<a href="https://www.linkedin.com/in/mazal-zebak-83489016a/" class="social-icon si-rounded si-small si-linkedin" target="_blank">
-    <i class="icon-linkedin"></i>
-</a>
 
 ### Research Specialist       
 ### Education & Training
