@@ -70,10 +70,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
   <img src="{{ '/images/Mazal_Zebak.jpg' | absolute_url }}" alt="Mazal_Zebak" width="160">
 </div>
 
- <a href="https://www.linkedin.com/in/mazal-zebak-83489016a/" class="social-icon si-rounded si-small si-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/mazal-zebak-83489016a/" class="social-icon si-rounded si-small si-linkedin" target="_blank">
     <i class="icon-linkedin"></i>
-    <i class="icon-linkedin"></i>
- </a>
+</a>
 
 ### Research Specialist       
 ### Education & Training
