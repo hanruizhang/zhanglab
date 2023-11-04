@@ -62,8 +62,18 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ### Education & Training
 - BS, 2011, Anhui Science and Technology University, China         
 - MS, 2014, Anhui University, China   
-- PhD, 2019, Chinese Academy of Sciences, China        
+- PhD, 2019, Chinese Academy of Sciences, China
 
+
+## Mazal Zebak, BS
+<div> 
+  <img src="{{ '/images/Mazal_Zebak.jpg' | absolute_url }}" alt="Mazal_Zebak" width="160">
+</div>
+     
+### Research Specialist       
+### Education & Training
+- BA in Chemistry, 2023, Harvard University
+ 
 ## Rehet Chugh
 ### MS student in Human Nutrition, Columbia University, New York City, NY.  
 ### Education & Training
