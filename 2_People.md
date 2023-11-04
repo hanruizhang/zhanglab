@@ -65,14 +65,15 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - PhD, 2019, Chinese Academy of Sciences, China
 
 
-## Mazal Zebak, BS
+## Mazal Zebak, BA
 <div> 
   <img src="{{ '/images/Mazal_Zebak.jpg' | absolute_url }}" alt="Mazal_Zebak" width="160">
 </div>
 
-<a href="[https://linkedin.com/your/profile/url](https://www.linkedin.com/in/mazal-zebak-83489016a/)" class="social-icon si-rounded si-small si-linkedin">
-  <i class="icon-linkedin"></i>
-</a>
+ <a href="https://www.linkedin.com/in/mazal-zebak-83489016a/" class="social-icon si-rounded si-small si-linkedin" target="_blank">
+    <i class="icon-linkedin"></i>
+    <i class="icon-linkedin"></i>
+ </a>
 
 ### Research Specialist       
 ### Education & Training
