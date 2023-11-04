@@ -69,7 +69,11 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 <div> 
   <img src="{{ '/images/Mazal_Zebak.jpg' | absolute_url }}" alt="Mazal_Zebak" width="160">
 </div>
-     
+
+<a href="[https://linkedin.com/your/profile/url](https://www.linkedin.com/in/mazal-zebak-83489016a/)" class="social-icon si-rounded si-small si-linkedin">
+  <i class="icon-linkedin"></i>
+</a>
+
 ### Research Specialist       
 ### Education & Training
 - BA in Chemistry, 2023, Harvard University
