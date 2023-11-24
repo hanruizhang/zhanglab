@@ -24,7 +24,8 @@ url: https://hanruizhang.github.io
 baseurl: /zhanglab
 
 # analytics if desired (and use environment variable on build command)
-# google_analytics: UA-74844011-1
+# Stream name: Zhang Lab, on 11/24/2023
+google_analytics: G-V0NP4ZQMME
 
 # defaults (to simplify front matter)
 defaults:
