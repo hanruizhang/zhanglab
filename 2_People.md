@@ -98,7 +98,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 #### Undergraduate Research Assitant, SRF (Science Research Fellow) and SURF Scholar, Columbia University 2025
 
 ## Philip Ha
-#### Undergraduate Research Assistant, Hunter College 2026
+#### Undergraduate Research Assistant, Macaulay Honors College at Hunter College 2026
 
 ------
 &nbsp;
