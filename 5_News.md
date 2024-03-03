@@ -10,6 +10,9 @@ nav: true
 
      
 ## **Lab News**
+
+#### **[07/01/2023]** Hanrui has received the M. Iréne Ferrer Scholar Award by the [Fundation for Genger-specific Medicine](https://gendermed.org/).
+
 #### **[04/01/2023]** The lab has received an [MPI R01](https://reporter.nih.gov/search/zQE0vAern0yY4dtpLdbNag/project-details/10639274) in collaboration with Drs. Edoardo Marcora and Wei Li to systematically connect variant to function for CAD loci using functional genomic screening. 
 
 #### **[03/13/2023]** Congratulations to Fang for receiving the AHA Career Development Award! So very well deserved!
