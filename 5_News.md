@@ -11,9 +11,7 @@ nav: true
      
 ## **Lab News**
 
-#### **[03/28/2024]** News from #VD2024: **Xun** has been selected for the **Investigator-in-Training Award" competition as one of the four finalists.
-
-#### **[07/01/2021]** Hanrui is named the "[Irving Scholar](https://www.irvinginstitute.columbia.edu/news/announcing-2021-2024-irving-scholars){:target="_blank"}" and "Herbert Irving Assistant Professor of Medical Sciences".
+#### **[03/28/2024]** News from #VD2024: **Xun** has been selected as one of the four finalists for the **Investigator-in-Training Award".
 
 #### **[07/01/2023]** Hanrui has received the M. Iréne Ferrer Scholar Award by the [Foundation for Gender-specific Medicine](https://gendermed.org/).
 
