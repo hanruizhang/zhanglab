@@ -11,7 +11,7 @@ nav: true
      
 ## **Lab News**
 
-#### **[03/28/2024]** News from #VD2024: **Xun** has been selected as one of the four finalists for the **Investigator-in-Training Award".
+#### **[03/28/2024]** News from #VD2024: **Xun** has been selected as one of the four finalists for the **"Investigator-in-Training Award"**.
 
 #### **[07/01/2023]** Hanrui has received the M. Iréne Ferrer Scholar Award by the [Foundation for Gender-specific Medicine](https://gendermed.org/).
 
