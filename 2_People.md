@@ -105,10 +105,10 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 # **Lab Alumni**
 ## Research Specialist
-Jianting Shi, MS, Research Specialist (07/2018-08/2023)           
+Jianting Shi, MS, Research Specialist (07/2018-08/2023) –> Data Analyst          
 
 ## MS Student
-Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021), Research Specialist (PT, 03/2021-07/2022)         
+Ziyi Wang, MS in Human Nutrition, Columbia University (09/2019-02/2021), Research Specialist (PT, 03/2021-07/2022) –> PharmD program      
 Shamma Ali, MS in Human Nutrition, Columbia University (09/2020-09/2021)    
 Rebecca Moore, MS in Human Nutrition Columbia University (09/2020-09/2022), Research Specialist (Casual, 09/2022-12/2022)    
 
@@ -118,7 +118,7 @@ Raneem Hamad, Columbia College 2021 (09/2018-03/2020)
 Eileen Moudou, Columbia College 2020 (01/2019-05/2019)         
 Yolanda Jean-Baptiste, BS, Fellow of the NERA Program (06/2019-07/2019)     
 Jeana Chun, BS, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022 (01/2019-05/2022)    
-Annie Rozenblyum, BS, Barnard College 2022 (01/2019-05/2022)       
+Annie Rozenblyum, BS, Barnard College 2022 (01/2019-05/2022) –> MD program       
 
 ## Columbia Data Science Institute (DSI) Scholars
 Joey Zihui Gu, MS in Data Science, Columbia University (09/2018-12/2018)     
@@ -126,10 +126,10 @@ Jiayi Shen, MS in Biostatistics, Columbia Univ. Mailman School of Public Health 
 Jianyou Liu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019)        
 Joy Hsu, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (11/2019-05/2020)    
 Neha Pusarla, MS in Data Science, Columbia Univ. (03/2021-06/2021)      
-Sophie Shan, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022 (11/2019-09/2021)    
+Sophie Shan, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022 (11/2019-09/2021) –> PhD program   
 
 ## Visting Scientists
-Yujiao Meng, Visiting PhD Student, Beijing Univ. of Chinese Medicine (12/2019-03/2021)    
+Yujiao Meng, Visiting PhD Student, Beijing Univ. of Chinese Medicine (12/2019-03/2021) –> Instructor   
 
 ## High School Students
 Philip Ha, Townsend Harris 2022 (03/2020-08/2022) --> Undergraduate Research Assistant in the lab    
