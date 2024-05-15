@@ -129,7 +129,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 **Sophie Shan**, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022 (11/2019-09/2021) –> PhD program   
 
 ## Visting Scientists
-Yujiao Meng, Visiting PhD Student, Beijing Univ. of Chinese Medicine (12/2019-03/2021) –> Instructor   
+**Yujiao Meng**, Visiting PhD Student, Beijing Univ. of Chinese Medicine (12/2019-03/2021) –> Instructor   
 
 ## High School Students
 **Philip Ha**, Townsend Harris 2022 (03/2020-08/2022) --> Undergraduate Research Assistant in the lab    
