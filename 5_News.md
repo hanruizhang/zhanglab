@@ -11,7 +11,9 @@ nav: true
      
 ## **Lab News**
 
-#### **[03/28/2024]** News from #VD2024: **Xun** has been selected as one of the four finalists for the **"Investigator-in-Training Award"**.
+#### **[05/18/2024]** News from #VascularDiscovery24: 
+**Xun** was awarded as a finalist of the **"ATVB & PVD Council Investigator-in-Training Award."**     
+**Fang** received second place in the Young Investigator Award competition at the 18th CAAC Symposium.   
 
 #### **[07/01/2023]** Hanrui has received the M. Iréne Ferrer Scholar Award by the [Foundation for Gender-specific Medicine](https://gendermed.org/).
 
@@ -28,11 +30,14 @@ nav: true
 "Xun Wu, Ziyi Wang, Jianting Shi, Fang Li, Young Joo Yang, Rebecca M. Moore, Margot K. Chirikjian, Ira A. Tabas, Ai Yamamoto, Hanrui Zhang. 
 WDFY3 is Required for the Efficient Degradation of Engulfed Apoptotic Cells by Macrophages During Efferocytosis".     
 
-#### **[08/14/2021]** News from #AHA21: **Xun** has received the **["ATVB Outstanding Research Award"](https://professional.heart.org/en/meetings/scientific-sessions/awards){:target="_blank"}** and will present his abstract titled ["WDFY3 is Required for the Efficient Degradation of Engulfed Apoptotic Cells by Macrophages During Efferocytosis"](https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.11646). **Fang** was selected as one of the four finalists for the **"Elaine W. Raines Early Career Investigator Award"** and will present her manuscript ["Elucidating the Variant-to-Function Relationship for LIPA, a Risk Locus of Coronary Artery Diseases"](https://www.ahajournals.org/doi/10.1161/circ.144.suppl_1.10865)!    
+#### **[11/15/2021]** News from #AHA21: 
+**Xun** received the **ATVB Outstanding Research Award** and presented his abstract titled ["WDFY3 is Required for the Efficient Degradation of Engulfed Apoptotic Cells by Macrophages During Efferocytosis"](https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.11646){:target="_blank"}. **Xun** also received third place in the Young Investigator Award competition at the 2021 CAAC-ACRE-CNAHA Joint Research Symposium.    
+**Fang** was awarded as a finalist of the **"Elaine W. Raines Early Career Investigator Award"** and presented her manuscript ["Elucidating the Variant-to-Function Relationship for LIPA, a Risk Locus of Coronary Artery Diseases"](https://www.ahajournals.org/doi/10.1161/circ.144.suppl_1.10865){:target="_blank"}!    
+
 #### **[07/01/2021]** Hanrui is named the "[Irving Scholar](https://www.irvinginstitute.columbia.edu/news/announcing-2021-2024-irving-scholars){:target="_blank"}" and "Herbert Irving Assistant Professor of Medical Sciences".
 #### **[04/01/2021]** Congratulations to Xun for receiving an **American Heart Association Postdoctoral Fellowship**!      
 #### **[11/17/2020]** Ziyi has received **"Honors in Thesis Research"**. We are so excited for you!    
-#### **[05/07/2020]** **Hanrui has won the [Irvine H. Page Junior Faculty Research Award](https://professional.heart.org/en/partners/awards-and-lectures/early-career-awards/irvine-h-page-junior-faculty-research-award){:target="_blank"}** sponsored by the American Heart Association ATVB Council. Thanks the team, our collaborators, funding support from the NIH/AHA/The Russell Berrie Foundation, and the AHA ATVB community!     
+#### **[05/07/2020]** **Hanrui has won the [Irvine H. Page Junior Faculty Research Award](https://professional.heart.org/en/partners/awards-and-lectures/early-career-awards/irvine-h-page-junior-faculty-research-award){:target="_blank"}** sponsored by the American Heart Association ATVB Council. Thanks to the team, our collaborators, funding support from the NIH/AHA/The Russell Berrie Foundation, and the AHA ATVB community!     
 
 #### **[04/20/2020]** The lab has received a 5-year R01 (2020-2025) to explore novel regulators of macrophage efferocytosis discovered by genome-wide CRISPR screens.        
 
