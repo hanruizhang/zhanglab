@@ -88,12 +88,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ### Research Specialist       
 ### Education & Training
 - BA in Chemistry, 2023, Harvard University
- 
-## Rehet Chugh
-### MS student in Human Nutrition, Columbia University, New York City, NY.  
-### Education & Training
-- BS in Health Sciences, 2021, California Northstate University of Health Sciences         
-
+    
 ## Tyler Shern
 #### Undergraduate Research Assitant, SRF (Science Research Fellow) and SURF Scholar, Columbia University 2025
 
@@ -110,7 +105,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## MS Student
 **Ziyi Wang**, MS in Human Nutrition, Columbia University (09/2019-02/2021), Research Specialist (PT, 03/2021-07/2022) –> PharmD program      
 **Shamma Ali**, MS in Human Nutrition, Columbia University (09/2020-09/2021)    
-**Rebecca Moore**, MS in Human Nutrition Columbia University (09/2020-09/2022), Research Specialist (Casual, 09/2022-12/2022)    
+**Rebecca Moore**, MS in Human Nutrition, Columbia University (09/2020-09/2022), Research Specialist (Casual, 09/2022-12/2022)   
+**Rehet Chugh**, MS in Human Nutrition (09/2022-05/2024) –> MD program    
+
 
 ## Undergraduate Researchers
 **Eden Tilahun Teferi**, Columbia College 2021 (09/2018-01/2019)     
