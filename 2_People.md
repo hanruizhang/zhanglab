@@ -100,7 +100,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 # **Lab Alumni**
 ## Research Specialist
-**Jianting Shi**, MS, Research Specialist (07/2018-08/2023) –> Data Analyst          
+**Jianting Shi**, MS, Research Specialist (07/2018-08/2023) –> Data analyst          
 
 ## MS Student
 **Ziyi Wang**, MS in Human Nutrition, Columbia University (09/2019-02/2021), Research Specialist (PT, 03/2021-07/2022) –> PharmD program      
@@ -118,11 +118,11 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 **Annie Rozenblyum**, BS, Barnard College 2022 (01/2019-05/2022) –> MD program       
 
 ## Columbia Data Science Institute (DSI) Scholars
-**Joey Zihui Gu**, MS in Data Science, Columbia University (09/2018-12/2018)     
+**Joey Zihui Gu**, MS in Data Science, Columbia University (09/2018-12/2018) –> Data scientist         
 **Jiayi Shen**, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019) –> PhD program      
-**Jianyou Liu**, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019)        
-**Joy Hsu**, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (11/2019-05/2020)    
-**Neha Pusarla**, MS in Data Science, Columbia Univ. (03/2021-06/2021)      
+**Jianyou Liu**, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (03/2019-07/2019) –> Biostatistician        
+**Joy Hsu**, MS in Biostatistics, Columbia Univ. Mailman School of Public Health (11/2019-05/2020) –> Biostatistician    
+**Neha Pusarla**, MS in Data Science, Columbia Univ. (03/2021-06/2021) –> Software engineer      
 **Sophie Shan**, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022 (11/2019-09/2021) –> PhD program   
 
 ## Visting Scientists
