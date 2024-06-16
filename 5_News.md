@@ -11,6 +11,8 @@ nav: true
      
 ## **Lab News**
 
+#### **[06/16/2024]** The lab has received the NOA of P01 funding to study how to harness molecular breaks on efferocytosis to enhance macrophage efferocytosis and mitigate atherosclerosis.    
+
 #### **[05/18/2024]** News from #VascularDiscovery24: 
 **Xun** was awarded as a finalist of the **"ATVB & PVD Council Investigator-in-Training Award."**     
 **Fang** received second place in the Young Investigator Award competition at the 18th CAAC Symposium.   
