@@ -5,6 +5,8 @@ nav: true
 
 # **Selected Publications**  
 
+### **For a complete list of 82 publications, please visit [PubMed.gov](https://www.ncbi.nlm.nih.gov/myncbi/hanrui.zhang.1/bibliography/public/). Dr. Zhang's [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7X1CyDapGJzdDnDEe-E6DBE-s9JXz75DhHIyt_My4-7-Wn2Wnu4b-6_TQeAP1WK597WTCf8wKOrbZVy3KNB0Hm5Kw6Hw&user=20tuWCkAAAAJ) h-index is 35.**
+
 __*__ **Corresponding Author**   
 
 - Wu X *, Wang Z, Shern T, **Zhang H** *, [Efferocytosis assay to quantify the engulfment and acidification of apoptotic cells by macrophages using flow cytometry](https://www.sciencedirect.com/science/article/pii/S2666166724003800). _STAR Protocols_. 2024 Sep 20;5(3):103215.
@@ -33,4 +35,3 @@ __*__ **Corresponding Author**
 - **Zhang H**, Xue C, Shah R, Bermingham K, Hinkle CC, Li W, Rodrigues A, Tabita-Martinez J, Millar JS, Cuchel M, Pashos EE, Liu Y, Yan R, Yang W, Gosai SJ, VanDorn D, Chou ST, Gregory BD, Morrisey EE, Li M, Rader DJ, Reilly MP. [Functional analysis and transcriptomic profiling of iPSC-derived macrophages and their application in modeling Mendelian disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4565503/). _Circulation Research_. 2015 Jun 19;117(1):17-28.
 
      
-### **For a complete list of 77 publications, please visit [PubMed.gov](https://www.ncbi.nlm.nih.gov/myncbi/hanrui.zhang.1/bibliography/public/). Dr. Zhang's [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7X1CyDapGJzdDnDEe-E6DBE-s9JXz75DhHIyt_My4-7-Wn2Wnu4b-6_TQeAP1WK597WTCf8wKOrbZVy3KNB0Hm5Kw6Hw&user=20tuWCkAAAAJ) h-index is 35.**
