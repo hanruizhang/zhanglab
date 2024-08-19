@@ -9,7 +9,7 @@ nav: true
 
 __*__ **Corresponding Author**   
 
-- Wu X *, Wang Z, Croce KR, Li F, Cui J, D'Agati VC, Soni R, Khalid S, Saleheen D, Tabas I, Yamamoto A, **Zhang H** *, [Macrophage WDFY3, a protector against autoimmunity](https://www.biorxiv.org/content/10.1101/2024.08.17.608411v1.full.pdf+html). bioRxiv 2024.08.17.608411.
+- Wu X *, Wang Z, Croce KR, Li F, Cui J, D'Agati VD, Soni R, Khalid S, Saleheen D, Tabas I, Yamamoto A, **Zhang H** *, [Macrophage WDFY3, a protector against autoimmunity](https://www.biorxiv.org/content/10.1101/2024.08.17.608411v1.full.pdf+html). bioRxiv 2024.08.17.608411.
 - Wu X, Wang Z, Shern T, **Zhang H** *, [Efferocytosis assay to quantify the engulfment and acidification of apoptotic cells by macrophages using flow cytometry](https://www.sciencedirect.com/science/article/pii/S2666166724003800). _STAR Protocols_. 2024 Sep 20;5(3):103215.
 - Shi J,# Wu X,# Wang Z, Li F, Meng Y, Moore RM, Cui J, Xue C, Croce KR, Yurdagul Jr A, Doench JG, Li W, Zarbalis KS, Tabas I, Yamamoto A, **Zhang H** *, [A Genome-wide CRISPR Screen Identifies WDFY3 as a Regulator of Macrophage Efferocytosis](https://doi.org/10.1038/s41467-022-35604-8). _Nature Communications_. 2022 Dec 24;13(1):7929. PMID: 36566259.
 - Li F *, Flynn E, Shi J, Wu X, Wang Z, Xue C, Cheng H, Meng Y, Cui J, Zhu Y, Rozenblyum A, Chun J, Hernandez-Ono A, Razani B, Westerterp M, Bauer RC, Suh Y, Hao K, Lappalainen T, **Zhang H** *. [Decoding the Variant-to-Function Relationship for LIPA, a Risk Locus for CAD](https://www.biorxiv.org/content/10.1101/2022.11.12.516293v1). BioRxiv/2022/516293.
