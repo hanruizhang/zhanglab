@@ -11,6 +11,9 @@ nav: true
      
 ## **Lab News**
 
+#### **[08/28/2024]** News for #AHA24:
+**Xun** will present at the _Best of AHA Specialty Conferences poster session_ at the AHA Scientific Sessions 2024.
+
 #### **[07/01/2024]** The lab has received an [NHLBI P01](https://reporter.nih.gov/search/K2fNMZHVak-41arV2rBvdA/project-details/10849324) to study how to harness molecular breaks on efferocytosis to enhance macrophage efferocytosis and mitigate atherosclerosis.    
 
 #### **[05/18/2024]** News from #VascularDiscovery24: 
