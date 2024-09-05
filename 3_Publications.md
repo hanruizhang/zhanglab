@@ -9,7 +9,7 @@ nav: true
 
 __*__ **Corresponding Author**   
 
-- Wu X *, Wang Z, Croce KR, Li F, Cui J, D'Agati VD, Soni R, Khalid S, Saleheen D, Tabas I, Yamamoto A, **Zhang H** *, [Macrophage WDFY3, a protector against autoimmunity](https://www.biorxiv.org/content/10.1101/2024.08.17.608411v1.full.pdf+html). bioRxiv 2024.08.17.608411.
+- Wu X *, Wang Z, Croce KR, Li F, Cui J, D'Agati VD, Soni R, Khalid S, Saleheen D, Tabas I, Yamamoto A, **Zhang H** *, [Macrophage WDFY3, a protector against autoimmunity](https://pubmed.ncbi.nlm.nih.gov/39229152/). _bioRxiv_ 2024.08.17.608411. PMID: 39229152.
 - Wu X *, Wang Z, Shern T, **Zhang H** *, [Efferocytosis assay to quantify the engulfment and acidification of apoptotic cells by macrophages using flow cytometry](https://www.sciencedirect.com/science/article/pii/S2666166724003800). _STAR Protocols_. 2024 Sep 20;5(3):103215.
 - Wu X, **Zhang H** *. [Omics Approaches Unveiling the Biology of Human Atherosclerotic Plaques](https://www.sciencedirect.com/science/article/pii/S0002944024000051?via%3Dihub). _Am J Pathol_. 2024 Apr;194(4):482-498.
 - Chen ZB *, Aikawa E, Alfaidi M, Ali K, Clift CL, Erbay E, Fredman G, Gomez D, Huang NF, Lu HS, Nguyen PK, Darc Oliveira S, Rodriguez-Miguelez P, SenthilKumar G, **Zhang H** *. [Institutional Support for the Career Advancement of Women Faculty in Science and Academic Medicine: Successes, Challenges, and Future Directions](https://www.ahajournals.org/doi/10.1161/ATVBAHA.124.320910). _Arterioscler Thromb Vasc Biol_. 2024 Jul 3.
