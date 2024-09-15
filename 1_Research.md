@@ -23,9 +23,15 @@ Dr. Zhang's laboratory seeks to understand the dynamic role of macrophages in ca
 
 # **Grants**  
 * **"Harnessing molecular breaks on macrophage efferocytosis in atherosclerosis"** by the NHLBI [P01HL172741](https://reporter.nih.gov/search/K2fNMZHVak-41arV2rBvdA/project-details/10849324){:target="_blank"} (2024-2029)
+
 * **"Integrative and functional genomic studies to connect variant to function for CAG GWAS loci"** by the NHLBI [R01-HL-168174](https://reporter.nih.gov/search/zQE0vAern0yY4dtpLdbNag/project-details/10639274){:target="_blank"} (2023-2027)
-* * **"Discovering Wdfy3 as a novel regulator of macrophage efferocytosis by genome-wide CRISPR screen"** by the NHLBI [R01-HL-151611](https://projectreporter.nih.gov/project_info_description.cfm?aid=9945435&icde=49996451&ddparam=&ddvalue=&ddsub=&cr=2&csb=default&cs=ASC&pball=){:target="_blank"} (2020-2025)
+  
+* **"Discovering Wdfy3 as a novel regulator of macrophage efferocytosis by genome-wide CRISPR screen"** by the NHLBI [R01-HL-151611](https://projectreporter.nih.gov/project_info_description.cfm?aid=9945435&icde=49996451&ddparam=&ddvalue=&ddsub=&cr=2&csb=default&cs=ASC&pball=){:target="_blank"} (2020-2025)
+  
 * The M. Iréne Ferrer Scholar Award by the [Foundation for Gender-specific Medicine](http://gendermed.org/hanrui-zhang-phd/){:target="_blank"} (2023-2024)
+
 * The [Irving Scholar](https://www.irvinginstitute.columbia.edu/news/announcing-2021-2024-irving-scholars){:target="_blank"}" Award by the National Center for Advancing Translational Sciences (NCATS) through UL1TR001873 (2021-2024)
+  
 * The Katz Scholar award by the [Katz Foundation](https://www.rdkf.org/) (2021-2023)
-* **"Macrophage-specific function of GWAS CAD-associated LIPA alleles in atherosclerosis"** by the NHLBI [K99-HL-130574 and R00-HL-130574](https://projectreporter.nih.gov/project_info_description.cfm?aid=9765372&icde=49755340&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=){:target="_blank"} (2016-2021)
+  
+* **"Macrophage-specific function of GWAS CAD-associated LIPA alleles in atherosclerosis"** by the NHLBI [K99-HL-130574 and R00-HL-130574](https://projectreporter.nih.gov/project_info_description.cfm?aid=9765372&icde=49755340&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=){:target="_blank"} (2016-2021)    
