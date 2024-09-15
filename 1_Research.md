@@ -30,8 +30,8 @@ Dr. Zhang's laboratory seeks to understand the dynamic role of macrophages in ca
   
 * The M. Iréne Ferrer Scholar Award by the [Foundation for Gender-specific Medicine](http://gendermed.org/hanrui-zhang-phd/){:target="_blank"} (2023-2024)
 
-* The [Irving Scholar](https://www.irvinginstitute.columbia.edu/news/announcing-2021-2024-irving-scholars){:target="_blank"}" Award by the National Center for Advancing Translational Sciences (NCATS) through UL1TR001873 (2021-2024)
+* The [Irving Scholar](https://www.irvinginstitute.columbia.edu/news/announcing-2021-2024-irving-scholars){:target="_blank"} Award by the National Center for Advancing Translational Sciences (NCATS) through UL1TR001873 (2021-2024)
   
-* The Katz Scholar award by the [Katz Foundation](https://www.rdkf.org/) (2021-2023)
+* The Katz Scholar Award by the [Katz Foundation](https://www.rdkf.org/) (2021-2023)
   
 * **"Macrophage-specific function of GWAS CAD-associated LIPA alleles in atherosclerosis"** by the NHLBI [K99-HL-130574 and R00-HL-130574](https://projectreporter.nih.gov/project_info_description.cfm?aid=9765372&icde=49755340&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=){:target="_blank"} (2016-2021)    
