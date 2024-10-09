@@ -21,7 +21,7 @@ nav: true
     <img src="https://i.imgur.com/hzBiiM5.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/hanruizhang" rel="nofollow noreferrer">
-    <img src="https://i.imgur.com/LHjsfr3.png" alt="github"> Github
+    <img src="https://i.imgur.com/YOARux7.png" alt="github"> Github
   </a>
 </p>
 
@@ -37,7 +37,7 @@ Hanrui is the **Immediate Past Chair of the [Women's Leadership Committee](https
 - Postdoctoral Fellow, 2016, University of Pennsylvania, Philadelphia, PA (**AHA Postdoctoral Fellow**)   
 - Associate Research Scientist, 2018, Columbia University Irving Medical Center, New York, NY (**NHLBI K99/R00**)
 
-## Read ATVB_net interviews to know more about Hanrui's role as the [ATVB Technical Editor](https://www.ahajournals.org/do/10.1161/blog.20241002.879721/full/) and the [ATVB Digital Strategies Team member](https://www.ahajournals.org/do/10.1161/blog.20231011.149875/full/).##
+**Read ATVB_net interviews to know more about Hanrui's role as the [ATVB Technical Editor](https://www.ahajournals.org/do/10.1161/blog.20241002.879721/full/) and the [ATVB Digital Strategies Team member](https://www.ahajournals.org/do/10.1161/blog.20231011.149875/full/).**
 
 ------
 &nbsp;
