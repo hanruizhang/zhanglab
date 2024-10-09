@@ -21,7 +21,7 @@ nav: true
     <img src="https://i.imgur.com/hzBiiM5.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/hanruizhang" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+    <img src="https://i.imgur.com/LHjsfr3.png" alt="github"> Github
   </a>
 </p>
 
