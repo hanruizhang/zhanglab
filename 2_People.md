@@ -37,6 +37,7 @@ Hanrui is the **Immediate Past Chair of the [Women's Leadership Committee](https
 - Postdoctoral Fellow, 2016, University of Pennsylvania, Philadelphia, PA (**AHA Postdoctoral Fellow**)   
 - Associate Research Scientist, 2018, Columbia University Irving Medical Center, New York, NY (**NHLBI K99/R00**)
 
+## Read ATVB_net interviews to know more about Hanrui's role as the [ATVB Technical Editor](https://www.ahajournals.org/do/10.1161/blog.20241002.879721/full/) and the [ATVB Digital Strategies Team member](https://www.ahajournals.org/do/10.1161/blog.20231011.149875/full/).##
 
 ------
 &nbsp;
