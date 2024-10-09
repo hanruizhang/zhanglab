@@ -18,7 +18,7 @@ nav: true
 
 <p>
   <a href="https://www.linkedin.com/in/hanrui-zhang-57bb6a29/" rel="nofollow noreferrer">
-    <img src="https://i.imgur.com/OQUXwNp.jpeg" alt="linkedin"> LinkedIn
+    <img src="https://i.imgur.com/hzBiiM5.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/hanruizhang" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
