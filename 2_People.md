@@ -90,8 +90,6 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ### Education & Training
 - BA in Chemistry, 2023, Harvard University
     
-## Tyler Shern
-#### Undergraduate Research Assitant, SRF (Science Research Fellow) and SURF Scholar, Columbia University 2025
 
 ## Philip Ha
 #### Undergraduate Research Assistant, Macaulay Honors College at Hunter College 2026
@@ -111,12 +109,14 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 
 ## Undergraduate Researchers
-**Eden Tilahun Teferi**, Columbia College 2021 (09/2018-01/2019)     
-**Raneem Hamad**, Columbia College 2021 (09/2018-03/2020)    
-**Eileen Moudou**, Columbia College 2020 (01/2019-05/2019)         
-**Yolanda Jean-Baptiste**, BS, Fellow of the NERA Program (06/2019-07/2019)     
+**Eden Tilahun Teferi**, Columbia University 2021 (09/2018-01/2019)     
+**Raneem Hamad**, Columbia University 2021 (09/2018-03/2020)    
+**Eileen Moudou**, Columbia University 2021 (01/2019-05/2019)         
+**Yolanda Jean-Baptiste**, BS, Fellow of the NERA Program, Howard University 2019 (06/2019-07/2019)     
 **Jeana Chun**, BS, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022 (01/2019-05/2022) -> MD program    
-**Annie Rozenblyum**, BS, Barnard College 2022 (01/2019-05/2022) –> MD program       
+**Annie Rozenblyum**, BS, Barnard College 2022 (01/2019-05/2022) –> MD program 
+**Tyler Shern**, BA, SRF (Science Research Fellow) and SURF Scholar, Columbia University 2024 (02/2022-12/2024)
+
 
 ## Columbia Data Science Institute (DSI) Scholars
 **Joey Zihui Gu**, MS in Data Science, Columbia University (09/2018-12/2018) –> Data scientist         
