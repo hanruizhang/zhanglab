@@ -114,7 +114,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 **Eileen Moudou**, Columbia University 2021 (01/2019-05/2019)         
 **Yolanda Jean-Baptiste**, BS, Fellow of the NERA Program, Howard University 2019 (06/2019-07/2019)     
 **Jeana Chun**, BS, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022 (01/2019-05/2022) -> MD program    
-**Annie Rozenblyum**, BS, Barnard College 2022 (01/2019-05/2022) –> MD program 
+**Annie Rozenblyum**, BS, Barnard College 2022 (01/2019-05/2022) –> MD program     
 **Tyler Shern**, BA, SRF (Science Research Fellow) and SURF Scholar, Columbia University 2024 (02/2022-12/2024)
 
 
