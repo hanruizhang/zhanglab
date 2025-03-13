@@ -28,7 +28,9 @@ nav: true
 
 **[Dr. Hanrui Zhang](https://www.columbiacardiology.org/profile/hanrui-zhang-phd)** is a macrophage biologist. She completed her PhD training in 2011 at the University of Missouri. Her graduate work centered on the crosstalk between immune cells and blood vessels in diabetes-associated vascular diseases. Her postdoctoral research at the University of Pennsylvania continued to address the mechanisms of cardiometabolic diseases focusing on macrophage lipid metabolism and inflammation using gene targeting in human induced pluripotent stem cells (iPSC) with differentiation to macrophages. Her laboratory at Columbia University Irving Medical Center seeks to understand the dynamic role of macrophages in cardiometabolic diseases with the aim of finding novel mechanisms and new treatments.     
 
-Hanrui is the **Immediate Past Chair of the [Women's Leadership Committee](https://professional.heart.org/en/partners/scientific-councils/atvb/womens-leadership-committee){:target="_blank"}**, the Arteriosclerosis, Thrombosis and Vascular Biology (ATVB) council of the American Heart Association (AHA), and the **Chair-Elect of the [ATVB & PVD Council Investigator in Training Award Committee](https://professional.heart.org/en/professional-membership/awards-and-lectures/early-career-awards/atvb-and-pvd-investigator-in-training-award){:target="_blank"}**. She is  serving as the **Technical Review Editor for the [ATVB Journal](https://www.ahajournals.org/atvb/editorial-board){:target="_blank"}**.        
+Hanrui is the **Immediate Past Chair of the [Women's Leadership Committee](https://professional.heart.org/en/partners/scientific-councils/atvb/womens-leadership-committee){:target="_blank"}**, the Arteriosclerosis, Thrombosis and Vascular Biology (ATVB) council of the American Heart Association (AHA), and the **Chair-Elect of the [ATVB & PVD Council Investigator in Training Award Committee](https://professional.heart.org/en/professional-membership/awards-and-lectures/early-career-awards/atvb-and-pvd-investigator-in-training-award){:target="_blank"}**. She is  serving as the **Technical Review Editor for the [ATVB Journal](https://www.ahajournals.org/atvb/editorial-board){:target="_blank"}**.   
+
+**Read ATVB_net interviews to know more about Hanrui's role as the [ATVB Technical Editor](https://www.ahajournals.org/do/10.1161/blog.20241002.879721/full/) and the [ATVB Digital Strategies Team member](https://www.ahajournals.org/do/10.1161/blog.20231011.149875/full/).**     
    
 ### Education & Training
 - MB, 2003, Beijing University of Chinese Medicine, Beijing, China
@@ -37,7 +39,6 @@ Hanrui is the **Immediate Past Chair of the [Women's Leadership Committee](https
 - Postdoctoral Fellow, 2016, University of Pennsylvania, Philadelphia, PA (**AHA Postdoctoral Fellow**)   
 - Associate Research Scientist, 2018, Columbia University Irving Medical Center, New York, NY (**NHLBI K99/R00**)
 
-**Read ATVB_net interviews to know more about Hanrui's role as the [ATVB Technical Editor](https://www.ahajournals.org/do/10.1161/blog.20241002.879721/full/) and the [ATVB Digital Strategies Team member](https://www.ahajournals.org/do/10.1161/blog.20231011.149875/full/).**
 
 ------
 &nbsp;
