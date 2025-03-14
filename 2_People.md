@@ -10,7 +10,7 @@ nav: true
   <img src="{{ '/images/Hanrui_Zhang_5_Large.png' | absolute_url }}" alt="Hanrui_Zhang" width="240">
 </div>  
 
-### Herbert Irving Assistant Professor of Medical Sciences
+### Assistant Professor of Medical Sciences
 **Email: hz2418@cumc.columbia.edu**      
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8655-938X" href="https://orcid.org/0000-0001-8655-938X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8655-938X</a></div>
 
@@ -30,7 +30,7 @@ nav: true
 
 Hanrui is the **Immediate Past Chair of the [Women's Leadership Committee](https://professional.heart.org/en/partners/scientific-councils/atvb/womens-leadership-committee){:target="_blank"}**, the Arteriosclerosis, Thrombosis and Vascular Biology (ATVB) council of the American Heart Association (AHA), and the **Chair-Elect of the [ATVB & PVD Council Investigator in Training Award Committee](https://professional.heart.org/en/professional-membership/awards-and-lectures/early-career-awards/atvb-and-pvd-investigator-in-training-award){:target="_blank"}**. She is  serving as the **Technical Review Editor for the [ATVB Journal](https://www.ahajournals.org/atvb/editorial-board){:target="_blank"}**.   
 
-**Read ATVB_net interviews to know more about Hanrui's role as the [ATVB Technical Editor](https://www.ahajournals.org/do/10.1161/blog.20241002.879721/full/) and the [ATVB Digital Strategies Team member](https://www.ahajournals.org/do/10.1161/blog.20231011.149875/full/).**     
+**Read the _ATVB_net_ interviews to learn more about Hanrui's role as the [ATVB Technical Editor](https://www.ahajournals.org/do/10.1161/blog.20241002.879721/full/) and the [ATVB Digital Strategies Team member](https://www.ahajournals.org/do/10.1161/blog.20231011.149875/full/).**     
    
 ### Education & Training
 - MB, 2003, Beijing University of Chinese Medicine, Beijing, China
