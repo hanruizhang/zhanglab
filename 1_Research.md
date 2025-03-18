@@ -40,3 +40,8 @@ Dr. Zhang's laboratory seeks to understand the dynamic role of macrophages in ca
   <img src="{{ '/images/Funders.jpg' | absolute_url }}" alt="Funders" width="1000">
 </div> 
 
+<div> 
+  <img src="{{ 'zhanglab/images/Funders.jpg' | absolute_url }}" alt="Funders" width="1000">
+</div> 
+
+
