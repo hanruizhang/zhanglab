@@ -36,8 +36,7 @@ Dr. Zhang's laboratory seeks to understand the dynamic role of macrophages in ca
   
 * **"Macrophage-specific function of GWAS CAD-associated LIPA alleles in atherosclerosis"** by the NHLBI [K99-HL-130574 and R00-HL-130574](https://projectreporter.nih.gov/project_info_description.cfm?aid=9765372&icde=49755340&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=){:target="_blank"} (2016-2021)
 
-
 <div> 
-  <img src="{{ '/images/Funders.jpg' | absolute_url }}" alt="Funders" >
-</div>   
-&nbsp;
+  <img src="{{ '/images/Funders.jpg' | absolute_url }}" alt="Funders" width="1000">
+</div> 
+
