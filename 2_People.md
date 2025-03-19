@@ -7,7 +7,8 @@ nav: true
   <img src="{{ '/images/ZhangLab_20250314_Crayon_Banner.png' | absolute_url }}" alt="LabPhoto" width="1000">
 </div>  
 
-#           
+------
+&nbsp;        
 
 # **Principal Investigator**
 
