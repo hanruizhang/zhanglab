@@ -5,7 +5,7 @@ nav: true
 
 # **Selected Publications**  
 
-### **For a complete list of 85 publications, please visit [PubMed.gov](https://www.ncbi.nlm.nih.gov/myncbi/hanrui.zhang.1/bibliography/public/). Dr. Zhang's [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7X1CyDapGJzdDnDEe-E6DBE-s9JXz75DhHIyt_My4-7-Wn2Wnu4b-6_TQeAP1WK597WTCf8wKOrbZVy3KNB0Hm5Kw6Hw&user=20tuWCkAAAAJ) h-index is 37.**
+### **For a complete list of 86 publications, please visit [PubMed.gov](https://www.ncbi.nlm.nih.gov/myncbi/hanrui.zhang.1/bibliography/public/). Dr. Zhang's [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7X1CyDapGJzdDnDEe-E6DBE-s9JXz75DhHIyt_My4-7-Wn2Wnu4b-6_TQeAP1WK597WTCf8wKOrbZVy3KNB0Hm5Kw6Hw&user=20tuWCkAAAAJ) h-index is 38.**
 
 __*__ **Corresponding Author**   
 
