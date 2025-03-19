@@ -3,6 +3,11 @@ title: People
 nav: true
 ---
 
+<div> 
+  <img src="{{ '/images/ZhangLab_20250314_Crayon_Banner.png' | absolute_url }}" alt="Hanrui_Zhang" width="1000">
+</div>  
+
+
 # **Principal Investigator**
 
 ## Hanrui Zhang, MB PhD
