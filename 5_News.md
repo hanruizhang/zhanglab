@@ -11,6 +11,8 @@ nav: true
      
 ## **Lab News**
 
+#### **[03/07/2025]** Congratulations to Xun for receiving the AHA Career Development Award! 
+
 #### **[08/28/2024]** News for #AHA24:
 **Xun** will present at the _Best of AHA Specialty Conferences poster session_ at the AHA Scientific Sessions 2024.
 
