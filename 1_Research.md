@@ -30,7 +30,7 @@ Dr. Zhang's laboratory seeks to understand the dynamic role of macrophages in ca
   
 * The M. Iréne Ferrer Scholar Award by the [Foundation for Gender-specific Medicine](http://gendermed.org/hanrui-zhang-phd/){:target="_blank"} (2023-2024)
 
-* The [Irving Scholar](https://www.irvinginstitute.columbia.edu/news/announcing-2021-2024-irving-scholars){:target="_blank"} Award by the National Center for Advancing Translational Sciences (NCATS) through UL1TR001873 (2021-2024)
+* The [Irving Scholar](https://www.irvinginstitute.columbia.edu/news/announcing-2021-2024-irving-scholars){:target="_blank"} Award by the National Center for Advancing Translational Sciences (NCATS) through UL1TR001873 (2021-2024), with named professorship as the **“Herbert Irving Assistant Professor of Medical Sciences”**
   
 * The Katz Scholar Award by the [Katz Foundation](https://www.rdkf.org/) (2021-2023)
   
