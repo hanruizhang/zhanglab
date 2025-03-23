@@ -110,7 +110,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 **Jianting Shi**, MS, Research Specialist (07/2018-08/2023) –> Data analyst          
 
 ## MS Students
-**Ziyi Wang**, MS in Human Nutrition, Columbia University (09/2019-02/2021), Research Specialist (PT, 03/2021-07/2022) –> PharmD program      
+**Ziyi Wang**, MS in Human Nutrition (**with Thesis Honors**), Columbia University (09/2019-02/2021), Research Specialist (PT, 03/2021-07/2022) –> PharmD program      
 **Shamma Ali**, MS in Human Nutrition, Columbia University (09/2020-09/2021)    
 **Rebecca Moore**, MS in Human Nutrition, Columbia University (09/2020-09/2022), Research Specialist (Casual, 09/2022-12/2022)   
 **Rehet Chugh**, MS in Human Nutrition (09/2022-05/2024) –> MD program    
