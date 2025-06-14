@@ -14,7 +14,7 @@ nav: true
 
 ## Hanrui Zhang, MB PhD
 <div> 
-  <img src="{{ '/images/Hanrui_Zhang_5_Large.png' | absolute_url }}" alt="Hanrui_Zhang" width="240">
+  <img src="{{ '/images/HanruiZhang_Professional_2025.jpg' | absolute_url }}" alt="Hanrui_Zhang" width="240">
 </div>  
 
 ### Assistant Professor of Medical Sciences
