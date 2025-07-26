@@ -5,7 +5,7 @@ nav: true
 
 # **Selected Publications**  
 
-### **For a complete list of 86 publications, please visit [PubMed.gov](https://www.ncbi.nlm.nih.gov/myncbi/hanrui.zhang.1/bibliography/public/). Dr. Zhang's [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7X1CyDapGJzdDnDEe-E6DBE-s9JXz75DhHIyt_My4-7-Wn2Wnu4b-6_TQeAP1WK597WTCf8wKOrbZVy3KNB0Hm5Kw6Hw&user=20tuWCkAAAAJ) h-index is 38.**
+### **For a complete list of 86 publications, please visit [PubMed.gov](https://www.ncbi.nlm.nih.gov/myncbi/hanrui.zhang.1/bibliography/public/). Dr. Zhang's [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7X1CyDapGJzdDnDEe-E6DBE-s9JXz75DhHIyt_My4-7-Wn2Wnu4b-6_TQeAP1WK597WTCf8wKOrbZVy3KNB0Hm5Kw6Hw&user=20tuWCkAAAAJ) h-index is 39.**
 
 __*__ **Corresponding Author**   
 
@@ -16,7 +16,7 @@ __*__ **Corresponding Author**
 - Chen ZB *, Aikawa E, Alfaidi M, Ali K, Clift CL, Erbay E, Fredman G, Gomez D, Huang NF, Lu HS, Nguyen PK, Darc Oliveira S, Rodriguez-Miguelez P, SenthilKumar G, **Zhang H** *. [Institutional Support for the Career Advancement of Women Faculty in Science and Academic Medicine: Successes, Challenges, and Future Directions](https://www.ahajournals.org/doi/10.1161/ATVBAHA.124.320910). _Arterioscler Thromb Vasc Biol_. 2024 Jul 3.
 - Shi J,# Wu X,# Wang Z, Li F, Meng Y, Moore RM, Cui J, Xue C, Croce KR, Yurdagul Jr A, Doench JG, Li W, Zarbalis KS, Tabas I, Yamamoto A, **Zhang H** *, [A Genome-wide CRISPR Screen Identifies WDFY3 as a Regulator of Macrophage Efferocytosis](https://doi.org/10.1038/s41467-022-35604-8). _Nature Communications_. 2022 Dec 24;13(1):7929. PMID: 36566259.
 - Li F, **Zhang H** *. [Targeting Epsins to reverse atherosclerosis](https://www.ahajournals.org/eprint/72NVB4XX3HQAVEF2WGC5/full?redirectUri=%2Fdoi%2F10.1161%2FCIRCRESAHA.122.322273). _Circ Res_, 2023;132:7–9.
-- Li F, **Zhang H** *. [Commentary: Monocyte and Macrophage Lipid Accumulation Results in Down-Regulated Type-I Interferon Responses.](https://www.frontiersin.org/articles/10.3389/fcvm.2022.1086136/full). _Front Cardiovasc Med_, doi: 10.3389/fcvm.2022.1086136.    
+- Li F, **Zhang H** *. [Commentary: Monocyte and Macrophage Lipid Accumulation Results in Down-Regulated Type-I Interferon Responses](https://www.frontiersin.org/articles/10.3389/fcvm.2022.1086136/full). _Front Cardiovasc Med_, doi: 10.3389/fcvm.2022.1086136.    
 - Shi H, Wang X, Li F, Gerlach1 BD, Yurdagul, Jr. A, Moore M, Zeldin S, **Zhang H**, Cai B, Zheng Z, Valenti L, Tabas I. CD47-SIRPα axis blockade in NASH promotes necroptotic hepatocyte clearance by liver macrophages and decreases hepatic fibrosis. _Science Translational Medicine_. 2022 Nov 23;14(672):eabp8309. PMID: 36417485.     
 - Bi X, Stankov S, Lee PC, Wang Z, Wu X, Li L, Ko YA, Cheng L, **Zhang H**, Hand NJ, Rader DJ. [ILRUN Promotes Atherosclerosis Through Lipid-Dependent and Lipid-Independent Factors](https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.317156). _Arterioscler Thromb Vasc Biol_. 2022 Sep;42(9):1139-1151; PMID: 35861973.        
 - **Zhang H** *, Wolf D *. [Break on Through to the Other Side: How Trained Monocytes Promote Recovery From Hind Limb Ischemia.](https://www.ahajournals.org/doi/10.1161/ATVBAHA.121.317257) _Arterioscler Thromb Vasc Biol_. 2021 Dec 23;ATVBAHA121317257.     
