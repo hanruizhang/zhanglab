@@ -9,7 +9,7 @@ nav: true
 
 __*__ **Corresponding Author**   
 
-- Wu X *, Wang Z, Croce KR, Li F, Cui J, D'Agati VD, Soni R, Tabas I, Yamamoto A, **Zhang H** *, [Macrophage WDFY3, a protector against autoimmunity](https://pubmed.ncbi.nlm.nih.gov/39229152/). _Nature Communications_. 2025. In Press.
+- Wu X *, Wang Z, Croce KR, Li F, Cui J, D'Agati VD, Soni R, Tabas I, Yamamoto A, **Zhang H** *, [Macrophage WDFY3 mitigates autoimmunity by enhancing efferocytosis and suppressing T cell activation in mice](https://pubmed.ncbi.nlm.nih.gov/39229152/). _Nature Communications_. 2025. In Press. DOI: 10.1038/s41467-025-63741-3
 - Li F *, Flynn E, Ha P, Zebak MN, Cheng, H, Xue C, Shi J, Wu X, Wang Z, Meng Y, Cui J, Zhu Y, Rozenblyum A, Chun J, Hernandez-Ono A, Javaheri A, Razani B, Westerterp M, Bauer RC, Suh Y, Hao K, Lappalainen T, **Zhang H** *. [LIPA, a Risk Locus for CAD: Decoding the Variant-to-Function Relationship](https://doi.org/10.1093/eurheartj/ehaf581). _European Heart Journal_. 2025 Aug. ehaf581
 - Wu X *, Wang Z, Shern T, **Zhang H** *, [Efferocytosis assay to quantify the engulfment and acidification of apoptotic cells by macrophages using flow cytometry](https://www.sciencedirect.com/science/article/pii/S2666166724003800). _STAR Protocols_. 2024 Sep 20;5(3):103215.
 - Wu X, **Zhang H** *. [Omics Approaches Unveiling the Biology of Human Atherosclerotic Plaques](https://www.sciencedirect.com/science/article/pii/S0002944024000051?via%3Dihub). _Am J Pathol_. 2024 Apr;194(4):482-498.
