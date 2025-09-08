@@ -83,7 +83,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - PhD, 2019, Chinese Academy of Sciences, China
 
 
-## Mazal Zebak, BA
+## Lane Theander, BA
+
+<!-- This is a comment 
 <div> 
   <img src="{{ '/images/Mazal_Zebak.jpg' | absolute_url }}" alt="Mazal_Zebak" width="160">
 </div>
@@ -93,10 +95,11 @@ I am interested in the functional interrogation of coronary artery disease-assoc
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
+-->
 
 ### Research Specialist       
 ### Education & Training
-- BA in Chemistry, 2023, Harvard University
+- BA in Biology, 2024, Harvard University
     
 
 ## Philip Ha
@@ -107,7 +110,8 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 # **Lab Alumni**
 ## Research Specialist
-**Jianting Shi**, MS, Research Specialist (07/2018-08/2023) –> Data analyst          
+**Jianting Shi**, MS, Research Specialist (07/2018-08/2023) –> Data analyst
+**Mazal Zebak**, BA, Research Specialist (11/2023-06/2025) –> MD program
 
 ## MS Students
 **Ziyi Wang**, MS in Human Nutrition (**with Thesis Honors**), Columbia University (09/2019-02/2021), Research Specialist (PT, 03/2021-07/2022) –> PharmD program      
