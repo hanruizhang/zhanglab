@@ -84,7 +84,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 
 ## Jinnan Yue, BS, MD
-
+<div> 
+  <img src="{{ '/images/Jinnan_Yue.jpg' | absolute_url }}" alt="Jinnan_Yue" width="160">
+</div>
 ### Postdoctoral Scientist       
 
 ### Education & Training
