@@ -83,6 +83,16 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - PhD, 2019, Chinese Academy of Sciences, China
 
 
+## Jinnan Yue, BS, MD
+
+### Postdoctoral Scientist       
+
+### Education & Training
+- BS, 2014, Shenyang Pharmaceutical University, China         
+- MS, 2017, Shanghai Jiao Tong University, China   
+- MD, 2025, Tongji University, China
+
+
 ## Lane Theander, BA
 
 <!-- This is a comment 
@@ -102,15 +112,13 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - BA in Biology, 2024, Harvard University
     
 
-## Philip Ha
-#### Undergraduate Research Assistant, Macaulay Honors College at Hunter College 2026
 
 ------
 &nbsp;
 
 # **Lab Alumni**
 ## Research Specialist
-**Jianting Shi**, MS, Research Specialist (07/2018-08/2023) –> Data analyst
+**Jianting Shi**, MS, Research Specialist (07/2018-08/2023) –> Data analyst      
 **Mazal Zebak**, BA, Research Specialist (11/2023-06/2025) –> MD program
 
 ## MS Students
@@ -127,7 +135,8 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 **Yolanda Jean-Baptiste**, BS, Fellow of the NERA Program, Howard University 2019 (06/2019-07/2019)     
 **Jeana Chun**, BS, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022 (01/2019-05/2022) -> MD program    
 **Annie Rozenblyum**, BS, Barnard College 2022 (01/2019-05/2022) –> MD program     
-**Tyler Shern**, BA, SRF (Science Research Fellow) and SURF Scholar, Columbia University 2024 (02/2022-12/2024)
+**Tyler Shern**, BA, SRF (Science Research Fellow) and SURF Scholar, Columbia University 2024 (02/2022-12/2024)     
+**Philip Ha**, BS, Macaulay Honors College at Hunter College 2026 (09/2022–08/2025)
 
 
 ## Columbia Data Science Institute (DSI) Scholars
