@@ -87,7 +87,9 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 <div> 
   <img src="{{ '/images/Jinnan_Yue.jpg' | absolute_url }}" alt="Jinnan_Yue" width="160">
 </div>
-### Postdoctoral Scientist       
+### Postdoctoral Scientist    
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="[https://orcid.org/0009-0006-8303-3191](https://orcid.org/0009-0006-8303-3191)" href="https://orcid.org/0009-0006-8303-3191 " target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0009-0006-8303-3191 </a></div>
+
 
 ### Education & Training
 - BS, 2014, Shenyang Pharmaceutical University, China         
