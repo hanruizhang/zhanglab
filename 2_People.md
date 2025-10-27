@@ -4,7 +4,7 @@ nav: true
 ---
 
 <div> 
-  <img src="{{ '/images/ZhangLab_20250314_Crayon_Banner.png' | absolute_url }}" alt="LabPhoto" width="1000">
+  <img src="{{ '/images/ZhangLab_20251027_Crayon_Banner.png' | absolute_url }}" alt="LabPhoto" width="1000">
 </div>  
 
 ------
