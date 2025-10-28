@@ -10,6 +10,7 @@ nav: true
 
      
 ## **Lab News**
+#### **[09/01/2025]** Hanrui has received the [**ATVB Special Recognition Award in Vascular Biology**](https://professional.heart.org/en/meetings/scientific-sessions/awards)! 
 
 #### **[03/07/2025]** Congratulations to Xun for receiving **the AHA Career Development Award**! 
 
