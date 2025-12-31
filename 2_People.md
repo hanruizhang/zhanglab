@@ -83,7 +83,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - PhD, 2019, Chinese Academy of Sciences, China
 
 
-## Jinnan Yue, BS, MD
+## Jinnan Yue, BPharm, MD
 <div> 
   <img src="{{ '/images/Jinnan_Yue.jpg' | absolute_url }}" alt="Jinnan_Yue" width="160">
 </div>
@@ -92,7 +92,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 
 ### Education & Training
-- BS, 2014, Shenyang Pharmaceutical University, China         
+- BPharm, 2014, Shenyang Pharmaceutical University, China         
 - MS, 2017, Shanghai Jiao Tong University, China   
 - MD, 2025, Tongji University, China
 
