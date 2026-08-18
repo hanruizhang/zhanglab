@@ -140,7 +140,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 **Jeana Chun**, BS, **[SURF](http://www.columbia.edu/cu/biology/ug/surf/) Scholar**, Columbia College 2022 (01/2019-05/2022) -> MD program    
 **Annie Rozenblyum**, BS, Barnard College 2022 (01/2019-05/2022) –> MD program     
 **Tyler Shern**, BA, SRF (Science Research Fellow) and SURF Scholar, Columbia University 2024 (02/2022-12/2024) –> MD program         
-**Philip Ha**, BS, Macaulay Honors College at Hunter College 2026 (09/2022–08/2025)    
+**Philip Ha**, BS, Macaulay Honors College at Hunter College 2026 (09/2022–08/2025) –> JD program   
 
 
 ## Columbia Data Science Institute (DSI) Scholars
