@@ -9,7 +9,7 @@ nav: true
 
 __*__ **Corresponding Author**   
 
-- Wu X, Wang Z, Xue C, Li F, Yue J, Shern T, Liu W, Cui J, Wu C, Kissner M, Maegdefessel L, Tabas I, Tall AR, **Zhang H** *. Cytokinesis Arrest-induced Binucleation of Macrophages Produces Highly Efficient Efferocytes. [BIORXIV/2026/731793](https://www.biorxiv.org/cgi/content/short/2026.08.10.731793v1).      
+- Wu X, Wang Z, Xue C, Li F, Yue J, Shern T, Liu W, Cui J, Wu C, Kissner M, Maegdefessel L, Tabas I, Tall AR, **Zhang H** *. Cytokinesis Arrest-induced Binucleation of Macrophages Produces Highly Efficient Efferocytes. [BIORXIV/2026/731793](https://www.biorxiv.org/content/10.64898/2026.08.10.731793v1).      
 - Wu X *, Wang Z, Croce KR, Li F, Cui J, D'Agati VD, Soni R, Tabas I, Yamamoto A, **Zhang H** *, [Macrophage WDFY3 mitigates autoimmunity by enhancing efferocytosis and suppressing T cell activation in mice](https://www.nature.com/articles/s41467-025-63741-3). _Nature Communications_. 2025 Sep 30;16(1):8694.
 - Li F *, Flynn E, Ha P, Zebak MN, Cheng, H, Xue C, Shi J, Wu X, Wang Z, Meng Y, Cui J, Zhu Y, Rozenblyum A, Chun J, Hernandez-Ono A, Javaheri A, Razani B, Westerterp M, Bauer RC, Suh Y, Hao K, Lappalainen T, **Zhang H** *. [LIPA, a Risk Locus for CAD: Decoding the Variant-to-Function Relationship](https://doi.org/10.1093/eurheartj/ehaf581). _European Heart Journal_. 2025 Aug. ehaf581
 - Wu X *, Wang Z, Shern T, **Zhang H** *, [Efferocytosis assay to quantify the engulfment and acidification of apoptotic cells by macrophages using flow cytometry](https://www.sciencedirect.com/science/article/pii/S2666166724003800). _STAR Protocols_. 2024 Sep 20;5(3):103215.
