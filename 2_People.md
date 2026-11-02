@@ -97,23 +97,26 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - MD, 2025, Tongji University, China
 
 
-## Lane Theander, BA
+## Catherine Lucey, PhD
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9930-954X" href="https://orcid.org/0000-0001-9930-954X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-9930-954X</a></div>
 
 <!-- This is a comment 
 <div> 
   <img src="{{ '/images/Mazal_Zebak.jpg' | absolute_url }}" alt="Mazal_Zebak" width="160">
 </div>
-
+-->
 <p>
-  <a href="https://www.linkedin.com/in/mazal-zebak-83489016a/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  <a href="https://www.linkedin.com/in/catherine-lucey-695718148/" rel="nofollow noreferrer">
+    <img src="https://i.imgur.com/hzBiiM5.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
--->
 
-### Research Specialist       
+### Postdoctoral Scientist      
 ### Education & Training
-- BA in Biology, 2024, Harvard University
+
+- BS, 2019, Vassar College, NY
+- PhD, 2026, Columbia University, NY
     
 
 
@@ -124,6 +127,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 ## Research Specialist
 **Jianting Shi**, MS, Research Specialist (07/2018-08/2023) –> Data analyst      
 **Mazal Zebak**, BA, Research Specialist (11/2023-06/2025) –> MD program
+**Lane Theader**, BA, Research Specialist (09/2025-08/2026) -> Senior Research Specialist
 
 ## MS Students
 **Ziyi Wang**, MS in Human Nutrition (**with Thesis Honors**), Columbia University (09/2019-02/2021), Research Specialist (PT, 03/2021-07/2022) –> PharmD program      
