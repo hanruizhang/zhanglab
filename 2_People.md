@@ -100,7 +100,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 
 ## Catherine Lucey, PhD
 <div> 
-  <img src="{{ '/images/Catherine_Lucey.png' | absolute_url }}" alt="Fang_Li" width="160">
+  <img src="{{ '/images/Catherine_Lucey.png' | absolute_url }}" alt="Catherine_Lucey" width="160">
 </div>
 
 ### Postdoctoral Scientist   
