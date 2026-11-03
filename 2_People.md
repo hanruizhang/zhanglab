@@ -130,7 +130,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 # **Lab Alumni**
 ## Research Specialist
 **Jianting Shi**, MS, Research Specialist (07/2018-08/2023) –> Data analyst      
-**Mazal Zebak**, BA, Research Specialist (11/2023-06/2025) –> MD program
+**Mazal Zebak**, BA, Research Specialist (11/2023-06/2025) –> MD program     
 **Lane Theader**, BA, Research Specialist (09/2025-08/2026) -> Senior Research Specialist
 
 ## MS Students
