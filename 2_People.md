@@ -122,6 +122,13 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - BS, 2019, Vassar College, NY
 - PhD, 2026, Columbia University, NY
     
+## Ryan Samantha Meservy
+### Undergraduate Student Researcher
+<p>
+  <a href="https://www.linkedin.com/in/ryan-meservy/" rel="nofollow noreferrer">
+    <img src="https://i.imgur.com/hzBiiM5.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p>
 
 
 ------
@@ -159,7 +166,7 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 **Neha Pusarla**, MS in Data Science, Columbia Univ. (03/2021-06/2021) –> Software engineer      
 **Sophie Shan**, BS in Statistics, **[CUSP](https://www.cc-seas.columbia.edu/scholars) Scholar**, Columbia College 2022 (11/2019-09/2021) –> PhD program   
 
-## Visting Scientists
+## Visiting Scientists
 **Yujiao Meng**, Visiting PhD Student, Beijing Univ. of Chinese Medicine (12/2019-03/2021) –> Instructor   
 
 ## High School Students
