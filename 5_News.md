@@ -10,6 +10,9 @@ nav: true
 
      
 ## **Lab News**
+#### **[11/09/2026]** News from #AHA26:  
+**Xun** was awarded as a finalist of the **"Elaine W. Raines Early Career Investigator Award"** and presented his manuscript ["Cytokinesis Arrest-induced Binucleation of Macrophages Produces Highly Efficient Efferocytes"]([https://www.ahajournals.org/doi/10.1161/circ.144.suppl_1.10865](https://www.biorxiv.org/content/10.64898/2026.08.10.731793v1){:target="_blank"}! 
+
 #### **[09/01/2025]** Hanrui has received the [**ATVB Special Recognition Award in Vascular Biology**](https://professional.heart.org/en/meetings/scientific-sessions/awards)! 
 
 #### **[03/07/2025]** Congratulations to Xun for receiving **the AHA Career Development Award**! 
