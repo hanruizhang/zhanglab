@@ -123,14 +123,15 @@ I am interested in the functional interrogation of coronary artery disease-assoc
 - PhD, 2026, Columbia University, NY
     
 
-## Paul Paronich, BS
+## Paul Paronich, BS    
 ### Research Specialist
 <p>
   <a href="https://www.linkedin.com/in/paul-paronich-43098b314/" rel="nofollow noreferrer">
     <img src="https://i.imgur.com/hzBiiM5.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
-### Education & Training
+
+### Education & Training    
 
 - BS, 2014, Nova Southeastern University, FL
 
