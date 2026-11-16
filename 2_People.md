@@ -124,6 +124,10 @@ I am interested in the functional interrogation of coronary artery disease-assoc
     
 
 ## Paul Paronich, BS    
+<div> 
+  <img src="{{ '/images/Paul_Paronich_48x36mm.jpg' | absolute_url }}" alt="Paul_Paronich" width="160">
+</div>
+
 ### Research Specialist
 <p>
   <a href="https://www.linkedin.com/in/paul-paronich-43098b314/" rel="nofollow noreferrer">
